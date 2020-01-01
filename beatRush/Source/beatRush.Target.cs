@@ -9,5 +9,12 @@ public class beatRushTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		ExtraModuleNames.Add("beatRush");
-	}
+
+        if (Target.Platform == UnrealTargetPlatform.Android)
+        {
+            ExtraModuleNames.Add("OnlineSubsystemGooglePlay");
+            ExtraModuleNames.Add("OnlineSubsystem");
+            ExtraModuleNames.Add("AndroidAdvertising");
+        }
+    }
 }
