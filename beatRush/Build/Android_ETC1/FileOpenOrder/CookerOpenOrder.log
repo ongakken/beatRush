@@ -157,26 +157,43 @@
 "../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 156
 "../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 157
 "../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 158
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Back.uasset" 159
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Back.uasset" 160
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Down.uasset" 161
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Down.uasset" 162
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Front.uasset" 163
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Front.uasset" 164
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Left.uasset" 165
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Left.uasset" 166
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Right.uasset" 167
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Right.uasset" 168
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Back.uasset" 169
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Down.uasset" 170
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Front.uasset" 171
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Left.uasset" 172
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Right.uasset" 173
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Up.uasset" 174
-"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.uasset" 175
-"D:/Unreal Projects/beatRush/beatRush/Content/Materials/roadCorner_emissive.uasset" 176
-"D:/Unreal Projects/beatRush/beatRush/Content/Materials/roadCorner_emissive_Inst.uasset" 177
-"../../../Engine/Content/BasicShapes/Cube.uasset" 178
-"D:/Unreal Projects/beatRush/beatRush/Content/Levels/gameplay.umap" 179
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 180
-"../../../Engine/Content/Maps/Entry.umap" 181
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/env/light.uasset" 159
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/env/red-emissive_inst.uasset" 160
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/env/cone2.uasset" 161
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/env/cone1.uasset" 162
+"D:/Unreal Projects/beatRush/beatRush/Content/BP/pointRegular_BP.uasset" 163
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/vessel/black-parts.uasset" 164
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/vessel/body.uasset" 165
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/vessel/Material.uasset" 166
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/vessel/Material_001.uasset" 167
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/vessel/ship_Cube.uasset" 168
+"D:/Unreal Projects/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" 169
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Back.uasset" 170
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Back.uasset" 171
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Down.uasset" 172
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Down.uasset" 173
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Front.uasset" 174
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Front.uasset" 175
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Left.uasset" 176
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Left.uasset" 177
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Textures/HD/Kaldar/Right.uasset" 178
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Materials/HD/Kaldar/Mat_HD_Kaldar_Right.uasset" 179
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Back.uasset" 180
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Down.uasset" 181
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Front.uasset" 182
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Left.uasset" 183
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Right.uasset" 184
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Meshes/HD/Up.uasset" 185
+"D:/Unreal Projects/beatRush/beatRush/Content/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.uasset" 186
+"D:/Unreal Projects/beatRush/beatRush/Content/WeatherEffects/Textures/T_Rain_Drops_Glass.uasset" 187
+"D:/Unreal Projects/beatRush/beatRush/Content/WeatherEffects/Textures/T_Rain_Streaks_Glass.uasset" 188
+"D:/Unreal Projects/beatRush/beatRush/Content/weathereffects/Materials/M_Rain_Glass.uasset" 189
+"D:/Unreal Projects/beatRush/beatRush/Content/Materials/roadCorner_emissive.uasset" 190
+"D:/Unreal Projects/beatRush/beatRush/Content/Materials/roadCorner_emissive_Inst.uasset" 191
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/env/light_Inst.uasset" 192
+"../../../Engine/Content/BasicShapes/Cube.uasset" 193
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/env/body.uasset" 194
+"D:/Unreal Projects/beatRush/beatRush/Content/Meshes/env/barrier_tower.uasset" 195
+"D:/Unreal Projects/beatRush/beatRush/Content/Levels/gameplay.umap" 196
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 197
+"../../../Engine/Content/Maps/Entry.umap" 198
