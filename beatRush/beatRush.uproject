@@ -126,11 +126,6 @@
 		{
 			"Name": "NetcodeUnitTest",
 			"Enabled": false
-		},
-		{
-			"Name": "EasyAds",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ada7fb755f4541a685b497b6de0d0163"
 		}
 	]
 }

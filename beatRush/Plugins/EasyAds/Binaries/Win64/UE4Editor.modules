@@ -1,0 +1,8 @@
+{
+	"BuildId": "5660361",
+	"Modules": 
+	{
+		"EasyAds": "UE4Editor-EasyAds.dll",
+		"EasyAdsEditor": "UE4Editor-EasyAdsEditor.dll"
+	}
+}

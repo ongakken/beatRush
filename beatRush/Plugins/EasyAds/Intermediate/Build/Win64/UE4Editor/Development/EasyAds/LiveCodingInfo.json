@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EasyAds.cpp.obj": [
+			"EasyAds.cpp.obj",
+			"EasyAdsLibrary.cpp.obj",
+			"PlayVideoProxy.cpp.obj",
+			"RcvEasyAdsDebugMessage.cpp.obj",
+			"ShowInterstitialProxy.cpp.obj",
+			"AdmobMediationWindows.cpp.obj"
+		],
+		"Module.EasyAds.gen.cpp.obj": [
+			"EasyAds.init.gen.cpp.obj",
+			"EasyAdsLibrary.gen.cpp.obj",
+			"PlayVideoProxy.gen.cpp.obj",
+			"RcvEasyAdsDebugMessage.gen.cpp.obj",
+			"ShowInterstitialProxy.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 6,
+	"VersionName": "1.6",
+	"FriendlyName": "EasyAds",
+	"Description": "/** EasyAds - unreal engine 4 ads plugin** Copyright (C) 2019 feixuwu <feixuwu@outlook.com> All Rights Reserved.*/",
+	"Category": "Other",
+	"CreatedBy": "feixuwu@outlook.com",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ada7fb755f4541a685b497b6de0d0163",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+  "Modules": [
+    {
+      "Name": "EasyAds",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+	  "WhitelistPlatforms":["Win64","Mac", "IOS","Android"]
+    },
+    {
+      "Name": "EasyAdsEditor",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

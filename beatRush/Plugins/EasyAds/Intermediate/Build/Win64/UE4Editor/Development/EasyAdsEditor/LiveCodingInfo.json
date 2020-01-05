@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EasyAdsEditor.cpp.obj": [
+			"AdmobSetting.cpp.obj",
+			"EasyAdsEditor.cpp.obj"
+		],
+		"Module.EasyAdsEditor.gen.cpp.obj": [
+			"AdmobSetting.gen.cpp.obj",
+			"EasyAdsEditor.init.gen.cpp.obj"
+		]
+	}
+}

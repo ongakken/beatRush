@@ -1,0 +1,111 @@
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UShowInterstitialProxy;
+#ifdef EASYADS_ShowInterstitialProxy_generated_h
+#error "ShowInterstitialProxy.generated.h already included, missing '#pragma once' in ShowInterstitialProxy.h"
+#endif
+#define EASYADS_ShowInterstitialProxy_generated_h
+
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execShowInterstitial) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(UShowInterstitialProxy**)Z_Param__Result=UShowInterstitialProxy::ShowInterstitial(); \
+		P_NATIVE_END; \
+	}
+
+
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execShowInterstitial) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(UShowInterstitialProxy**)Z_Param__Result=UShowInterstitialProxy::ShowInterstitial(); \
+		P_NATIVE_END; \
+	}
+
+
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUShowInterstitialProxy(); \
+	friend struct Z_Construct_UClass_UShowInterstitialProxy_Statics; \
+public: \
+	DECLARE_CLASS(UShowInterstitialProxy, UBlueprintAsyncActionBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/EasyAds"), NO_API) \
+	DECLARE_SERIALIZER(UShowInterstitialProxy)
+
+
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_INCLASS \
+private: \
+	static void StaticRegisterNativesUShowInterstitialProxy(); \
+	friend struct Z_Construct_UClass_UShowInterstitialProxy_Statics; \
+public: \
+	DECLARE_CLASS(UShowInterstitialProxy, UBlueprintAsyncActionBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/EasyAds"), NO_API) \
+	DECLARE_SERIALIZER(UShowInterstitialProxy)
+
+
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UShowInterstitialProxy(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UShowInterstitialProxy) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UShowInterstitialProxy); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UShowInterstitialProxy); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UShowInterstitialProxy(UShowInterstitialProxy&&); \
+	NO_API UShowInterstitialProxy(const UShowInterstitialProxy&); \
+public:
+
+
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UShowInterstitialProxy(UShowInterstitialProxy&&); \
+	NO_API UShowInterstitialProxy(const UShowInterstitialProxy&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UShowInterstitialProxy); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UShowInterstitialProxy); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UShowInterstitialProxy)
+
+
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_PRIVATE_PROPERTY_OFFSET
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_18_PROLOG
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_PRIVATE_PROPERTY_OFFSET \
+	beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_RPC_WRAPPERS \
+	beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_INCLASS \
+	beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_PRIVATE_PROPERTY_OFFSET \
+	beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_INCLASS_NO_PURE_DECLS \
+	beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h_21_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> EASYADS_API UClass* StaticClass<class UShowInterstitialProxy>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID beatRush_Plugins_EasyAds_Source_EasyAds_Public_ShowInterstitialProxy_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+    <init>
+        <log text="EasyAds add GADApplicationIdentifier to plist..."/>
+		<setStringFromProperty result="IOSAppId" ini="Engine" section="/Script/EasyAdsEditor.AdmobSetting" property="IOSAppId" default="0"/>
+		<dumpvars/>
+    </init>
+	
+	<iosPListUpdates>
+		<setElement result="AdmobKey" xml="&lt;key&gt;GADApplicationIdentifier&lt;/key&gt;"/>
+		<addElement tag="dict" name="AdmobKey"/>
+		
+		<setElement result="AdmobString" xml="&lt;string&gt;$S(IOSAppId)&lt;/string&gt;"/>
+		<addElement tag="dict" name="AdmobString"/>
+    
+	</iosPListUpdates>
+	
+</root>

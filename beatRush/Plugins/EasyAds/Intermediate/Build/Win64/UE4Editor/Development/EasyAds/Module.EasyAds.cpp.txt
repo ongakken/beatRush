@@ -1,0 +1,72 @@
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Private\EasyAds.cpp
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Private\EasyAdsLibrary.cpp
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Public\EasyAdsLibrary.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMacros.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/Script.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Stats/Stats.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\stats\StatsCommon.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectGlobals.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceRedirector.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/PrimaryAssetId.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObject.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectArray.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectMarks.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ResourceSize.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/FallbackStruct.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GarbageCollection.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNative.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakObjectPtr.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Templates/Greater.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/List.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintFunctionLibrary.generated.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Intermediate\Build\Win64\UE4Editor\Inc\EasyAds\EasyAdsLibrary.generated.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Private\PlayVideoProxy.cpp
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Public\PlayVideoProxy.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Intermediate\Build\Win64\UE4Editor\Inc\EasyAds\PlayVideoProxy.generated.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Private\RcvEasyAdsDebugMessage.cpp
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Public\RcvEasyAdsDebugMessage.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Intermediate\Build\Win64\UE4Editor\Inc\EasyAds\RcvEasyAdsDebugMessage.generated.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Private\ShowInterstitialProxy.cpp
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Public\ShowInterstitialProxy.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Intermediate\Build\Win64\UE4Editor\Inc\EasyAds\ShowInterstitialProxy.generated.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Plugins\EasyAds\Source\EasyAds\Private\Windows\AdmobMediationWindows.cpp
