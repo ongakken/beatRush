@@ -13095,3 +13095,1051 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.05-16.34.22:980][631]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
 [2020.01.05-16.34.23:067][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/pointRegular_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/pointRegular_BP.uasset" SILENT=true
 [2020.01.05-16.34.23:123][631]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/pointRegular_BPAB3DD2704C4FAF40F10E37AAF1069D9E.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/pointRegular_BP.uasset'
+[2020.01.05-16.36.15:429][438]LogSlate: Window 'playerCharacter_BP' being destroyed
+[2020.01.05-16.36.15:442][438]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.05-16.36.17:373][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-16.36.24:029][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.05-16.36.24:109][907]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.01.05-16.36.24:457][907]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplayADFAC0F5472EE8D250D7CDBD79C3E071.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.05-16.36.24:514][907]LogFileHelpers: Saving map 'gameplay' took 0.485
+[2020.01.05-16.36.59:943][306]LogEditorViewport: Clicking on Actor (LMB): playerCharacter_BP_C (playerCharacter_BP)
+[2020.01.05-16.37.01:149][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-16.37.01:288][362]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.01.05-16.37.05:110][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-16.37.06:745][542]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/pointRegular_BP.pointRegular_BP
+[2020.01.05-16.37.10:928][638]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave access...
+[2020.01.05-16.37.11:002][638]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 352800 while cooking SoundWave /Game/audio/SFX/sfx2/sfx2/access.access.
+[2020.01.05-16.37.12:735][688]BlueprintLog: New page: Compile pointRegular_BP
+[2020.01.05-16.37.13:044][688]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.01.05-16.37.13:119][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/pointRegular_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/pointRegular_BP.uasset" SILENT=true
+[2020.01.05-16.37.13:161][688]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/pointRegular_BPD61F8F5148DED4F5AC1683AE39145699.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/pointRegular_BP.uasset'
+[2020.01.05-16.37.16:067][804]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-16.37.16:123][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.05-16.37.16:123][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-16.37.16:123][804]PIE: New page: PIE session: gameplay (Jan 5, 2020, 6:37:16 PM)
+[2020.01.05-16.37.16:124][804]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.05-16.37.16:138][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014434s)
+[2020.01.05-16.37.16:139][804]LogAIModule: Creating AISystem for world gameplay
+[2020.01.05-16.37.16:140][804]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2020.01.05-16.37.16:140][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.016073s)
+[2020.01.05-16.37.16:187][804]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.01.05-16.37.16:221][804]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.05-16.37.16:240][804]LogInit: FAudioDevice initialized.
+[2020.01.05-16.37.16:276][804]LogLoad: Game class is 'beatRushGameMode'
+[2020.01.05-16.37.16:284][804]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.05-17.37.16
+[2020.01.05-16.37.16:285][804]LogWorld: Bringing up level for play took: 0.007492
+[2020.01.05-16.37.16:287][804]LogAdvertising: Warning: GetAdvertisingProvider called with a module name of None.
+[2020.01.05-16.37.16:287][804]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay 0.084
+[2020.01.05-16.37.16:287][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.05-16.37.16:288][804]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:347][805]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:362][806]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:379][807]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:397][808]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:413][809]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:432][810]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:450][811]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:467][812]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:485][813]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:503][814]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:520][815]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:536][816]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:553][817]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:570][818]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:589][819]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:607][820]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:626][821]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:643][822]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:660][823]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:677][824]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:694][825]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:712][826]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:727][827]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:744][828]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:761][829]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:777][830]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:794][831]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:811][832]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:828][833]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:845][834]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:862][835]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:879][836]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:895][837]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:913][838]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:929][839]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:946][840]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:963][841]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:979][842]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.16:997][843]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:014][844]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:033][845]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:049][846]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:067][847]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:082][848]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:099][849]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:116][850]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:132][851]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:149][852]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:165][853]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:182][854]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:199][855]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:215][856]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:232][857]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:249][858]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:266][859]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:282][860]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:299][861]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:316][862]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:333][863]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:350][864]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:366][865]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:383][866]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:400][867]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:416][868]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:433][869]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:449][870]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:466][871]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:482][872]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:499][873]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:515][874]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:532][875]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:549][876]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:566][877]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:582][878]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:599][879]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:616][880]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:633][881]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:649][882]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:666][883]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:683][884]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:700][885]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:716][886]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:733][887]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:749][888]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:767][889]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:783][890]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:800][891]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:817][892]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:833][893]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:849][894]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:866][895]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:883][896]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:899][897]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:917][898]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:933][899]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:950][900]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:967][901]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.17:984][902]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:001][903]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:019][904]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:034][905]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:052][906]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:068][907]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:085][908]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:101][909]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:119][910]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:134][911]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:153][912]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:168][913]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:186][914]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:201][915]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:217][916]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:235][917]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:250][918]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:268][919]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:284][920]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:301][921]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:318][922]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:336][923]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:351][924]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:369][925]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:384][926]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:402][927]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:418][928]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:435][929]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:451][930]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:469][931]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:484][932]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:502][933]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:518][934]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:535][935]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:551][936]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:569][937]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:585][938]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:602][939]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:617][940]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:635][941]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:650][942]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:669][943]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:684][944]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:702][945]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:718][946]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:737][947]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:755][948]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:773][949]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:791][950]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:809][951]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:826][952]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:845][953]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:859][954]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:876][955]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:893][956]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:911][957]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:926][958]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:944][959]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:962][960]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:979][961]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.18:998][962]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:015][963]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:035][964]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:053][965]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:071][966]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:089][967]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:106][968]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:124][969]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:141][970]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:161][971]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:174][972]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:192][973]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:210][974]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:230][975]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:245][976]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:261][977]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:279][978]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:296][979]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:312][980]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:329][981]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:346][982]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:364][983]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:379][984]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:396][985]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:413][986]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:430][987]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:447][988]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:464][989]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:480][990]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:497][991]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:513][992]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:530][993]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:547][994]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:563][995]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:579][996]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:597][997]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:613][998]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:630][999]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:646][  0]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:663][  1]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:680][  2]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:697][  3]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:714][  4]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:732][  5]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:749][  6]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:765][  7]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:781][  8]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:798][  9]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:815][ 10]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:833][ 11]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:848][ 12]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:865][ 13]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:883][ 14]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:898][ 15]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:914][ 16]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:931][ 17]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:948][ 18]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:966][ 19]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:982][ 20]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.19:998][ 21]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:014][ 22]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:031][ 23]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:048][ 24]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:064][ 25]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:082][ 26]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:098][ 27]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:114][ 28]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:132][ 29]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:148][ 30]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:166][ 31]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:182][ 32]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:199][ 33]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:215][ 34]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:233][ 35]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:249][ 36]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:265][ 37]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:282][ 38]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:299][ 39]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:314][ 40]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:333][ 41]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:349][ 42]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:365][ 43]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:383][ 44]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:399][ 45]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:420][ 46]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:434][ 47]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:453][ 48]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:468][ 49]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:486][ 50]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:503][ 51]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:521][ 52]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:537][ 53]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:555][ 54]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:571][ 55]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:587][ 56]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:605][ 57]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:621][ 58]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:639][ 59]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:657][ 60]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:675][ 61]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:691][ 62]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:709][ 63]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:725][ 64]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:743][ 65]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:758][ 66]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:777][ 67]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:791][ 68]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:808][ 69]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:824][ 70]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:841][ 71]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:859][ 72]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:876][ 73]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:892][ 74]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:909][ 75]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:924][ 76]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:941][ 77]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:958][ 78]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:975][ 79]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.20:991][ 80]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:007][ 81]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:024][ 82]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:043][ 83]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:058][ 84]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:075][ 85]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:091][ 86]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:109][ 87]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:125][ 88]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:143][ 89]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:159][ 90]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:176][ 91]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:193][ 92]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:210][ 93]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:225][ 94]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:243][ 95]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:259][ 96]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:275][ 97]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:292][ 98]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:309][ 99]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:325][100]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:343][101]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:360][102]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:375][103]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:391][104]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:409][105]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:426][106]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:443][107]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:459][108]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:475][109]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:492][110]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:508][111]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:525][112]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:542][113]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:558][114]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:575][115]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:592][116]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:610][117]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:625][118]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:641][119]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:658][120]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:674][121]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:691][122]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:708][123]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:725][124]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:743][125]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:760][126]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:776][127]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:793][128]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:811][129]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:828][130]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:844][131]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:861][132]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:876][133]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:894][134]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:911][135]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:928][136]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:945][137]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:961][138]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:978][139]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.21:994][140]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:009][141]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:026][142]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:043][143]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:059][144]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:076][145]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:093][146]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:110][147]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:127][148]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:143][149]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:160][150]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:177][151]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:193][152]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:210][153]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:227][154]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:243][155]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:259][156]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:276][157]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:292][158]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:309][159]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:326][160]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:343][161]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:360][162]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:376][163]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:393][164]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:410][165]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:427][166]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:443][167]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:459][168]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:477][169]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:493][170]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:511][171]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:527][172]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:543][173]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:560][174]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:576][175]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:593][176]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:609][177]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:626][178]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:643][179]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:659][180]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:676][181]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:693][182]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:709][183]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:727][184]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:743][185]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:760][186]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:777][187]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:793][188]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:809][189]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:827][190]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:843][191]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:860][192]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:877][193]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:893][194]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:910][195]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:926][196]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:943][197]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:959][198]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:976][199]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.22:993][200]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:010][201]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:027][202]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:043][203]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:059][204]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:078][205]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:094][206]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:110][207]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:127][208]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:143][209]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:164][210]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:181][211]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:198][212]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:220][213]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:236][214]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:254][215]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:270][216]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:287][217]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:302][218]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:319][219]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:335][220]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:352][221]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:369][222]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:385][223]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:402][224]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:418][225]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:435][226]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:452][227]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:470][228]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:486][229]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:505][230]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:521][231]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:538][232]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:554][233]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:569][234]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:588][235]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:605][236]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:622][237]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:638][238]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:653][239]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:672][240]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:686][241]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:703][242]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:721][243]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:738][244]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:754][245]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:771][246]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:787][247]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:803][248]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:820][249]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:836][250]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:854][251]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:870][252]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:887][253]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:904][254]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:921][255]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:938][256]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:955][257]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:972][258]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.23:989][259]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:005][260]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:022][261]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:038][262]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:054][263]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:071][264]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:087][265]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:104][266]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:121][267]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:138][268]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:154][269]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:172][270]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:189][271]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:205][272]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:222][273]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:238][274]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:255][275]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:272][276]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:290][277]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:305][278]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:370][279]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:379][280]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:398][281]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:413][282]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:430][283]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:446][284]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:464][285]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:480][286]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:497][287]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:514][288]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:536][289]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:557][290]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:572][291]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:592][292]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:608][293]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:624][294]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:640][295]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:658][296]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:675][297]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:692][298]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:708][299]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:726][300]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:742][301]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:759][302]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:776][303]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:792][304]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:808][305]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:825][306]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:842][307]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:859][308]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:876][309]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:892][310]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:908][311]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:925][312]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:942][313]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:958][314]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:975][315]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.24:991][316]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:008][317]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:025][318]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:041][319]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:058][320]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:075][321]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:091][322]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:108][323]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:125][324]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:141][325]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:158][326]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:175][327]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:192][328]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:209][329]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:225][330]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:242][331]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:258][332]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:276][333]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:292][334]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:310][335]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:327][336]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:344][337]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:360][338]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:377][339]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:393][340]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:410][341]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:426][342]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:445][343]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:462][344]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:478][345]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:495][346]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:511][347]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:529][348]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:545][349]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:562][350]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:578][351]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:595][352]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:612][353]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:629][354]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:645][355]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:662][356]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:679][357]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:696][358]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:714][359]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:731][360]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:748][361]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:766][362]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:781][363]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:797][364]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:818][365]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:833][366]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:850][367]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:868][368]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:884][369]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:904][370]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:919][371]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:935][372]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:954][373]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:970][374]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.25:988][375]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:004][376]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:021][377]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:038][378]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:054][379]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:070][380]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:087][381]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:103][382]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:119][383]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:136][384]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:153][385]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:168][386]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:185][387]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:202][388]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:219][389]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:237][390]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:253][391]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:269][392]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:286][393]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:303][394]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:319][395]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:336][396]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:352][397]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:369][398]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:386][399]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:402][400]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:419][401]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:436][402]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:452][403]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:469][404]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:485][405]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:502][406]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:519][407]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:536][408]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:553][409]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:570][410]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:586][411]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:603][412]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:620][413]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:636][414]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:653][415]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:669][416]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:685][417]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:702][418]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:720][419]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:736][420]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:752][421]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:769][422]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:786][423]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:802][424]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:819][425]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:836][426]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:854][427]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:870][428]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:886][429]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:902][430]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:919][431]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:936][432]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:953][433]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:970][434]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.26:986][435]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:004][436]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:021][437]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:038][438]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:055][439]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:070][440]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:087][441]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:103][442]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:119][443]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:138][444]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:154][445]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:170][446]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:187][447]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:204][448]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:220][449]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:236][450]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:252][451]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:269][452]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:286][453]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:304][454]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:320][455]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:336][456]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:353][457]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:369][458]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:386][459]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:403][460]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:420][461]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:435][462]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:452][463]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:469][464]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:485][465]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:502][466]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:519][467]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:535][468]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:552][469]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:569][470]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:586][471]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:602][472]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:619][473]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:636][474]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:653][475]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:669][476]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:686][477]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:702][478]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:720][479]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:736][480]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:752][481]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:769][482]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:786][483]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:802][484]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:820][485]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:837][486]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:853][487]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:869][488]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:886][489]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:904][490]LogBlueprintUserMessages: [playerCharacter_BP_2] 0.0
+[2020.01.05-16.37.27:905][490]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.05-16.37.27:905][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-16.37.27:952][490]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.05-16.37.27:995][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-16.37.28:000][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.01.05-16.37.28:658][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-16.37.30:766][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.05-16.37.30:802][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.05-16.37.30:849][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.01.05-16.37.31:215][577]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay9E47810241B13011904FE28084377CAC.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.05-16.37.31:275][577]LogFileHelpers: Saving map 'gameplay' took 0.473
+[2020.01.05-17.43.39:761][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.01.05-17.43.40:387][ 53]LogSlate: Window 'Tutorials' being destroyed
+[2020.01.05-17.45.26:115][816]LogSlate: Window 'pointRegular_BP' being destroyed
+[2020.01.05-17.45.26:120][816]LogSlate: Window 'pointRegular_BP' being destroyed
+[2020.01.05-17.45.26:241][816]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.05-17.45.27:323][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.05-17.45.27:430][870]LogSlate: Window 'beatRush - Unreal Editor' being destroyed
+[2020.01.05-17.45.27:431][870]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.05-17.45.27:781][871]Cmd: QUIT_EDITOR
+[2020.01.05-17.45.28:427][871]LogExit: Preparing to exit.
+[2020.01.05-17.45.29:113][871]LogExit: Editor shut down
+[2020.01.05-17.45.29:113][871]LogExit: Transaction tracking system shut down
+[2020.01.05-17.45.29:334][871]LogExit: Object subsystem successfully closed.
+[2020.01.05-17.45.29:357][871]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.05-17.45.29:361][871]LogD3D11RHI: Shutdown
+[2020.01.05-17.45.29:361][871]LogD3D11RHI: CleanupD3DDevice
+[2020.01.05-17.45.29:362][871]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.05-17.45.29:362][871]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.05-17.45.29:362][871]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.05-17.45.29:362][871]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.05-17.45.29:362][871]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.05-17.45.29:362][871]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.05-17.45.29:516][871]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (577)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module Advertising (575)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (573)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module BlueprintGraph (571)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (569)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module SceneOutliner (567)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module AddContentDialog (565)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module WidgetCarousel (564)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module EditorWidgets (561)
+[2020.01.05-17.45.29:538][871]LogModuleManager: Shutting down and abandoning module CollectionManager (559)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module StatsViewer (557)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module FoliageEdit (555)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module LandscapeEditor (553)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module MeshPaintMode (551)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (549)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module ActorPickerMode (547)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module GeometryMode (545)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module TextureAlignMode (543)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module BspMode (541)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (539)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (537)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module AutomationWorker (535)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (533)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (531)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module PlacementMode (530)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module MaterialEditor (529)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (525)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (523)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (521)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module SequenceRecorder (520)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (517)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (515)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (513)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (511)
+[2020.01.05-17.45.29:539][871]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (509)
+[2020.01.05-17.45.29:540][871]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (507)
+[2020.01.05-17.45.29:540][871]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (505)
+[2020.01.05-17.45.29:540][871]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (503)
+[2020.01.05-17.45.29:540][871]LogModuleManager: Shutting down and abandoning module Media (502)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (499)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module CharacterAI (497)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module SmartSnapping (495)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module SessionServices (493)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module MeshPaint (491)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module ViewportSnapping (489)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module ViewportInteraction (487)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module ClothPainter (485)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (484)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module LogVisualizer (481)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module IntroTutorials (479)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (478)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (475)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (473)
+[2020.01.05-17.45.29:547][871]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (471)
+[2020.01.05-17.45.29:548][871]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (469)
+[2020.01.05-17.45.29:548][871]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (468)
+[2020.01.05-17.45.29:928][871]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (465)
+[2020.01.05-17.45.29:928][871]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (463)
+[2020.01.05-17.45.29:928][871]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (461)
+[2020.01.05-17.45.29:928][871]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (459)
+[2020.01.05-17.45.29:928][871]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (457)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module InputBindingEditor (455)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module MergeActors (453)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (451)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module LocalizationService (450)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module HardwareTargeting (447)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (445)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module UndoHistory (443)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module XmlParser (441)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module Blutility (439)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (437)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (436)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (433)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module SettingsEditor (431)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module ProjectLauncher (429)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module SessionFrontend (427)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module ProfilerClient (425)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module DeviceManager (423)
+[2020.01.05-17.45.29:929][871]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (422)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module AutomationController (419)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module AutomationWindow (417)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module Layers (415)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (413)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module DetailCustomizations (411)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module PackagesDialog (409)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (407)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module Persona (405)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (404)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module AnimGraph (402)
+[2020.01.05-17.45.29:973][871]LogModuleManager: Shutting down and abandoning module Kismet (399)
+[2020.01.05-17.45.29:978][871]LogModuleManager: Shutting down and abandoning module GraphEditor (397)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module ClassViewer (395)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module Toolbox (393)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module DesktopPlatform (392)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module ModuleUI (389)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module MovieSceneTools (387)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module OutputLog (383)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module GammaUI (381)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module Documentation (379)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module LiveCoding (377)
+[2020.01.05-17.45.29:979][871]LogModuleManager: Shutting down and abandoning module LevelSequence (375)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (373)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module MovieScene (371)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (369)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module LauncherPlatform (367)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module AnalyticsET (365)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module PortalServices (363)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module PortalRpc (361)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module MessagingRpc (359)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module AIModule (357)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module GameplayDebugger (356)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module AITestSuite (354)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module NavigationSystem (352)
+[2020.01.05-17.45.29:980][871]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (349)
+[2020.01.05-17.45.29:984][871]LogModuleManager: Shutting down and abandoning module ProfilerService (347)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module TaskGraph (345)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (343)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (341)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (339)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module EditableMesh (337)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (335)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module CableComponent (333)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module AndroidPermission (331)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module MediaCompositing (327)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module LinearTimecode (325)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module ImgMedia (323)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (321)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (319)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (317)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (315)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module GeometryCache (313)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (311)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (309)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (307)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module PluginBrowser (305)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (303)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (301)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (299)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module CryptoKeys (297)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (295)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (293)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (291)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (289)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (287)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (285)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (283)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (281)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (279)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module Paper2DEditor (277)
+[2020.01.05-17.45.30:136][871]LogModuleManager: Shutting down and abandoning module beatRush (275)
+[2020.01.05-17.45.30:137][871]LogModuleManager: Shutting down and abandoning module SignificanceManager (273)
+[2020.01.05-17.45.30:137][871]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (271)
+[2020.01.05-17.45.30:137][871]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (269)
+[2020.01.05-17.45.30:137][871]LogModuleManager: Shutting down and abandoning module ActorSequence (267)
+[2020.01.05-17.45.30:137][871]LogModuleManager: Shutting down and abandoning module UdpMessaging (265)
+[2020.01.05-17.45.30:239][871]LogModuleManager: Shutting down and abandoning module TcpMessaging (263)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (261)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (259)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (257)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (255)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module MagicLeapController (253)
+[2020.01.05-17.45.30:339][871]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module MagicLeapAR (251)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module AugmentedReality (250)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (247)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (245)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module FacialAnimation (243)
+[2020.01.05-17.45.30:339][871]LogModuleManager: Shutting down and abandoning module DataValidation (241)
+[2020.01.05-17.45.30:340][871]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (239)
+[2020.01.05-17.45.30:340][871]LogModuleManager: Shutting down and abandoning module LevelEditor (238)
+[2020.01.05-17.45.30:341][871]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (237)
+[2020.01.05-17.45.30:341][871]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (235)
+[2020.01.05-17.45.30:341][871]LogModuleManager: Shutting down and abandoning module MainFrame (233)
+[2020.01.05-17.45.30:341][871]LogModuleManager: Shutting down and abandoning module HotReload (232)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module ContentBrowser (228)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module TreeMap (226)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module AnimationSharing (223)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (221)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module Paper2D (219)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module PacketHandler (217)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (215)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (213)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module MediaAssets (211)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module Overlay (209)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module OverlayEditor (208)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module VREditor (205)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module StringTableEditor (203)
+[2020.01.05-17.45.30:342][871]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (201)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (199)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module FunctionalTesting (197)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (195)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (194)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module UMG (191)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module UMGEditor (190)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module Sequencer (189)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module MessageLog (186)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module SlateReflector (181)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module Slate (179)
+[2020.01.05-17.45.30:343][871]LogModuleManager: Shutting down and abandoning module EditorStyle (177)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module UnrealEd (175)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module MRMesh (173)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (171)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (169)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module XAudio2 (167)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module Networking (165)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module Core (163)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module KismetCompiler (161)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module MeshUtilities (159)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (158)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (157)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (156)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (154)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (152)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module MaterialBaking (148)
+[2020.01.05-17.45.30:344][871]LogModuleManager: Shutting down and abandoning module DerivedDataCache (143)
+[2020.01.05-17.45.30:435][871]LogDerivedDataCache: Shutdown
+[2020.01.05-17.45.30:435][871]LogModuleManager: Shutting down and abandoning module XGEController (141)
+[2020.01.05-17.45.30:436][871]LogXGEController: Cleaning working directory: C:/Users/smdex/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module TargetPlatform (139)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (138)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (136)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (134)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (132)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (130)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (128)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (126)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (124)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (122)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (120)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module ImageWrapper (119)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (116)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (114)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (112)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (110)
+[2020.01.05-17.45.30:436][871]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (108)
+[2020.01.05-17.45.30:437][871]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (106)
+[2020.01.05-17.45.30:437][871]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (104)
+[2020.01.05-17.45.30:437][871]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (102)
+[2020.01.05-17.45.30:437][871]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (100)
+[2020.01.05-17.45.30:437][871]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (98)
+[2020.01.05-17.45.30:438][871]LogModuleManager: Shutting down and abandoning module Messaging (94)
+[2020.01.05-17.45.30:438][871]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (92)
+[2020.01.05-17.45.30:439][871]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (90)
+[2020.01.05-17.45.30:439][871]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (88)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (86)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (84)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (82)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (80)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (78)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (76)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (74)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (72)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (70)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module InputCore (67)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module Settings (65)
+[2020.01.05-17.45.30:444][871]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (63)
+[2020.01.05-17.45.30:445][871]LogModuleManager: Shutting down and abandoning module PhysXCooking (61)
+[2020.01.05-17.45.30:445][871]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (59)
+[2020.01.05-17.45.30:445][871]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (57)
+[2020.01.05-17.45.30:445][871]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (55)
+[2020.01.05-17.45.30:445][871]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (51)
+[2020.01.05-17.45.30:445][871]LogOnline: Google: Google Shutdown!
+[2020.01.05-17.45.30:445][871]LogModuleManager: Shutting down and abandoning module XMPP (49)
+[2020.01.05-17.45.30:445][871]LogModuleManager: Shutting down and abandoning module WebSockets (48)
+[2020.01.05-17.45.30:475][871]LogModuleManager: Shutting down and abandoning module HTTP (45)
+[2020.01.05-17.45.30:475][871]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.05-17.45.30:475][871]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B687F67C3-45CA-A024-EB78-61A508560F85%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=8f2e55df4b4f9eb809a9ff8839c90ea6%7Cf1c526514f664455ab69f3c909a19601%7C1f2ffaa8-ee1c-425e-a7bf-96510a6d1af8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.05-17.45.30:504][871]LogModuleManager: Shutting down and abandoning module SSL (44)
+[2020.01.05-17.45.30:505][871]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.01.05-17.45.30:505][871]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.05-17.45.30:505][871]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.05-17.45.30:505][871]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.05-17.45.30:505][871]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.05-17.45.30:505][871]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.05-17.45.30:505][871]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.05-17.45.30:505][871]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.05-17.45.30:506][871]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.05-17.45.30:514][871]LogExit: Exiting.
+[2020.01.05-17.45.30:524][871]Log file closed, 01/05/20 18:45:30
