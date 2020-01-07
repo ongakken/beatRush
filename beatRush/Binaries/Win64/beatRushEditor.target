@@ -36,19 +36,19 @@
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/EasyAds/Binaries/Win64/UE4Editor-EasyAds.dll",
+			"Path": "$(EngineDir)/Plugins/Marketplace/EasyAdsPlugin/Binaries/Win64/UE4Editor-EasyAds.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/EasyAds/Binaries/Win64/UE4Editor-EasyAds.pdb",
+			"Path": "$(EngineDir)/Plugins/Marketplace/EasyAdsPlugin/Binaries/Win64/UE4Editor-EasyAds.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/EasyAds/Binaries/Win64/UE4Editor-EasyAdsEditor.dll",
+			"Path": "$(EngineDir)/Plugins/Marketplace/EasyAdsPlugin/Binaries/Win64/UE4Editor-EasyAdsEditor.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/EasyAds/Binaries/Win64/UE4Editor-EasyAdsEditor.pdb",
+			"Path": "$(EngineDir)/Plugins/Marketplace/EasyAdsPlugin/Binaries/Win64/UE4Editor-EasyAdsEditor.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -1724,7 +1724,7 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/EasyAds/Binaries/Win64/UE4Editor.modules",
+			"Path": "$(EngineDir)/Plugins/Marketplace/EasyAdsPlugin/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -1930,6 +1930,10 @@
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/Lumin/UE4Editor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/Android/OnlineSubsystemGooglePlay/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -1946,7 +1950,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/EasyAds/EasyAds.uplugin",
+			"Path": "$(EngineDir)/Plugins/Marketplace/EasyAdsPlugin/EasyAds.uplugin",
 			"Type": "UFS"
 		},
 		{
