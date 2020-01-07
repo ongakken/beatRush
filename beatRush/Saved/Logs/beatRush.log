@@ -733,3 +733,651 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.07-12.45.26:237][ 15]LogContentBrowser: Native class hierarchy populated in 0.0236 seconds. Added 2627 classes and 590 folders.
 [2020.01.07-12.45.26:241][ 15]Display: HotReload took  0.2s.
 [2020.01.07-12.48.42:686][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-12.52.56:275][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-16.49.39:672][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-16.49.45:115][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-16.49.45:210][ 41]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.01.07-16.49.45:689][ 41]LogWorld: Changing Feature Level (Enum) from 3 to 0
+[2020.01.07-16.51.26:473][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.01.07-16.51.26:497][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-16.51.26:620][ 54]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP63B8CAB74AC37D09678833A07E1D7337.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-16.52.49:997][ 86]LogSlate: Window 'Delete Variable' being destroyed
+[2020.01.07-16.53.07:774][699]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-16.53.08:185][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.01.07-16.53.08:238][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-16.53.08:341][699]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP5CFFA0AC4F6E0277AB2AEEB3AD64D839.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-16.53.08:917][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-16.53.09:047][711]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPA8422D1C463BAAAF468262B81B810401.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-16.53.28:268][417]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-16.53.28:613][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.01.07-16.53.28:665][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-16.53.28:776][417]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPF7CC53B742AFCFBB4ED20C95BDFD7C8B.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-16.53.28:954][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-16.53.29:062][418]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP8590AAAC4CB6CF7CB026B58917DC7354.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-16.53.29:711][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.01.07-16.53.29:734][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-16.53.29:768][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.01.07-16.53.30:080][438]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay0B5FB282408FC2CAF97C8A9FE60542A4.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-16.53.30:144][438]LogFileHelpers: Saving map 'gameplay' took 0.411
+[2020.01.07-16.54.03:486][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-16.54.03:486][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-16.54.03:487][849]PIE: New page: PIE session: gameplay (Jan 7, 2020, 6:54:03 PM)
+[2020.01.07-16.54.03:502][849]LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemNULL'  - 0 instances of that module name found.
+[2020.01.07-16.54.03:502][849]LogOnline: OSS: Failed to load any Online Subsystem Modules
+[2020.01.07-16.54.03:502][849]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-16.54.03:516][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012977s)
+[2020.01.07-16.54.03:516][849]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-16.54.03:516][849]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2020.01.07-16.54.03:516][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.014007s)
+[2020.01.07-16.54.03:551][849]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.01.07-16.54.03:570][849]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-16.54.03:580][849]LogInit: FAudioDevice initialized.
+[2020.01.07-16.54.03:619][849]LogLinker: Warning: Can't find file '/Script/beatRush'
+[2020.01.07-16.54.03:619][849]LogLinker: Warning: Can't find file '/Script/beatRush'
+[2020.01.07-16.54.03:619][849]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/beatRush.beatRushGameMode'
+[2020.01.07-16.54.03:619][849]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-16.54.03:625][849]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-17.54.03
+[2020.01.07-16.54.03:625][849]LogWorld: Bringing up level for play took: 0.004549
+[2020.01.07-16.54.03:632][849]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.01.07-16.54.03:633][849]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.01.07-16.54.03:634][849]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay -0.068
+[2020.01.07-16.54.03:634][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-16.54.08:170][ 95]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-16.54.08:170][ 95]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-16.54.09:855][196]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-16.54.09:855][196]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-16.54.13:164][391]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-16.54.15:990][559]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-16.54.15:990][559]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-16.54.18:177][690]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-16.54.20:160][809]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-16.54.20:160][809]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-16.54.23:192][990]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-16.54.25:248][113]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-16.54.25:248][113]LogBlueprintUserMessages: [playerCharacter_BP_2] 5
+[2020.01.07-16.54.25:265][114]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-16.54.25:265][114]LogBlueprintUserMessages: [playerCharacter_BP_2] 6
+[2020.01.07-16.54.25:281][115]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-16.54.25:281][115]LogBlueprintUserMessages: [playerCharacter_BP_2] 7
+[2020.01.07-16.54.27:265][234]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-16.54.27:266][234]LogBlueprintUserMessages: [playerCharacter_BP_2] 8
+[2020.01.07-16.54.28:204][290]LogBlueprintUserMessages: [playerCharacter_BP_2] 8
+[2020.01.07-16.54.29:137][346]LogBlueprintUserMessages: [playerCharacter_BP_2] 5
+[2020.01.07-16.54.29:137][346]LogBlueprintUserMessages: [playerCharacter_BP_2] 9
+[2020.01.07-16.54.33:204][590]LogBlueprintUserMessages: [playerCharacter_BP_2] 9
+[2020.01.07-16.54.35:204][710]LogBlueprintUserMessages: [playerCharacter_BP_2] 6
+[2020.01.07-16.54.35:204][710]LogBlueprintUserMessages: [playerCharacter_BP_2] 10
+[2020.01.07-16.54.38:205][890]LogBlueprintUserMessages: [playerCharacter_BP_2] 10
+[2020.01.07-16.54.38:624][915]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-16.54.38:625][915]LogBlueprintUserMessages: [playerCharacter_BP_2] 11
+[2020.01.07-16.54.42:009][118]LogBlueprintUserMessages: [playerCharacter_BP_2] 7
+[2020.01.07-16.54.42:009][118]LogBlueprintUserMessages: [playerCharacter_BP_2] 12
+[2020.01.07-16.54.43:209][190]LogBlueprintUserMessages: [playerCharacter_BP_2] 12
+[2020.01.07-16.54.47:578][452]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-16.54.47:579][452]LogBlueprintUserMessages: [playerCharacter_BP_2] 13
+[2020.01.07-16.54.48:212][490]LogBlueprintUserMessages: [playerCharacter_BP_2] 13
+[2020.01.07-16.54.51:346][678]LogBlueprintUserMessages: [playerCharacter_BP_2] 8
+[2020.01.07-16.54.51:346][678]LogBlueprintUserMessages: [playerCharacter_BP_2] 14
+[2020.01.07-16.54.53:212][790]LogBlueprintUserMessages: [playerCharacter_BP_2] 14
+[2020.01.07-16.54.53:413][802]LogBlueprintUserMessages: [playerCharacter_BP_2] 9
+[2020.01.07-16.54.53:413][802]LogBlueprintUserMessages: [playerCharacter_BP_2] 15
+[2020.01.07-16.54.57:079][ 22]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-16.54.57:079][ 22]LogBlueprintUserMessages: [playerCharacter_BP_2] 16
+[2020.01.07-16.54.58:214][ 90]LogBlueprintUserMessages: [playerCharacter_BP_2] 16
+[2020.01.07-16.55.00:917][252]LogBlueprintUserMessages: [playerCharacter_BP_2] 10
+[2020.01.07-16.55.00:917][252]LogBlueprintUserMessages: [playerCharacter_BP_2] 17
+[2020.01.07-16.55.03:207][389]LogBlueprintUserMessages: [playerCharacter_BP_2] 5
+[2020.01.07-16.55.03:207][389]LogBlueprintUserMessages: [playerCharacter_BP_2] 18
+[2020.01.07-16.55.03:224][390]LogBlueprintUserMessages: [playerCharacter_BP_2] 18
+[2020.01.07-16.55.07:019][614]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-16.55.07:019][614]LogBlueprintUserMessages: [playerCharacter_BP_2] 19
+[2020.01.07-16.55.08:236][687]LogBlueprintUserMessages: [playerCharacter_BP_2] 19
+[2020.01.07-16.55.10:536][825]LogBlueprintUserMessages: [playerCharacter_BP_2] 6
+[2020.01.07-16.55.10:536][825]LogBlueprintUserMessages: [playerCharacter_BP_2] 20
+[2020.01.07-16.55.13:074][977]LogBlueprintUserMessages: [playerCharacter_BP_2] 5
+[2020.01.07-16.55.13:074][977]LogBlueprintUserMessages: [playerCharacter_BP_2] 21
+[2020.01.07-16.55.13:239][987]LogBlueprintUserMessages: [playerCharacter_BP_2] 21
+[2020.01.07-16.55.17:826][256]LogBlueprintUserMessages: [playerCharacter_BP_2] 11
+[2020.01.07-16.55.17:826][256]LogBlueprintUserMessages: [playerCharacter_BP_2] 22
+[2020.01.07-16.55.18:243][281]LogBlueprintUserMessages: [playerCharacter_BP_2] 22
+[2020.01.07-16.55.21:336][466]LogBlueprintUserMessages: [playerCharacter_BP_2] 6
+[2020.01.07-16.55.21:337][466]LogBlueprintUserMessages: [playerCharacter_BP_2] 23
+[2020.01.07-16.55.23:122][573]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-16.55.23:122][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-16.55.23:160][573]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-16.55.23:206][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-16.55.23:219][573]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.01.07-17.00.46:252][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-17.01.40:119][613]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/main_menu.main_menu
+[2020.01.07-17.01.40:584][613]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.01.07-17.05.43:421][716]BlueprintLog: New page: Compile main_menu
+[2020.01.07-17.05.43:707][716]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.01.07-17.05.43:743][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.05.43:766][716]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menuA7DB50D346ED912254DB449CEC228884.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.05.44:083][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.05.44:123][728]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu850D9338457F4989E777D8B6E183391D.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.06.48:787][172]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.06.49:122][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.01.07-17.06.49:200][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.06.49:329][172]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP292C4B7340DD6C5E3A9122BA865CFCBB.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.06.57:499][456]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.06.57:824][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.01.07-17.06.57:895][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.06.58:000][456]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPCA8230A1424E6055776389948EDA9F0F.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.06.58:312][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.06.58:407][462]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP478F5D9845A1E153D9DDA097CE54F409.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.08.08:683][191]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.08.09:035][191]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.01.07-17.08.09:110][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.08.09:221][191]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPAE403BAB41339E98170608B1B894C1E7.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.08.09:720][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.08.09:828][204]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP77AC0DDF478FD837732A24A30FADED17.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.08.58:140][538]BlueprintLog: New page: Compile main_menu
+[2020.01.07-17.08.58:221][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.01.07-17.08.58:264][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.08.58:301][538]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menuB138278E4A5C672A9DDA92AC9D1B0616.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.08.58:689][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.08.58:731][552]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu53CA56EE43DB9AC5DA40A8B6A9AC5214.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.09.06:733][726]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.07-17.09.06:770][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.09.06:771][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.09.06:771][726]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:09:06 PM)
+[2020.01.07-17.09.06:771][726]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.09.06:782][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011197s)
+[2020.01.07-17.09.06:783][726]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.09.06:783][726]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2020.01.07-17.09.06:783][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.012175s)
+[2020.01.07-17.09.06:830][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.01.07-17.09.06:847][726]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.09.06:859][726]LogInit: FAudioDevice initialized.
+[2020.01.07-17.09.06:890][726]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.09.06:897][726]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.09.06
+[2020.01.07-17.09.06:897][726]LogWorld: Bringing up level for play took: 0.006381
+[2020.01.07-17.09.06:899][726]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay -0.802
+[2020.01.07-17.09.06:899][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.09.11:093][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.09.11:093][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.09.11:128][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.09.11:169][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.09.11:175][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.01.07-17.09.13:738][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.01.07-17.09.15:592][113]LogSlate: Window 'Save Content' being destroyed
+[2020.01.07-17.09.15:625][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.09.15:672][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.01.07-17.09.16:043][113]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplayBD92A35B4DE775C40B9ED7BC6695B795.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.09.16:096][113]LogFileHelpers: Saving map 'gameplay' took 0.472
+[2020.01.07-17.10.08:865][765]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.10.09:199][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.01.07-17.10.09:287][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.10.09:399][765]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP7F25E78D418F31934FC5D9B3F9A11C76.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.10.09:905][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.01.07-17.10.09:925][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.10.09:967][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.07-17.10.10:339][780]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplayDFF4A1D443414E20DE0F0BBC5828864C.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.10.10:392][780]LogFileHelpers: Saving map 'gameplay' took 0.467
+[2020.01.07-17.10.12:449][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.10.12:449][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.10.12:449][891]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:10:12 PM)
+[2020.01.07-17.10.12:449][891]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.10.12:464][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014552s)
+[2020.01.07-17.10.12:464][891]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.10.12:465][891]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2020.01.07-17.10.12:465][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.015695s)
+[2020.01.07-17.10.12:512][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.01.07-17.10.12:529][891]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.10.12:537][891]LogInit: FAudioDevice initialized.
+[2020.01.07-17.10.12:564][891]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.10.12:569][891]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.10.12
+[2020.01.07-17.10.12:569][891]LogWorld: Bringing up level for play took: 0.004529
+[2020.01.07-17.10.12:571][891]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay 0.869
+[2020.01.07-17.10.12:571][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.10.17:928][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-17.10.17:993][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.10.17:993][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.10.18:025][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.10.18:075][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.10.18:082][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.07-17.10.41:454][  0]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.10.41:785][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.01.07-17.10.41:870][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.10.41:982][  0]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPB67FD1B246CB842AC0C498990E37C393.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.10.42:213][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.10.42:334][  2]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPADB8F9974253B6191055B2B11105063C.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.10.42:625][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.01.07-17.10.42:646][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.10.42:697][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.01.07-17.10.43:087][  7]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay420519854E9597D58C8FF98709CBA52F.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.10.43:138][  7]LogFileHelpers: Saving map 'gameplay' took 0.492
+[2020.01.07-17.10.44:287][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.07-17.10.44:343][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.10.44:343][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.10.44:343][ 66]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:10:44 PM)
+[2020.01.07-17.10.44:343][ 66]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.10.44:354][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010978s)
+[2020.01.07-17.10.44:354][ 66]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.10.44:355][ 66]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2020.01.07-17.10.44:355][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.011929s)
+[2020.01.07-17.10.44:403][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.01.07-17.10.44:419][ 66]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.10.44:428][ 66]LogInit: FAudioDevice initialized.
+[2020.01.07-17.10.44:459][ 66]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.10.44:464][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.10.44
+[2020.01.07-17.10.44:465][ 66]LogWorld: Bringing up level for play took: 0.004653
+[2020.01.07-17.10.44:466][ 66]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay 0.765
+[2020.01.07-17.10.44:466][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.10.46:675][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.10.46:675][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.10.46:712][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.10.46:760][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.10.46:766][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.01.07-17.11.48:842][ 12]BlueprintLog: New page: Compile main_menu
+[2020.01.07-17.11.48:933][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.01.07-17.11.49:012][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.11.49:055][ 12]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu75E040B547FB91F70BC3DF88ECCE32CE.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.11.49:409][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.11.49:444][ 24]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu92ADA8DD43CBA7FB87C128A0246E21DE.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.11.51:342][123]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.07-17.11.51:381][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.11.51:381][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.11.51:381][123]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:11:51 PM)
+[2020.01.07-17.11.51:381][123]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.11.51:394][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012553s)
+[2020.01.07-17.11.51:395][123]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.11.51:395][123]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2020.01.07-17.11.51:395][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.013536s)
+[2020.01.07-17.11.51:441][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.01.07-17.11.51:457][123]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.11.51:465][123]LogInit: FAudioDevice initialized.
+[2020.01.07-17.11.51:499][123]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.11.51:505][123]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.11.51
+[2020.01.07-17.11.51:506][123]LogWorld: Bringing up level for play took: 0.005444
+[2020.01.07-17.11.51:507][123]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay -0.195
+[2020.01.07-17.11.51:507][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.11.54:748][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-17.11.54:849][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.11.54:850][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.11.54:885][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.11.54:938][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.11.54:946][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.01.07-17.12.04:861][675]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.07-17.12.07:972][806]BlueprintLog: New page: Compile main_menu
+[2020.01.07-17.12.08:036][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.01.07-17.12.08:121][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.12.08:156][806]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu3FC92D364B648EBBC1F4E3A4ED1B33CF.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.12.08:624][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.12.08:665][822]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu06E60B2F467A36330BDCE8A1A0ED880C.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.12.14:575][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.07-17.12.14:612][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.12.14:612][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.12.14:613][ 17]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:12:14 PM)
+[2020.01.07-17.12.14:613][ 17]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.12.14:629][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016110s)
+[2020.01.07-17.12.14:629][ 17]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.12.14:630][ 17]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2020.01.07-17.12.14:630][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.016948s)
+[2020.01.07-17.12.14:683][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2020.01.07-17.12.14:701][ 17]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.12.14:712][ 17]LogInit: FAudioDevice initialized.
+[2020.01.07-17.12.14:747][ 17]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.12.14:753][ 17]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.12.14
+[2020.01.07-17.12.14:753][ 17]LogWorld: Bringing up level for play took: 0.005791
+[2020.01.07-17.12.14:755][ 17]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay 1.053
+[2020.01.07-17.12.14:755][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.12.24:801][619]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.12.24:801][619]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.12.25:819][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.12.25:819][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.12.25:858][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.12.25:905][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.12.25:911][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.01.07-17.12.28:165][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.01.07-17.12.28:172][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-17.12.28:189][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.12.28:233][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.01.07-17.12.28:645][810]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplayF656CC4B4FDA343C601B1084CB3DD842.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.12.28:707][810]LogFileHelpers: Saving map 'gameplay' took 0.518
+[2020.01.07-17.13.12:046][569]BlueprintLog: New page: Compile main_menu
+[2020.01.07-17.13.12:111][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.01.07-17.13.12:598][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.13.12:635][583]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menuD5FE9FD248BD44E9D0628590FBA6B173.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.14.07:557][ 88]BlueprintLog: New page: Compile main_menu
+[2020.01.07-17.14.07:622][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.01.07-17.14.07:710][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.14.07:752][ 88]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menuEF417D474437B128E06E768EF5D9F093.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.14.08:436][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.14.08:477][112]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu5A6EC8674B73834184C8E298D0CC8DE7.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.14.21:280][669]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.07-17.14.23:343][765]BlueprintLog: New page: Compile main_menu
+[2020.01.07-17.14.23:413][765]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.01.07-17.14.23:462][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.14.23:502][765]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu0B252C074C95F3EEF261A3BA05F1E991.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.14.23:995][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.14.24:035][785]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menuA5C136B349BFD3538319019D4B6F6D7B.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.14.33:250][183]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.07-17.14.37:437][370]BlueprintLog: New page: Compile main_menu
+[2020.01.07-17.14.37:501][370]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.01.07-17.14.37:614][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.14.37:650][370]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu30D4C87F43AA46CCB392F7BA184C3362.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.14.38:044][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.14.38:081][383]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu4233580A4FE757718110B996B6FF8E6F.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.19.11:150][336]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.19.11:481][336]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.01.07-17.19.11:625][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.19.11:746][336]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP629C96764B36DEF49C9AA6A25AF08376.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.19.12:065][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.19.12:174][341]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPB9993F07493BBBC5D90CD78C84434DA4.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.19.45:939][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-17.19.58:791][366]LogSlate: Took 0.010978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.07-17.20.05:845][573]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.20.06:256][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.01.07-17.20.06:416][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.20.06:542][573]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPAE6EDCC542B68CB7247F349ACA733C79.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.20.07:087][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.20.07:219][584]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPC4EA283A4803083D64AAA3B612D39E1F.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.21.26:404][317]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.21.26:909][317]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.01.07-17.21.27:098][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.21.27:264][317]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPC9917041479AB35CCECBAABADC835CE0.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.21.28:012][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.21.28:139][333]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP1F30DDCF4F1C248CFEC3B0BE5851C217.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.21.48:403][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-17.21.48:566][201]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2020.01.07-17.23.42:188][221]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.23.42:631][221]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2020.01.07-17.23.42:767][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.23.42:835][221]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD3A32552A483548F0252CB79A3666380E.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.23.43:316][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.23.43:367][229]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD22E3E3E4424B43A50BCB6798B402F635.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.23.43:579][233]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.01.07-17.23.43:618][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.23.43:672][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.01.07-17.23.44:183][233]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay4C27F2E545F5E03B04A22AB213C23A79.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.23.44:263][233]LogFileHelpers: Saving map 'gameplay' took 0.647
+[2020.01.07-17.25.09:851][669]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.25.10:292][669]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2020.01.07-17.25.10:438][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.25.10:495][669]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD0729FFCB425162FC96150993431A5A63.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.25.57:413][291]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.25.57:797][291]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2020.01.07-17.25.57:865][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.25.57:918][291]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD02CF9BD3481BBAF1F3E1AEB0D0CD62CB.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.26.18:673][977]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.26.19:170][977]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2020.01.07-17.26.19:252][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.26.19:317][977]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDAB13FF914CC29CB5B2BBE2B93F217549.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.26.36:069][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset" SILENT=true
+[2020.01.07-17.26.36:132][590]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/main_menu90854FC4426D18C38738AEB8CB495F0A.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/main_menu.uasset'
+[2020.01.07-17.26.38:902][724]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.01.07-17.26.38:939][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.26.38:993][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.01.07-17.26.39:540][724]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay6F60A9424E36870A5DB9969F40A95BB6.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.26.39:616][724]LogFileHelpers: Saving map 'gameplay' took 0.679
+[2020.01.07-17.26.39:995][745]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.07-17.26.40:047][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.26.40:048][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.26.40:048][745]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:26:40 PM)
+[2020.01.07-17.26.40:048][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.26.40:063][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014600s)
+[2020.01.07-17.26.40:063][745]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.26.40:064][745]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2020.01.07-17.26.40:064][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.015725s)
+[2020.01.07-17.26.40:114][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.01.07-17.26.40:134][745]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.26.40:147][745]LogInit: FAudioDevice initialized.
+[2020.01.07-17.26.40:177][745]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.26.40:183][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.26.40
+[2020.01.07-17.26.40:184][745]LogWorld: Bringing up level for play took: 0.006540
+[2020.01.07-17.26.40:187][745]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay 0.486
+[2020.01.07-17.26.40:187][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.26.44:955][ 26]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.26.44:955][ 26]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.26.49:953][321]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.26.50:605][359]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.26.50:605][359]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-17.26.52:939][498]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-17.26.52:939][498]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-17.26.54:963][618]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-17.26.56:050][674]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-17.26.56:050][674]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-17.26.59:966][905]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-17.27.00:022][908]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-17.27.00:022][908]LogBlueprintUserMessages: [playerCharacter_BP_2] 5
+[2020.01.07-17.27.03:906][139]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.27.03:906][139]LogBlueprintUserMessages: [playerCharacter_BP_2] 6
+[2020.01.07-17.27.04:970][202]LogBlueprintUserMessages: [playerCharacter_BP_2] 6
+[2020.01.07-17.27.06:570][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.27.06:571][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.27.06:610][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.27.06:674][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.27.06:683][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.01.07-17.27.19:333][720]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.27.19:727][720]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.01.07-17.27.19:860][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.27.19:927][720]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD5AD452C1489AC65A7622FB839AD5E2AB.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.27.20:893][747]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2020.01.07-17.27.20:940][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.27.20:998][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.01.07-17.27.21:486][747]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplayB44C02E647A41AD3E8EF42B83BF1F980.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.27.21:560][747]LogFileHelpers: Saving map 'gameplay' took 0.621
+[2020.01.07-17.27.22:820][802]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.07-17.27.22:915][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.27.22:915][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.27.22:916][802]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:27:22 PM)
+[2020.01.07-17.27.22:916][802]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.27.22:932][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016083s)
+[2020.01.07-17.27.22:933][802]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.27.22:933][802]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2020.01.07-17.27.22:933][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.017179s)
+[2020.01.07-17.27.22:986][802]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.01.07-17.27.23:005][802]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.27.23:016][802]LogInit: FAudioDevice initialized.
+[2020.01.07-17.27.23:050][802]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.27.23:057][802]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.27.23
+[2020.01.07-17.27.23:058][802]LogWorld: Bringing up level for play took: 0.007437
+[2020.01.07-17.27.23:061][802]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay -0.641
+[2020.01.07-17.27.23:061][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.27.27:664][ 71]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.27.27:664][ 71]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.27.28:510][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.27.28:510][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.27.28:550][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.27.28:607][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.27.28:614][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.01.07-17.27.42:852][597]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.27.43:250][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.01.07-17.27.43:372][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.27.43:424][597]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD7DA3346E444CB3BB15D672BB4DE86B0D.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.27.43:783][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.27.43:840][604]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD94FF19B941AA03CD7AA7DEAA6798426E.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.29.24:105][714]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.01.07-17.29.28:040][809]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.01.07-17.31.36:313][557]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.31.36:432][557]LogBlueprint: Error: [Compiler playerCharacter_BP] In use pin  Level Num  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.01.07-17.31.36:434][557]LogBlueprint: Error: [Compiler playerCharacter_BP] In use pin  Level Num  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.01.07-17.31.36:837][557]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.01.07-17.31.37:021][557]LogBlueprint: Warning: [Compiler playerCharacter_BP] [9074.25] Compile of playerCharacter_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 707 ms] (/Game/BP/playerCharacter_BP.playerCharacter_BP)
+[2020.01.07-17.31.37:659][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.31.37:793][569]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP352F61C34AD6B603F1E068A585824FBC.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.31.46:263][784]LogEditorTransaction: Undo Add Node
+[2020.01.07-17.32.13:612][518]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.32.13:740][518]LogBlueprint: Error: [Compiler playerCharacter_BP] In use pin  Level Num  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.01.07-17.32.14:080][518]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.01.07-17.32.14:275][518]LogBlueprint: Warning: [Compiler playerCharacter_BP] [9111.50] Compile of playerCharacter_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 663 ms] (/Game/BP/playerCharacter_BP.playerCharacter_BP)
+[2020.01.07-17.32.14:329][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.32.14:469][518]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP74D7847245F138BB9FE98C8D9B4B1FC8.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.32.15:138][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.32.15:259][531]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPE264C9F24C6A09B2E9F27AA9E5972BB2.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.32.54:958][720]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.32.55:426][720]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.01.07-17.32.55:691][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.32.55:846][720]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP9BBDC81C45EE5190BD8E2AA75E3FB256.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.32.56:464][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.32.56:622][732]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP0D84502544D2F4B5BBAF53BD2A91A95A.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.34.12:865][  6]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.07-17.34.42:098][972]LogEditorTransaction: Undo Create Reroute Node
+[2020.01.07-17.34.46:156][ 85]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.34.46:634][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2020.01.07-17.34.46:934][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.34.47:082][ 85]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP3AA77FE5470CFFEEFAACE9AAC72B9902.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.34.47:358][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.34.47:495][ 87]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPC3C87B7749061FACEB7D33809DFB40E0.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.35.06:635][655]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.07-17.35.14:429][877]LogEditorTransaction: Undo Delete current selection
+[2020.01.07-17.36.11:255][589]LogEditorTransaction: Undo Create Pin Link
+[2020.01.07-17.36.12:188][606]LogEditorTransaction: Undo Create Pin Link
+[2020.01.07-17.36.13:508][637]LogEditorTransaction: Undo Move Node
+[2020.01.07-17.36.14:526][659]LogEditorTransaction: Undo Create Pin Link
+[2020.01.07-17.36.15:444][678]LogEditorTransaction: Undo Create Reroute Node
+[2020.01.07-17.36.35:684][316]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ecstatic...
+[2020.01.07-17.36.39:878][316]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 35721000 while cooking SoundWave /Game/audio/OST/ecstatic.ecstatic.
+[2020.01.07-17.36.41:275][359]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.36.41:856][359]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2020.01.07-17.36.42:120][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.36.42:300][359]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPF384A52C4FADB0B206A39382C0B1AF63.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.36.42:958][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.36.43:148][371]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP05B08799445DD5040F265C8026B88AF1.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.36.49:163][556]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.01.07-17.36.49:199][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.36.49:266][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.01.07-17.36.49:760][556]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay25033E0B4E899CCAE031F1A0D368726E.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.36.49:823][556]LogFileHelpers: Saving map 'gameplay' took 0.623
+[2020.01.07-17.36.49:843][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.36.49:995][556]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP1EDE5DF2479701DF24731AAD58605CCA.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.37.19:561][364]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2020.01.07-17.37.19:619][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.37.19:801][364]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP3EB061E64A288034B6A965BC098AF943.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.38.00:028][643]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.01.07-17.38.00:534][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.01.07-17.38.00:804][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.38.00:979][643]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BP09A2C80E4EEB1C3CA683F28BD2D2E98B.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.38.01:244][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.01.07-17.38.01:395][644]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/playerCharacter_BPDF8B8A3E4E3588D208B8DCA7FDDD7CF8.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/BP/playerCharacter_BP.uasset'
+[2020.01.07-17.38.01:747][651]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.01.07-17.38.01:781][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.38.01:835][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.01.07-17.38.02:332][651]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay48D9200346AC5DA98D7A8EB00661DAC1.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.38.02:398][651]LogFileHelpers: Saving map 'gameplay' took 0.619
+[2020.01.07-17.39.28:249][219]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 182219
+[2020.01.07-17.39.28:268][220]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.07-17.39.28:276][220]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.07-17.39.28:281][220]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.07-17.39.28:288][220]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.07-17.39.28:290][220]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.07-17.39.28:295][220]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.07-17.39.39:759][594]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.01.07-17.39.39:795][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.39.39:867][594]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDD09CF76B4F0CA2204E90FAA73031BEA0.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.39.55:140][114]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.39.55:588][114]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2020.01.07-17.39.55:655][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.39.55:720][114]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDE666196D47D05E332F69AE8C4DD219CC.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.40.25:016][122]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.40.25:546][122]LogUObjectHash: Compacting FUObjectHashTables data took   8.99ms
+[2020.01.07-17.40.25:622][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.40.25:699][122]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDAD428F8042ED2327D4A263A288D7526D.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.40.26:010][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.40.26:081][128]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDE3EF447448FBAF824542F9BDA12B30D9.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.40.26:370][136]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.01.07-17.40.26:403][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.40.26:458][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.01.07-17.40.27:137][136]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay4B87787246FBA822C9CF3B8CF9C18492.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.40.27:213][136]LogFileHelpers: Saving map 'gameplay' took 0.811
+[2020.01.07-17.40.29:128][223]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.07-17.40.29:211][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.40.29:211][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.40.29:211][223]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:40:29 PM)
+[2020.01.07-17.40.29:211][223]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.40.29:230][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018899s)
+[2020.01.07-17.40.29:231][223]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.40.29:231][223]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2020.01.07-17.40.29:231][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.020164s)
+[2020.01.07-17.40.29:295][223]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.01.07-17.40.29:318][223]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.40.29:330][223]LogInit: FAudioDevice initialized.
+[2020.01.07-17.40.29:361][223]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.40.29:369][223]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.40.29
+[2020.01.07-17.40.29:370][223]LogWorld: Bringing up level for play took: 0.007590
+[2020.01.07-17.40.29:372][223]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay -0.329
+[2020.01.07-17.40.29:373][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.40.33:450][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.40.33:450][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.40.33:490][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.40.33:548][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.40.33:555][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.07-17.40.41:125][721]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.40.41:537][721]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.01.07-17.40.41:594][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.40.41:667][721]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDDC518BD143E4354BCBBA91B65CB73EEF.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.40.41:884][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.40.41:969][723]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDF55D640B408E278D9B291A9F2A5737BE.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.40.43:121][753]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.07-17.41.21:304][115]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.41.21:794][115]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.01.07-17.41.21:858][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.41.21:917][115]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDDA5B9E2B479D33E87F269D8220ECE801.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.41.22:348][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.41.22:402][127]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD72ED23A240B718D1B209CF94D80376FA.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.42.10:597][823]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.42.10:746][823]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.01.07-17.42.10:865][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.42.10:931][823]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD55F706374512CDB6D6350581B817C059.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.42.11:160][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.42.11:219][825]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDFC0A79F440DB54737324ECB6D32AAC46.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.42.11:548][832]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.01.07-17.42.11:581][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.42.11:638][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.07-17.42.12:172][832]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay7EA314C446B93646DD89839AA7A47644.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.42.12:243][832]LogFileHelpers: Saving map 'gameplay' took 0.661
+[2020.01.07-17.42.13:315][876]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.07-17.42.13:404][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.42.13:405][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.07-17.42.13:405][876]PIE: New page: PIE session: gameplay (Jan 7, 2020, 7:42:13 PM)
+[2020.01.07-17.42.13:405][876]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2020.01.07-17.42.13:423][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017646s)
+[2020.01.07-17.42.13:423][876]LogAIModule: Creating AISystem for world gameplay
+[2020.01.07-17.42.13:424][876]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2020.01.07-17.42.13:424][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.018910s)
+[2020.01.07-17.42.13:477][876]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.01.07-17.42.13:498][876]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-17.42.13:511][876]LogInit: FAudioDevice initialized.
+[2020.01.07-17.42.13:543][876]LogLoad: Game class is 'GameModeBase'
+[2020.01.07-17.42.13:549][876]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2020.01.07-18.42.13
+[2020.01.07-17.42.13:550][876]LogWorld: Bringing up level for play took: 0.006342
+[2020.01.07-17.42.13:552][876]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay -0.149
+[2020.01.07-17.42.13:553][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.42.18:977][192]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.42.18:977][192]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.42.20:770][299]LogBlueprintUserMessages: [playerCharacter_BP_2] 1
+[2020.01.07-17.42.20:770][299]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-17.42.23:969][488]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-17.42.26:170][619]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-17.42.26:170][619]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-17.42.28:978][784]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-17.42.30:602][881]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-17.42.30:603][881]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-17.42.32:915][ 18]LogBlueprintUserMessages: [playerCharacter_BP_2] 2
+[2020.01.07-17.42.32:915][ 18]LogBlueprintUserMessages: [playerCharacter_BP_2] 5
+[2020.01.07-17.42.33:982][ 81]LogBlueprintUserMessages: [playerCharacter_BP_2] 5
+[2020.01.07-17.42.35:450][168]LogBlueprintUserMessages: [playerCharacter_BP_2] 3
+[2020.01.07-17.42.35:450][168]LogBlueprintUserMessages: [playerCharacter_BP_2] 6
+[2020.01.07-17.42.37:781][306]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-17.42.37:781][306]LogBlueprintUserMessages: [playerCharacter_BP_2] 7
+[2020.01.07-17.42.38:985][377]LogBlueprintUserMessages: [playerCharacter_BP_2] 7
+[2020.01.07-17.42.41:327][516]LogBlueprintUserMessages: [playerCharacter_BP_2] 4
+[2020.01.07-17.42.41:327][516]LogBlueprintUserMessages: [playerCharacter_BP_2] 8
+[2020.01.07-17.42.43:426][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.42.43:427][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.42.43:472][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2020.01.07-17.42.43:549][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-17.42.43:559][637]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.01.07-17.43.13:472][611]BlueprintLog: New page: Compile HUD
+[2020.01.07-17.43.13:556][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.01.07-17.43.13:673][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.43.13:739][611]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUDBFBB710D42BF0BA856E8149419A45419.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.43.14:214][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset" SILENT=true
+[2020.01.07-17.43.14:271][622]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/HUD79451C7F4D7A38C8AF3529AB91E686F4.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/UI/HUD.uasset'
+[2020.01.07-17.43.26:330][986]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.01.07-17.43.26:362][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.07-17.43.26:415][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.01.07-17.43.26:861][986]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplayA8FB56034BCD8A7B3D634394236AF3AD.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2020.01.07-17.43.26:936][986]LogFileHelpers: Saving map 'gameplay' took 0.574
