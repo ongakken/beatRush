@@ -19,7 +19,7 @@ for /f "delims=" %%A in ('%ADB% %DEVICE% shell "echo $EXTERNAL_STORAGE"') do @se
 %ADB% %DEVICE% shell rm -r %STORAGE%/Android/obb/sk.smdtech.beatrush
 @echo.
 @echo Installing new data. Failures here indicate storage problems (missing SD card or bad permissions) and are fatal.
-%ADB% %DEVICE% push main.9.sk.smdtech.beatrush.obb %STORAGE%/Download/obb/sk.smdtech.beatrush/main.9.sk.smdtech.beatrush.obb
+%ADB% %DEVICE% push main.10.sk.smdtech.beatrush.obb %STORAGE%/Download/obb/sk.smdtech.beatrush/main.10.sk.smdtech.beatrush.obb
 if "%ERRORLEVEL%" NEQ "0" goto Error
 %ADB% %DEVICE% shell mv %STORAGE%/Download/obb/sk.smdtech.beatrush %STORAGE%/Android/obb/sk.smdtech.beatrush
 if "%ERRORLEVEL%" NEQ "0" goto Error
