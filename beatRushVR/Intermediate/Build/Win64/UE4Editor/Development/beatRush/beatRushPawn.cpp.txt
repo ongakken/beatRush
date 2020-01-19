@@ -1,0 +1,7 @@
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\Definitions.beatRush.h
+c:\users\smdex\documents\github\beatrush\beatrush\source\beatrush\beatRushPawn.h
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Inc\beatRush\beatRushPawn.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h

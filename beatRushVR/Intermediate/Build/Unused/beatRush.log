@@ -1,0 +1,29 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\smdex\Documents\GitHub\beatRush).
+  Creating makefile for beatRushEditor (no existing makefile)
+  Parsing headers for beatRushEditor
+    Running UnrealHeaderTool "C:\Users\smdex\Documents\GitHub\beatRush\beatRush\beatRush.uproject" "C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\beatRushEditor\Development\beatRushEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for beatRushEditor in 34.2840598 seconds
+  Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 4 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  beatRush.cpp (0:04.82 at +0:00)
+  UE4Editor-beatRush-0001.dll (0:01.79 at +0:04)
+     Creating library C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\UE4Editor-beatRush-0001.suppressed.lib and object C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\UE4Editor-beatRush-0001.suppressed.exp
+  UE4Editor-beatRush-0001.lib (0:00.15 at +0:06)
+     Creating library C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\UE4Editor-beatRush-0001.lib and object C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\UE4Editor-beatRush-0001.exp
+  beatRushEditor.target (0:00.25 at +0:06)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 7.29 seconds
+  Total execution time: 45.13 seconds

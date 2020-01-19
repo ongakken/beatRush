@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-beatRush.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\beatRushEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\beatRush.cpp.obj"
+"C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\Default.rc2.res"
+/OUT:"C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\UE4Editor-beatRush.lib"
+/INCLUDE:IMPLEMENT_MODULE_beatRush

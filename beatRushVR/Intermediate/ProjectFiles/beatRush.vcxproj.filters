@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\beatRush.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3CF8DB2D-808E-4561-8E63-FDAB5C025E86}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\beatRush.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\beatRushEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\PointCloudsMorphing.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{5A00FECF-4B20-47EE-91E8-5462BAD7B28C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\beatRush">
+      <UniqueIdentifier>{32FFE702-8ACB-4C1F-A462-F75F7B23C7DA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\beatRush\beatRush.Build.cs">
+      <Filter>Source\beatRush</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\beatRush\beatRush.cpp">
+      <Filter>Source\beatRush</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\beatRush\beatRush.h">
+      <Filter>Source\beatRush</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

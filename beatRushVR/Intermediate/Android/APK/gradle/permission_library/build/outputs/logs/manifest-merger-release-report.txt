@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from Z:\permission_library\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from Z:\permission_library\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from Z:\permission_library\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from Z:\permission_library\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from Z:\permission_library\src\main\AndroidManifest.xml
+		INJECTED from Z:\permission_library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from Z:\permission_library\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from Z:\permission_library\src\main\AndroidManifest.xml:4:5-73
+INJECTED from Z:\permission_library\src\main\AndroidManifest.xml:4:5-73
+INJECTED from Z:\permission_library\src\main\AndroidManifest.xml:4:5-73
+INJECTED from Z:\permission_library\src\main\AndroidManifest.xml:4:5-73
+INJECTED from Z:\permission_library\src\main\AndroidManifest.xml:4:5-73
+	android:targetSdkVersion
+		ADDED from Z:\permission_library\src\main\AndroidManifest.xml:4:42-71
+		INJECTED from Z:\permission_library\src\main\AndroidManifest.xml
+		INJECTED from Z:\permission_library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from Z:\permission_library\src\main\AndroidManifest.xml:4:15-41
+		INJECTED from Z:\permission_library\src\main\AndroidManifest.xml
+		INJECTED from Z:\permission_library\src\main\AndroidManifest.xml

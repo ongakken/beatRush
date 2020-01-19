@@ -4,3 +4,5 @@ beatRush/Binaries/
 beatRush/.vs/beatRush/v16/Browse.VC.db
 beatRush/.vs/beatRush/v16/Browse.VC.db
 *.so
+beatRushVR/.vs/beatRush/v16/Browse.VC.db
+*.pch

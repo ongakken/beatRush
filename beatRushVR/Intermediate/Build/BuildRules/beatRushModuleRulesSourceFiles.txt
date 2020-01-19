@@ -1,0 +1,3 @@
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Source\beatRush\beatRush.Build.cs
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Source\beatRush.Target.cs
+C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Source\beatRushEditor.Target.cs
