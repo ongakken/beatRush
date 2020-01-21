@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 01/21/20 10:11:21
+=======
+﻿Log file open, 01/19/20 17:59:26
+>>>>>>> parent of 7c0873e... fixed that bug with the menu xD;
 =======
 ﻿Log file open, 01/19/20 17:59:26
 >>>>>>> parent of 7c0873e... fixed that bug with the menu xD;
@@ -15,7 +19,11 @@ LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak 
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.280600
+=======
+LogStats: Stats thread started at 0.306077
+>>>>>>> parent of 7c0873e... fixed that bug with the menu xD;
 =======
 LogStats: Stats thread started at 0.306077
 >>>>>>> parent of 7c0873e... fixed that bug with the menu xD;
@@ -120,6 +128,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2020.01.21-09.11.21:754][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.01.21-09.11.21:754][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2914,6 +2923,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.21-09.30.28:983][403]LogExit: Exiting.
 [2020.01.21-09.30.28:988][403]Log file closed, 01/21/20 10:30:28
 =======
+=======
+>>>>>>> parent of 7c0873e... fixed that bug with the menu xD;
 [2020.01.19-16.59.26:527][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.01.19-16.59.26:527][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.01.19-16.59.26:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Engine.ini]
@@ -3787,4 +3798,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.19-19.41.58:204][746]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2020.01.19-19.41.58:214][746]LogExit: Exiting.
 [2020.01.19-19.41.58:253][746]Log file closed, 01/19/20 20:41:58
+<<<<<<< HEAD
+>>>>>>> parent of 7c0873e... fixed that bug with the menu xD;
+=======
 >>>>>>> parent of 7c0873e... fixed that bug with the menu xD;

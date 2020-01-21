@@ -7,7 +7,11 @@ set NDKSTACK=%NDK_ROOT%
 dk-stack.cmd
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 %NDKSTACK% -sym beatRush_Symbols_v25/beatRush-arm64-es2 -dump "%1" > beatRush_SymbolizedCallStackOutput.txt
+=======
+%NDKSTACK% -sym beatRush_Symbols_v22/beatRush-arm64-es2 -dump "%1" > beatRush_SymbolizedCallStackOutput.txt
+>>>>>>> parent of 7c0873e... fixed that bug with the menu xD;
 =======
 %NDKSTACK% -sym beatRush_Symbols_v22/beatRush-arm64-es2 -dump "%1" > beatRush_SymbolizedCallStackOutput.txt
 >>>>>>> parent of 7c0873e... fixed that bug with the menu xD;
