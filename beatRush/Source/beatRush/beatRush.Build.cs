@@ -10,5 +10,11 @@ public class beatRush : ModuleRules
 
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "OnlineSubsystem" });
         DynamicallyLoadedModuleNames.Add("OnlineSubsystemGooglePlay");
-    }
+
+		if (Target.Platform == UnrealTargetPlatform.Android)
+		{
+			PrivateDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "OnlineSubsystem" });
+			DynamicallyLoadedModuleNames.Add("OnlineSubsystemGooglePlay");
+		}
+	}
 }
