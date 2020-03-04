@@ -8,6 +8,6 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "sk.smdtech.beatrush";
   public static final String BUILD_TYPE = "release";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 74;
-  public static final String VERSION_NAME = "0.71";
+  public static final int VERSION_CODE = 75;
+  public static final String VERSION_NAME = "0.72";
 }

@@ -1,9 +1,0 @@
-C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\Definitions.beatRush.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Source\beatRush/beatRushGameMode.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-c:\users\smdex\documents\github\beatrush\beatrush\intermediate\build\win64\ue4editor\inc\beatrush\beatRushGameMode.generated.h

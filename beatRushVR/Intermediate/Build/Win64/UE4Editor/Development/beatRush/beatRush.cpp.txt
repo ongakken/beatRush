@@ -1,2 +1,0 @@
-C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Intermediate\Build\Win64\UE4Editor\Development\beatRush\Definitions.beatRush.h
-c:\users\smdex\documents\github\beatrush\beatrush\source\beatrush\beatRush.h

@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="sk.smdtech.beatrush"
     android:installLocation="internalOnly"
-    android:versionCode="74"
-    android:versionName="0.71" > <!-- Supported texture compression formats (cooked) -->
+    android:versionCode="75"
+    android:versionName="0.72" > <!-- Supported texture compression formats (cooked) -->
     <uses-sdk
         android:minSdkVersion="23"
         android:targetSdkVersion="28" />
@@ -72,7 +72,7 @@
             android:value="++UE4+Release-4.24" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.ProjectVersion"
-            android:value="0.71" />
+            android:value="0.72" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
             android:value="0" />
