@@ -1,0 +1,57 @@
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:275
+-keep class androidx.lifecycle.ProcessLifecycleOwnerInitializer { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:184
+-keep class com.chartboost.sdk.CBImpressionActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:48
+-keep class com.epicgames.ue4.GameActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:26
+-keep class com.epicgames.ue4.GameApplication { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:140
+-keep class com.epicgames.ue4.LocalNotificationReceiver { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:141
+-keep class com.epicgames.ue4.MulticastBroadcastReceiver { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:35
+-keep class com.epicgames.ue4.SplashActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:131
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:244
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:180
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:171
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:239
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:255
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:269
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:250
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:265
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:191
+-keep class com.unity3d.services.ads.adunit.AdUnitActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:206
+-keep class com.unity3d.services.ads.adunit.AdUnitSoftwareActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:196
+-keep class com.unity3d.services.ads.adunit.AdUnitTransparentActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:201
+-keep class com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:229
+-keep class com.vungle.warren.NetworkProviderReceiver { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:211
+-keep class com.vungle.warren.ui.VungleActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:217
+-keep class com.vungle.warren.ui.VungleFlexViewActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:224
+-keep class com.vungle.warren.ui.VungleWebViewActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:139
+-keep class sk.smdtech.beatrush.AlarmReceiver { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:61
+-keep class sk.smdtech.beatrush.DownloaderActivity { <init>(...); }
+# Referenced at Y:\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:137
+-keep class sk.smdtech.beatrush.OBBDownloaderService { <init>(...); }
+# Referenced at C:\Users\simto\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\dc84a383ba2afd5fc68a03bb35441d22\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+

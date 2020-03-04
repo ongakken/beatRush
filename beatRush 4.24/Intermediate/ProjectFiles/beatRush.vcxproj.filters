@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\beatRush.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{27889F03-04FA-43E7-A45F-003E53B8A4EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\beatRush.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\beatRushEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\icon.png" />
+    <None Include="..\..\icon36.png" />
+    <None Include="..\..\icon48.png" />
+    <None Include="..\..\icon72.png" />
+    <None Include="..\..\icon96.png" />
+    <None Include="..\..\SMD-logo_phone-distortLaunch.png" />
+    <None Include="..\..\smdLogoSmall.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{1FCE1483-A585-4D5A-96E9-BB07F3426169}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\beatRush">
+      <UniqueIdentifier>{8BBB9718-35D9-4E5D-AF59-FD8A81EFC5E8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\beatRush\beatRush.Build.cs">
+      <Filter>Source\beatRush</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\beatRush\beatRush.cpp">
+      <Filter>Source\beatRush</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\beatRush\beatRush.h">
+      <Filter>Source\beatRush</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

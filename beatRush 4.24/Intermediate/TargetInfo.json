@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "beatRush",
+			"Path": "D:\\Unreal Projects\\beatRush\\beatRush 4.24\\Source\\beatRush.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "beatRushEditor",
+			"Path": "D:\\Unreal Projects\\beatRush\\beatRush 4.24\\Source\\beatRushEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

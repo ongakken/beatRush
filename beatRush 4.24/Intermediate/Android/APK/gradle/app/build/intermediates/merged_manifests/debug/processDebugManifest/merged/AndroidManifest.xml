@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sk.smdtech.beatrush"
+    android:installLocation="internalOnly"
+    android:versionCode="74"
+    android:versionName="0.71" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="28" />
+    <!-- Requirements -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Application Definition -->
+    <application
+        android:name="com.epicgames.ue4.GameApplication"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:fullBackupContent="@xml/vungle_backup_rule"
+        android:hardwareAccelerated="true"
+        android:hasCode="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+        <activity
+            android:name="com.epicgames.ue4.SplashActivity"
+            android:debuggable="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/UE4SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.epicgames.ue4.GameActivity"
+            android:configChanges="mcc|mnc|uiMode|density|screenSize|smallestScreenSize|screenLayout|orientation|keyboardHidden|keyboard"
+            android:debuggable="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:resizeableActivity="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/UE4SplashTheme" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="UE4" />
+        </activity>
+        <activity
+            android:name="sk.smdtech.beatrush.DownloaderActivity"
+            android:configChanges="mcc|mnc|uiMode|density|screenSize|orientation|keyboardHidden|keyboard"
+            android:screenOrientation="portrait"
+            android:theme="@style/UE4SplashTheme" />
+
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.EngineVersion"
+            android:value="4.24.3" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.EngineBranch"
+            android:value="++UE4+Release-4.24" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.ProjectVersion"
+            android:value="0.71" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
+            android:value="0" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk"
+            android:value="true" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp"
+            android:value="false" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bShouldHideUI"
+            android:value="true" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.ProjectName"
+            android:value="beatRush" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.AppType"
+            android:value="" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles"
+            android:value="true" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.BuildConfiguration"
+            android:value="Shipping" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.CookedFlavors"
+            android:value="ETC1,ETC2,DXT,ATC,PVRTC,ASTC" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats"
+            android:value="true" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bUseExternalFilesDir"
+            android:value="false" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bPublicLogFiles"
+            android:value="false" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bUseDisplayCutout"
+            android:value="false" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bAllowIMU"
+            android:value="true" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.bSupportsVulkan"
+            android:value="false" />
+        <meta-data
+            android:name="com.epicgames.ue4.GameActivity.StartupPermissions"
+            android:value="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <meta-data
+            android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/app_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <service android:name="sk.smdtech.beatrush.OBBDownloaderService" />
+
+        <receiver android:name="sk.smdtech.beatrush.AlarmReceiver" />
+        <receiver android:name="com.epicgames.ue4.LocalNotificationReceiver" />
+        <receiver
+            android:name="com.epicgames.ue4.MulticastBroadcastReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.10" />
+        <meta-data
+            android:name="com.epicgames.ue4.AdMob.AppId"
+            android:value="ca-app-pub-9086446979210331~4430059166" />
+        <meta-data
+            android:name="com.epicgames.ue4.AdMob.BannerAdUnit"
+            android:value="ca-app-pub-9086446979210331/6417928250" />
+        <meta-data
+            android:name="com.epicgames.ue4.AdMob.InterstitialAdUnit"
+            android:value="ca-app-pub-9086446979210331/5131539387" />
+        <meta-data
+            android:name="com.epicgames.ue4.AdMob.RewardedVideoAdUnit"
+            android:value="ca-app-pub-9086446979210331/5544966726" />
+        <meta-data
+            android:name="com.epicgames.ue4.AdMob.TestDevice"
+            android:value="" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9086446979210331~4430059166" />
+
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+            Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" /> <!-- Chartboost Required Activity -->
+        <activity
+            android:name="com.chartboost.sdk.CBImpressionActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.unity3d.services.ads.adunit.AdUnitActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.unity3d.services.ads.adunit.AdUnitSoftwareActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" /> <!-- Vungle Required Activities -->
+        <activity
+            android:name="com.vungle.warren.ui.VungleActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.vungle.warren.ui.VungleFlexViewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:exported="false"
+            android:hardwareAccelerated="true"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.vungle.warren.ui.VungleWebViewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:launchMode="singleTop" />
+
+        <receiver
+            android:name="com.vungle.warren.NetworkProviderReceiver"
+            android:enabled="false" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+            android:authorities="sk.smdtech.beatrush.mobileadsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="sk.smdtech.beatrush.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
