@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "Y:\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+            "outputFile": "W:\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
             "map": [
                 {
                     "source": "C:\\Users\\simto\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-ads-18.2.0.aar\\4636e411f8f0d9bfc4ee792725150ac0\\res\\values-ru\\values.xml",

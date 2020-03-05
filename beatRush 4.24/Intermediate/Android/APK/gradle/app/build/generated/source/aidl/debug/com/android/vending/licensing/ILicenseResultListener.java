@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: Y:\\app\\src\\main\\java\\com\\android\\vending\\licensing\\ILicenseResultListener.aidl
+ * Original file: W:\\app\\src\\main\\java\\com\\android\\vending\\licensing\\ILicenseResultListener.aidl
  */
 package com.android.vending.licensing;
 public interface ILicenseResultListener extends android.os.IInterface
