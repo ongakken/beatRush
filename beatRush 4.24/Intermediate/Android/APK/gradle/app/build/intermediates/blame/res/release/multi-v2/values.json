@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "W:\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "Y:\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\simto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.1.0.aar\\cd8d05da5aed6ca277f61183e2b5778a\\res\\values\\values.xml",
@@ -59,6 +59,59 @@
                     }
                 },
                 {
+                    "source": "Y:\\app\\src\\main\\res\\values\\GooglePlayAppID.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "54",
+                        "endColumns": "44",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "338",
+                        "startColumns": "4",
+                        "startOffsets": "19218",
+                        "endColumns": "47",
+                        "endOffsets": "19261"
+                    }
+                },
+                {
+                    "source": "Y:\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "24,7,11,19,3,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "929,219,350,745,59,156",
+                        "endLines": "26,9,17,22,3,5",
+                        "endColumns": "12,12,12,12,93,59",
+                        "endOffsets": "1053,342,737,921,148,211"
+                    },
+                    "to": {
+                        "startLines": "400,403,406,413,441,442",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "24955,25082,25208,25594,27310,27401",
+                        "endLines": "402,405,412,416,441,442",
+                        "endColumns": "12,12,12,12,90,56",
+                        "endOffsets": "25077,25203,25589,25767,27396,27453"
+                    }
+                },
+                {
+                    "source": "Y:\\app\\src\\main\\res\\values\\permissions.xml",
+                    "from": {
+                        "startLines": "8,11,14,13,12,4,3,5,19,18,17",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "237,342,709,577,444,118,77,155,1073,980,886",
+                        "endColumns": "70,100,127,130,131,35,39,47,83,91,92",
+                        "endOffsets": "306,441,835,706,574,152,115,201,1155,1070,977"
+                    },
+                    "to": {
+                        "startLines": "327,328,329,330,331,332,333,334,335,336,337",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "18229,18303,18407,18538,18672,18807,18846,18889,18940,19027,19122",
+                        "endColumns": "73,103,130,133,134,38,42,50,86,94,95",
+                        "endOffsets": "18298,18402,18533,18667,18802,18841,18884,18935,19022,19117,19213"
+                    }
+                },
+                {
                     "source": "C:\\Users\\simto\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\7ac9365d00c5acca7cc17815e5fcc0d5\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
@@ -76,7 +129,7 @@
                     }
                 },
                 {
-                    "source": "W:\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "Y:\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,38,9,16,24,22,23,36,35,33,34,32,21,20,27,26,25,30,31,29,28,19,51,52,49,50,44,45,42,43,47,48,46,39,40",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,4,4,4,4",
@@ -90,25 +143,6 @@
                         "startOffsets": "19266,21646,21705,21782,22217,22279,22358,22426,22483,22553,22664,22770,22882,22963,23032,23100,23206,23315,23404,23524,23620,23722,23848,23902,23976,24037,24100,24172,24241,24408,24590,24674,24754,24825,24889",
                         "endColumns": "46,58,76,78,61,78,67,56,69,110,105,111,80,68,67,105,108,88,119,95,101,54,53,73,60,62,71,68,166,181,83,79,70,63,65",
                         "endOffsets": "19308,21700,21777,21856,22274,22353,22421,22478,22548,22659,22765,22877,22958,23027,23095,23201,23310,23399,23519,23615,23717,23772,23897,23971,24032,24095,24167,24236,24403,24585,24669,24749,24820,24884,24950"
-                    }
-                },
-                {
-                    "source": "W:\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "24,7,11,19,3,5",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "929,219,350,745,59,156",
-                        "endLines": "26,9,17,22,3,5",
-                        "endColumns": "12,12,12,12,93,59",
-                        "endOffsets": "1053,342,737,921,148,211"
-                    },
-                    "to": {
-                        "startLines": "400,403,406,413,441,442",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "24955,25082,25208,25594,27310,27401",
-                        "endLines": "402,405,412,416,441,442",
-                        "endColumns": "12,12,12,12,90,56",
-                        "endOffsets": "25077,25203,25589,25767,27396,27453"
                     }
                 },
                 {
@@ -148,23 +182,6 @@
                     }
                 },
                 {
-                    "source": "W:\\app\\src\\main\\res\\values\\permissions.xml",
-                    "from": {
-                        "startLines": "8,11,14,13,12,4,3,5,19,18,17",
-                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1",
-                        "startOffsets": "237,342,709,577,444,118,77,155,1073,980,886",
-                        "endColumns": "70,100,127,130,131,35,39,47,83,91,92",
-                        "endOffsets": "306,441,835,706,574,152,115,201,1155,1070,977"
-                    },
-                    "to": {
-                        "startLines": "327,328,329,330,331,332,333,334,335,336,337",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "18229,18303,18407,18538,18672,18807,18846,18889,18940,19027,19122",
-                        "endColumns": "73,103,130,133,134,38,42,50,86,94,95",
-                        "endOffsets": "18298,18402,18533,18667,18802,18841,18884,18935,19022,19117,19213"
-                    }
-                },
-                {
                     "source": "C:\\Users\\simto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-lite-18.2.0.aar\\b10f57fac162b577e354b7e20ddfcb47\\res\\values\\values.xml",
                     "from": {
                         "startLines": "14,4",
@@ -181,23 +198,6 @@
                         "endLines": "28,440",
                         "endColumns": "20,8",
                         "endOffsets": "1758,27305"
-                    }
-                },
-                {
-                    "source": "W:\\app\\src\\main\\res\\values\\GooglePlayAppID.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "1",
-                        "startOffsets": "54",
-                        "endColumns": "44",
-                        "endOffsets": "97"
-                    },
-                    "to": {
-                        "startLines": "338",
-                        "startColumns": "4",
-                        "startOffsets": "19218",
-                        "endColumns": "47",
-                        "endOffsets": "19261"
                     }
                 },
                 {

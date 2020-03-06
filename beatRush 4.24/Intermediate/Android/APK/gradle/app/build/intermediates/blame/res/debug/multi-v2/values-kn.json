@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "W:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "outputFile": "Y:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\simto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.1.0.aar\\cd8d05da5aed6ca277f61183e2b5778a\\res\\values-kn\\values.xml",

@@ -1,4 +1,4 @@
-#Thu Mar 05 06:00:05 CET 2020
+#Fri Mar 06 23:19:04 CET 2020
 path.1=classes.dex
 path.0=classes.dex
 renamed.7=classes8.dex
@@ -9,14 +9,14 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.7=W\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
-base.6=W\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
-base.5=W\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
-base.4=W\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
-base.3=W\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
-base.2=W\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-base.1=W\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
-base.0=W\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+base.7=Y\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+base.6=Y\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+base.5=Y\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+base.4=Y\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+base.3=Y\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.2=Y\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+base.1=Y\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.0=Y\:\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.7=classes.dex
 path.6=classes.dex
 path.5=classes.dex
