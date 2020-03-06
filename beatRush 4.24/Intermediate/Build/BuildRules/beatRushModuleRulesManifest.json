@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\beatRush\\beatRush 4.24\\Source\\beatRush\\beatRush.Build.cs",
+		"D:\\Unreal Projects\\beatRush\\beatRush 4.24\\Source\\beatRush.Target.cs",
+		"D:\\Unreal Projects\\beatRush\\beatRush 4.24\\Source\\beatRushEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

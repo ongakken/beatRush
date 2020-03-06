@@ -1,0 +1,448 @@
+{
+	"Contents": [
+		{
+			"File": "../../../Engine/Plugins/Online/OnlineSubsystemGoogle/OnlineSubsystemGoogle.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Online Subsystem Google",
+				"Description": "Access to Google platform",
+				"Category": "Online Platform",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "OnlineSubsystemGoogle",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Online Subsystem",
+				"Description": "Shared code for interacting online subsystem implementations.",
+				"Category": "Online Platform",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "OnlineSubsystem",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit"
+					}
+				],
+				"LocalizationTargets": [
+					{
+						"Name": "OnlineSubsystem",
+						"LoadingPolicy": "Always"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Marketplace/EasyAdsPlugin/EasyAds.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 6,
+				"VersionName": "1.6",
+				"FriendlyName": "EasyAds",
+				"Description": "/** EasyAds - unreal engine 4 ads plugin** Copyright (C) 2019 feixuwu <feixuwu@outlook.com> All Rights Reserved.*/",
+				"Category": "Other",
+				"CreatedBy": "feixuwu@outlook.com",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ada7fb755f4541a685b497b6de0d0163",
+				"SupportURL": "",
+				"EngineVersion": "4.24.0",
+				"CanContainContent": true,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "EasyAds",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac",
+							"IOS",
+							"Android"
+						]
+					},
+					{
+						"Name": "EasyAdsEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 2,
+				"VersionName": "1.0",
+				"FriendlyName": "Online Framework Plugin",
+				"Description": "Shared code for interacting with online gameplay services.",
+				"Category": "Online Platform",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "Qos",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "Party",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "Lobby",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "Hotfix",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "Rejoin",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "PlayTimeLimit",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "LoginFlow",
+						"Type": "ClientOnly",
+						"LoadingPhase": "Default"
+					}
+				],
+				"LocalizationTargets": [
+					{
+						"Name": "OnlineFramework",
+						"LoadingPolicy": "Always"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					},
+					{
+						"Name": "OnlineSubsystemUtils",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Online Subsystem Utils",
+				"Description": "Shared code for interacting online subsystem implementations.",
+				"Category": "Online Platform",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "OnlineSubsystemUtils",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit"
+					},
+					{
+						"Name": "OnlineBlueprintSupport",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "PostConfigInit"
+					}
+				],
+				"LocalizationTargets": [
+					{
+						"Name": "OnlineSubsystemUtils",
+						"LoadingPolicy": "Always"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "LightPropagationVolume",
+				"Description": "The plugin encapsulates a small part of the LightPropagationVolume feature, the LightPropagationVolumeBlendable asset (for more info: look for Blendables in the documentation). This plugin is also an example on how to make a Blendable asset outside of the engine",
+				"Category": "Rendering",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "LightPropagationVolumeRuntime",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "LightPropagationVolumeEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Asset Manager Editor",
+				"Description": "Editor UI and utilities for managing and auditing Assets on disk",
+				"Category": "Editor",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AssetManagerEditor",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Online Subsystem GooglePlay",
+				"Description": "Access to GooglePlay platform",
+				"Category": "Online Platform",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"SupportedTargetPlatforms": [
+					"Android"
+				],
+				"Modules": [
+					{
+						"Name": "OnlineSubsystemGooglePlay",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Android"
+						]
+					}
+				],
+				"LocalizationTargets": [
+					{
+						"Name": "OnlineSubsystemGooglePlay",
+						"LoadingPolicy": "Always"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "OnlineSubsystem",
+						"Enabled": true
+					},
+					{
+						"Name": "AndroidPermission",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/AndroidPermission/AndroidPermission.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Android Runtime Permission",
+				"Description": "Support for Android Runtime Permission",
+				"Category": "Android",
+				"CreatedBy": "Google",
+				"CreatedByURL": "http://developers.google.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "AndroidPermission",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Android Device Profile Selector",
+				"Description": "Android Device Profile Selector used show selection of device profiles on hardware",
+				"Category": "Device Profile Selectors",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AndroidDeviceProfileSelector",
+						"Type": "Editor",
+						"LoadingPhase": "PostConfigInit"
+					},
+					{
+						"Name": "AndroidDeviceProfileSelectorRuntime",
+						"Type": "RuntimeNoCommandlet",
+						"LoadingPhase": "PostConfigInit",
+						"WhitelistPlatforms": [
+							"Android",
+							"Lumin"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/AssetTags/AssetTags.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Asset Tags",
+				"Description": "Provides high-level management and access to asset tags and collections for runtime and editor scripting.",
+				"Category": "Other",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AssetTags",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Custom Mesh Component",
+				"Description": "A new renderable Component class that allows you to specify custom geometry via C++ or Blueprint.",
+				"Category": "Rendering",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "CustomMeshComponent",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		}
+	]
+}
