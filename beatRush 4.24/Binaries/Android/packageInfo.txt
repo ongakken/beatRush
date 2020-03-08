@@ -1,4 +1,4 @@
 sk.smdtech.beatrush
-83
-0.90
+90
+0.97
 name='com.epicgames.ue4.GameActivity.AppType' value=''

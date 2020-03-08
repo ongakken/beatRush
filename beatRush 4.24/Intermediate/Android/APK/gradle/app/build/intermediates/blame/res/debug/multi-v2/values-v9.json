@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "Y:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v9\\values-v9.xml",
+            "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v9\\values-v9.xml",
             "map": [
                 {
-                    "source": "Y:\\app\\src\\main\\res\\values-v9\\styles.xml",
+                    "source": "Z:\\app\\src\\main\\res\\values-v9\\styles.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
