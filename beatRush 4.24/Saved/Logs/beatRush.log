@@ -737,3 +737,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-11.56.06:379][265]LogWorld: Changing Feature Level (Enum) from 3 to 0
 [2020.03.11-11.56.06:503][265]LogSlate: Took 0.014116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2020.03.11-11.56.08:581][400]LogSlate: Took 0.018165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.11-12.06.16:906][363]LogEditorViewport: Clicking on Actor (LMB): playerCharacter_BP_C (playerCharacter_BP)
+[2020.03.11-12.21.32:607][ 86]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.11-12.21.38:215][378]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.11-12.22.26:190][561]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.03.11-12.22.26:513][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.03.11-12.22.27:570][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../Unreal Projects/beatRush/beatRush 4.24/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.03.11-12.22.27:745][597]LogSavePackage: Moving '../../../../../Unreal Projects/beatRush/beatRush 4.24/Saved/playerCharacter_BP3A49512B4575AEE316B831B40C4EC429.tmp' to '../../../../../Unreal Projects/beatRush/beatRush 4.24/Content/BP/playerCharacter_BP.uasset'
+[2020.03.11-12.22.27:755][597]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.03.11-12.22.27:755][597]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.03.11-12.22.27:999][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.11-12.22.28:025][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../Unreal Projects/beatRush/beatRush 4.24/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-12.22.28:051][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.11-12.22.28:250][618]LogSavePackage: Moving '../../../../../Unreal Projects/beatRush/beatRush 4.24/Saved/gameplayE444150B41ACDFF056B275B1F4102F0E.tmp' to '../../../../../Unreal Projects/beatRush/beatRush 4.24/Content/Levels/gameplay.umap'
+[2020.03.11-12.22.28:285][618]LogFileHelpers: Saving map 'gameplay' took 0.259
+[2020.03.11-12.22.28:294][618]AssetCheck: New page: Asset Save: gameplay
+[2020.03.11-12.22.28:295][618]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.03.11-12.23.07:506][786]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.03.11-12.23.07:791][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.03.11-12.23.08:588][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../../Unreal Projects/beatRush/beatRush 4.24/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.03.11-12.23.08:767][807]LogSavePackage: Moving '../../../../../Unreal Projects/beatRush/beatRush 4.24/Saved/playerCharacter_BPD1267D9344E4EFAF88026BBF95E176AF.tmp' to '../../../../../Unreal Projects/beatRush/beatRush 4.24/Content/BP/playerCharacter_BP.uasset'
+[2020.03.11-12.23.08:779][807]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.03.11-12.23.08:779][807]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
