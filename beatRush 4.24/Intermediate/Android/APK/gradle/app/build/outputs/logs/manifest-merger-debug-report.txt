@@ -72,13 +72,13 @@ INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from Z:\app\src\main\AndroidManifest.xml:1:164-190
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:165-191
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from Z:\app\src\main\AndroidManifest.xml:1:139-163
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:139-164
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 	android:installLocation

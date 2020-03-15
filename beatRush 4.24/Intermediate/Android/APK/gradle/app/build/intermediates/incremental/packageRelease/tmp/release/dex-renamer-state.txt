@@ -1,4 +1,4 @@
-#Thu Mar 12 22:03:50 CET 2020
+#Sun Mar 15 11:59:58 CET 2020
 base.0=Z\:\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
 path.0=classes.dex
 renamed.0=classes.dex
