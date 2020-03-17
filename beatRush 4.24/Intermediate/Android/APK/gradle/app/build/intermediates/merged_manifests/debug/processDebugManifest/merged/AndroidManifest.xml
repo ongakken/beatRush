@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="sk.smdtech.beatrush"
     android:installLocation="internalOnly"
-    android:versionCode="100"
-    android:versionName="1.05" >
+    android:versionCode="101"
+    android:versionName="1.07" >
 
     <uses-sdk
         android:minSdkVersion="23"
@@ -74,7 +74,7 @@
             android:value="++UE4+Release-4.24" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.ProjectVersion"
-            android:value="1.05" />
+            android:value="1.07" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
             android:value="0" />
