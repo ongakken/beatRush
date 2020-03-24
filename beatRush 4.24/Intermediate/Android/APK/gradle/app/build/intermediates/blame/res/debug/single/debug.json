@@ -100,12 +100,12 @@
         "source": "Z:\\app\\src\\main\\res\\drawable-mdpi\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "Z:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
-        "source": "C:\\Users\\simto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-17.0.0.aar\\e72c8e4dfd7590b16e5ae30277ac3a32\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
-    },
-    {
         "merged": "Z:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
         "source": "Z:\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "Z:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\simto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-17.0.0.aar\\e72c8e4dfd7590b16e5ae30277ac3a32\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
         "merged": "Z:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_ic_plusone_medium_off_client.png.flat",
