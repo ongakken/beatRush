@@ -1,0 +1,5 @@
+D:\Unreal Projects\beatRush\beatRush 4.24\Intermediate\Build\Win64\UE4Editor\Development\beatRush\Definitions.beatRush.h
+D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal Projects\beatRush\beatRush 4.24\Source\beatRush/Public/ship.h
+D:\Unreal Projects\beatRush\beatRush 4.24\Intermediate\Build\Win64\UE4Editor\Inc\beatRush\ship.generated.h

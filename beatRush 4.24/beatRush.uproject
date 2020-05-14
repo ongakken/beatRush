@@ -7,7 +7,10 @@
 		{
 			"Name": "beatRush",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
@@ -301,6 +304,11 @@
 			"Name": "AndroidGoodies",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2775bb4f59e5498bb040d1e48767ea03"
+		},
+		{
+			"Name": "Etherlinker",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e029bbf9d6b04f95b9d9ef52e3934be5"
 		}
 	],
 	"TargetPlatforms": [
