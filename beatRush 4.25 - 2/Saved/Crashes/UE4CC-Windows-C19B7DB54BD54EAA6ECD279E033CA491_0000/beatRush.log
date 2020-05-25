@@ -1,0 +1,1480 @@
+﻿Log file open, 12/03/19 15:29:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: beatRush
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.724873
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/Input.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/Editor.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/Compat.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini]
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/MagicLeap.ini]
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/OculusVR.ini]
+LogPluginManager: Mounting plugin PhysXVehicles
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/PhysXVehicles.ini]
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Engine.ini]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.12.03-14.29.23:043][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.12.03-14.29.23:044][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.12.03-14.29.23:045][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Engine.ini]
+[2019.12.03-14.29.23:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Engine.ini]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Engine.ini]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.03-14.29.23:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Engine.ini]
+[2019.12.03-14.29.23:046][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Engine.ini]
+[2019.12.03-14.29.23:053][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-14.29.23:054][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-14.29.23:055][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-14.29.23:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-14.29.23:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-14.29.23:056][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-14.29.23:056][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.03-14.29.23:087][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini]
+[2019.12.03-14.29.23:090][  0]LogHAL: Display: Platform has ~ 32 GB [34222620672 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.03-14.29.23:091][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.03-14.29.23:091][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.03-14.29.23:091][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:091][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-14.29.23:091][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-14.29.23:092][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.12.03-14.29.23:093][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.12.03-14.29.23:094][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.03-14.29.23:101][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.03-14.29.23:101][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.03-14.29.23:101][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Engine.ini]
+[2019.12.03-14.29.23:102][  0]LogInit: Computer: SMDTECHSLOVAKIA
+[2019.12.03-14.29.23:102][  0]LogInit: User: smdex
+[2019.12.03-14.29.23:102][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.03-14.29.23:102][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.03-14.29.23:103][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.12.03-14.29.23:103][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.03-14.29.23:103][  0]LogMemory: Process Physical Memory: 98.50 MB used, 98.50 MB peak
+[2019.12.03-14.29.23:103][  0]LogMemory: Process Virtual Memory: 89.24 MB used, 89.24 MB peak
+[2019.12.03-14.29.23:103][  0]LogMemory: Physical Memory: 11706.25 MB used,  20930.98 MB free, 32637.23 MB total
+[2019.12.03-14.29.23:103][  0]LogMemory: Virtual Memory: 4642.61 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.12.03-14.29.23:763][  0]LogInit: Using OS detected language (en-US).
+[2019.12.03-14.29.23:763][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.03-14.29.23:769][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.03-14.29.24:144][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.03-14.29.24:291][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.03-14.29.24:291][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.03-14.29.27:908][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.12.03-14.29.27:908][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.03-14.29.28:047][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.03-14.29.28:047][  0]LogD3D11RHI:       8081/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.03-14.29.28:066][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.03-14.29.28:067][  0]LogD3D11RHI:       128/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.03-14.29.28:070][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.03-14.29.28:070][  0]LogD3D11RHI:       0/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.03-14.29.28:070][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.03-14.29.28:115][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.03-14.29.28:116][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.03-14.29.28:116][  0]LogWindows: EnumDisplayDevices:
+[2019.12.03-14.29.28:116][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.03-14.29.28:117][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.03-14.29.28:117][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.03-14.29.28:117][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.03-14.29.28:117][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.03-14.29.28:118][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.03-14.29.28:118][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.03-14.29.28:118][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.03-14.29.28:118][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.03-14.29.28:118][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2019.12.03-14.29.28:118][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2019.12.03-14.29.28:118][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.12.03-14.29.28:201][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.03-14.29.28:220][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-14.29.28:221][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-14.29.28:221][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-14.29.28:233][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.03-14.29.28:939][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.03-14.29.28:961][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.03-14.29.28:978][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.03-14.29.28:999][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.03-14.29.29:017][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.03-14.29.29:036][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.03-14.29.29:056][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.03-14.29.29:075][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.03-14.29.29:084][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.03-14.29.29:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.03-14.29.29:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.03-14.29.29:235][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.03-14.29.29:314][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.03-14.29.29:314][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.03-14.29.29:353][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.03-14.29.29:353][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.03-14.29.29:377][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.03-14.29.29:398][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.03-14.29.29:420][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.03-14.29.29:444][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.03-14.29.29:520][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.03-14.29.29:520][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.03-14.29.29:520][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.03-14.29.29:573][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.03-14.29.29:721][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/Shaders/WorkingDirectory/11804/).
+[2019.12.03-14.29.29:721][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/smdex/AppData/Local/Temp/UnrealShaderWorkingDir/AC933B874C784DFC52CBBF9B13532AE7/'.
+[2019.12.03-14.29.29:725][  0]LogXGEController: Cleaning working directory: C:/Users/smdex/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.03-14.29.29:737][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.12.03-14.29.33:347][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.03-14.29.33:773][  0]LogDerivedDataCache: Loaded boot cache 0.42s 267MB C:/Users/smdex/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.03-14.29.33:773][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/smdex/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.03-14.29.33:773][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.03-14.29.33:773][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.03-14.29.33:773][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-14.29.33:773][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.03-14.29.33:801][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.03-14.29.33:802][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-14.29.33:802][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.03-14.29.33:814][  0]LogDerivedDataCache: Using Local data cache path C:/Users/smdex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.03-14.29.33:814][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.03-14.29.33:814][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.03-14.29.33:855][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.03-14.29.33:862][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.03-14.29.33:891][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.03-14.29.34:403][  0]LogAssetRegistry: FAssetRegistry took 0.0449 seconds to start up
+[2019.12.03-14.29.35:046][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/CachedAssetRegistry.bin
+[2019.12.03-14.29.35:046][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-14.29.35:453][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.03-14.29.35:453][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.03-14.29.35:454][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.03-14.29.35:454][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.03-14.29.35:455][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.03-14.29.35:535][  0]LogNetVersion: beatRush 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 794459514)
+[2019.12.03-14.29.37:203][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/AssetRegistryCache/2657c409.bin
+[2019.12.03-14.29.37:215][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/AssetRegistryCache/8c0e1344.bin
+[2019.12.03-14.29.37:237][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Intermediate/AssetRegistryCache/50a675f9.bin
+[2019.12.03-14.29.37:271][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.073298 seconds
+[2019.12.03-14.29.37:282][  0]LogUObjectArray: 42206 objects as part of root set at end of initial load.
+[2019.12.03-14.29.37:282][  0]LogUObjectAllocator: 7325272 out of 0 bytes used by permanent object pool.
+[2019.12.03-14.29.37:282][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.03-14.29.42:379][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.03-14.29.42:397][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.03-14.29.42:638][  0]SourceControl: Source control is disabled
+[2019.12.03-14.29.42:639][  0]SourceControl: Source control is disabled
+[2019.12.03-14.29.42:649][  0]SourceControl: Source control is disabled
+[2019.12.03-14.29.42:653][  0]SourceControl: Source control is disabled
+[2019.12.03-14.29.42:920][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.03-14.29.43:128][  0]LogOcInput: OculusInput pre-init called
+[2019.12.03-14.29.44:204][  0]LogEngine: Initializing Engine...
+[2019.12.03-14.29.44:250][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.12.03-14.29.44:253][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.12.03-14.29.44:825][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.03-14.29.44:888][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.03-14.29.44:953][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.03-14.29.44:988][  0]LogInit: FAudioDevice initialized.
+[2019.12.03-14.29.44:989][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.03-14.29.45:171][  0]LogDerivedDataCache: Saved boot cache 0.18s 268MB C:/Users/smdex/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.03-14.29.45:200][  0]LogInit: Texture streaming: Enabled
+[2019.12.03-14.29.45:229][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.03-14.29.45:569][  0]LogInit: Transaction tracking system initialized
+[2019.12.03-14.29.45:610][  0]BlueprintLog: New page: Editor Load
+[2019.12.03-14.29.45:789][  0]LocalizationService: Localization service is disabled
+[2019.12.03-14.29.46:065][  0]LogLinker: Warning: Can't find file '/Game/PointCloudsMorphing/TutorialPointClouds'
+[2019.12.03-14.29.46:065][  0]LogLinker: Warning: Can't find file '/Game/PointCloudsMorphing/TutorialPointClouds'
+[2019.12.03-14.29.46:065][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/PointCloudsMorphing/TutorialPointClouds.TutorialPointClouds_C'
+[2019.12.03-14.29.46:792][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/' took 0.02s
+[2019.12.03-14.29.46:792][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.03-14.29.46:792][  0]LogCook: Display: Mobile HDR setting 0
+[2019.12.03-14.29.47:419][  0]SourceControl: Source control is disabled
+[2019.12.03-14.29.47:420][  0]Cmd: MAP LOAD FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/FlyingCPP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-14.29.47:431][  0]LightingResults: New page: Lighting Build
+[2019.12.03-14.29.47:440][  0]MapCheck: New page: Map Check
+[2019.12.03-14.29.47:440][  0]LightingResults: New page: Lighting Build
+[2019.12.03-14.29.47:484][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.03-14.29.48:114][  0]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.12.03-14.29.48:156][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.12.03-14.29.48:211][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.12.03-14.29.48:211][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-14.29.48:211][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2019.12.03-14.29.48:211][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 0.792
+[2019.12.03-14.29.48:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-14.29.48:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-14.29.48:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-14.29.48:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-14.29.48:502][  0]LogCollectionManager: Loaded 0 collections in 0.002941 seconds
+[2019.12.03-14.29.48:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Collections/' took 0.01s
+[2019.12.03-14.29.48:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Developers/smdex/Collections/' took 0.01s
+[2019.12.03-14.29.48:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Collections/' took 0.01s
+[2019.12.03-14.29.48:544][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.03-14.29.48:556][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2734 classes and 661 folders.
+[2019.12.03-14.29.48:568][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.03-14.29.48:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.48:859][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-14.29.49:109][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.03-14.29.49:126][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.12.03-14.29.49:334][  0]LogSlate: Took 0.007930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.03-14.29.49:347][  0]LogSlate: Took 0.008159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.03-14.29.49:363][  0]LogSlate: Took 0.006154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.03-14.29.49:569][  0]LogRenderer: Reallocating scene render targets to support 1452x712 Format 9 NumSamples 1 (Frame:1).
+[2019.12.03-14.29.50:069][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.12.03-14.29.50:069][  0]LogLoad: (Engine Initialization) Total time: 33.68 seconds
+[2019.12.03-14.29.50:069][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.03-14.29.50:208][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.12.03-14.29.50:263][  0]LogSlate: Took 0.001468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-14.29.50:438][  1]LogAssetRegistry: Asset discovery search completed in 16.0583 seconds
+[2019.12.03-14.29.50:446][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.03-14.29.50:446][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2019.12.03-14.40.08:801][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-14.40.11:894][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-14.40.15:191][861]LogSlate: Window 'New Level' being destroyed
+[2019.12.03-14.40.15:198][861]LightingResults: New page: Lighting Build
+[2019.12.03-14.40.15:200][861]MapCheck: New page: Map Check
+[2019.12.03-14.40.15:200][861]LightingResults: New page: Lighting Build
+[2019.12.03-14.40.15:230][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.03-14.40.15:232][861]LogAIModule: Creating AISystem for world Untitled
+[2019.12.03-14.40.15:323][861]LoadErrors: New page: New Map
+[2019.12.03-14.40.17:088][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-14.40.20:947][957]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.03-14.40.23:444][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-14.40.47:354][105]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.03-14.40.47:361][105]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.12.03-14.40.47:383][105]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-14.40.47:416][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/caffeine" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/caffeine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-14.40.47:448][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.12.03-14.40.47:463][105]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/caffeineC01CB2BD4A2055F14DB10983C62458B6.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/caffeine.umap'
+[2019.12.03-14.40.47:508][105]LogFileHelpers: Saving map 'caffeine' took 0.145
+[2019.12.03-14.40.51:014][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-14.40.51:032][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/caffeine" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/caffeine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-14.40.51:062][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.12.03-14.40.51:086][307]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/caffeineD1D40D1741689CD3401BC08F83D983C2.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/caffeine.umap'
+[2019.12.03-14.41.15:575][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-14.41.26:047][849]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Flying/Meshes/UFO.UFO
+[2019.12.03-14.41.26:853][849]LogRenderer: Reallocating scene render targets to support 1452x924 Format 9 NumSamples 1 (Frame:1).
+[2019.12.03-14.41.26:853][849]LogSlate: Took 0.010933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.03-14.41.45:022][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-14.41.45:128][668]LogSlate: Window 'UFO' being destroyed
+[2019.12.03-14.41.47:996][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-14.42.00:475][553]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2019.12.03-14.42.02:756][628]LogSlate: Window '1M_Cube' being destroyed
+[2019.12.03-14.42.03:766][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-15.32.35:594][147]LogDirectoryWatcher: A directory notification failed for 'C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Developers/smdex/Collections/' because it could not be accessed. Aborting watch request...
+[2019.12.03-15.32.40:627][162]LogDirectoryWatcher: A directory notification failed for 'C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.12.03-16.03.58:472][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.03.58:586][889]AssetReimport: New page: Outstanding source content changes 6:03:58 PM
+[2019.12.03-16.03.58:592][889]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship.fbx)
+[2019.12.03-16.03.58:619][889]LogFbx: Loading FBX Scene from C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship.fbx
+[2019.12.03-16.03.58:630][889]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.03-16.04.04:169][889]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.03-16.04.04:630][889]LogStaticMesh: Building static mesh ship_Cube...
+[2019.12.03-16.04.04:649][889]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/vessel/ship_Cube.ship_Cube
+[2019.12.03-16.04.04:681][889]LogStaticMesh: Building static mesh ship_Cube_001...
+[2019.12.03-16.04.04:686][889]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/vessel/ship_Cube_001.ship_Cube_001
+[2019.12.03-16.04.04:737][889]LogStaticMesh: Building static mesh ship_Cube_002...
+[2019.12.03-16.04.04:748][889]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/vessel/ship_Cube_002.ship_Cube_002
+[2019.12.03-16.04.04:768][889]LogStaticMesh: Building static mesh ship_Cube_003...
+[2019.12.03-16.04.04:772][889]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/vessel/ship_Cube_003.ship_Cube_003
+[2019.12.03-16.04.04:800][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.04.04:949][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/ship" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship.uasset" SILENT=true
+[2019.12.03-16.04.04:963][890]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/shipAC050C714C8BC68B499EBFAE0568A2C4.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship.uasset'
+[2019.12.03-16.04.07:985][ 40]AssetReimport: Importing new asset /Game/Meshes/vessel/ship.
+[2019.12.03-16.05.13:752][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.05.13:822][869]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-16.05.13:833][869]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-16.05.43:255][351]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2019.12.03-16.05.43:255][351]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/caffeine' took 0.048
+[2019.12.03-16.05.43:258][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/vessel/ship_Cube] ([1] browsable assets)...
+[2019.12.03-16.05.43:293][351]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/vessel/ship_Cube.ship_Cube]
+[2019.12.03-16.05.43:293][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/vessel/ship_Cube]
+[2019.12.03-16.05.43:323][351]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/ship_Cube_Auto1E8FC128247A48408537FD0B50CB22831.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Autosaves/Game/Meshes/vessel/ship_Cube_Auto1.uasset'
+[2019.12.03-16.05.43:325][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/vessel/body] ([1] browsable assets)...
+[2019.12.03-16.05.43:348][351]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/vessel/body.body]
+[2019.12.03-16.05.43:348][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/vessel/body]
+[2019.12.03-16.05.43:373][351]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/body_Auto10A7899554708ED1275C313858FF98B9E.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Autosaves/Game/Meshes/vessel/body_Auto1.uasset'
+[2019.12.03-16.05.43:374][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/vessel/black-parts] ([1] browsable assets)...
+[2019.12.03-16.05.43:394][351]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/vessel/black-parts.black-parts]
+[2019.12.03-16.05.43:394][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/vessel/black-parts]
+[2019.12.03-16.05.43:425][351]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/black-parts_Auto1BE962FFF495B8D52E10FF397D713B1E9.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Autosaves/Game/Meshes/vessel/black-parts_Auto1.uasset'
+[2019.12.03-16.05.43:427][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/vessel/Material] ([1] browsable assets)...
+[2019.12.03-16.05.43:453][351]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/vessel/Material.Material]
+[2019.12.03-16.05.43:453][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/vessel/Material]
+[2019.12.03-16.05.43:483][351]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Material_Auto18145EAD748E10699109278B2DBE790D0.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Autosaves/Game/Meshes/vessel/Material_Auto1.uasset'
+[2019.12.03-16.05.43:485][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/vessel/Material_001] ([1] browsable assets)...
+[2019.12.03-16.05.43:507][351]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/vessel/Material_001.Material_001]
+[2019.12.03-16.05.43:507][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/vessel/Material_001]
+[2019.12.03-16.05.43:535][351]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Material_001_Auto10983283446DBDEE81F898A9D03B1DA6D.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Autosaves/Game/Meshes/vessel/Material_001_Auto1.uasset'
+[2019.12.03-16.05.43:536][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/vessel/ship_Cube_001] ([1] browsable assets)...
+[2019.12.03-16.05.43:556][351]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/vessel/ship_Cube_001.ship_Cube_001]
+[2019.12.03-16.05.43:556][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/vessel/ship_Cube_001]
+[2019.12.03-16.05.43:594][351]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/ship_Cube_001_Auto1011D4930436BF0D15F69529004E2F681.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Autosaves/Game/Meshes/vessel/ship_Cube_001_Auto1.uasset'
+[2019.12.03-16.05.43:599][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/vessel/ship_Cube_002] ([1] browsable assets)...
+[2019.12.03-16.05.43:624][351]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/vessel/ship_Cube_002.ship_Cube_002]
+[2019.12.03-16.05.43:624][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/vessel/ship_Cube_002]
+[2019.12.03-16.05.43:660][351]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/ship_Cube_002_Auto1C7758C8E4FE69EB6DA97788EB9539D5C.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Autosaves/Game/Meshes/vessel/ship_Cube_002_Auto1.uasset'
+[2019.12.03-16.05.43:662][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/vessel/ship_Cube_003] ([1] browsable assets)...
+[2019.12.03-16.05.43:685][351]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/vessel/ship_Cube_003.ship_Cube_003]
+[2019.12.03-16.05.43:685][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/vessel/ship_Cube_003]
+[2019.12.03-16.05.43:730][351]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/ship_Cube_003_Auto1B426B109478781AA2C36DDB74AD68E85.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Autosaves/Game/Meshes/vessel/ship_Cube_003_Auto1.uasset'
+[2019.12.03-16.05.43:734][351]LogFileHelpers: Auto-saving content packages took 0.478
+[2019.12.03-16.12.35:617][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.12.38:305][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.13.02:336][275]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.03-16.13.02:351][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.13.02:416][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.12.03-16.13.02:549][275]LogAIModule: Creating AISystem for world gameplay
+[2019.12.03-16.13.02:553][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-16.13.02:585][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.03-16.13.02:709][275]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplayDBB6B6AA4F1AC90D04BF79A451B507B6.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2019.12.03-16.13.02:722][275]LogFileHelpers: Saving map 'gameplay' took 0.380
+[2019.12.03-16.13.02:725][275]Cmd: MAP LOAD FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-16.13.02:734][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.13.02:751][275]LightingResults: New page: Lighting Build
+[2019.12.03-16.13.02:752][275]LoadErrors: New page: Loading map: gameplay.umap
+[2019.12.03-16.13.02:755][275]MapCheck: New page: Map Check
+[2019.12.03-16.13.02:755][275]LightingResults: New page: Lighting Build
+[2019.12.03-16.13.02:783][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.03-16.13.02:917][275]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.03-16.13.02:948][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.12.03-16.13.02:989][275]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-16.13.02:989][275]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2019.12.03-16.13.02:989][275]LogFileHelpers: Loading map 'gameplay' took 0.266
+[2019.12.03-16.13.04:758][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.13.08:616][600]LogAIModule: Creating AISystem for world caffeine
+[2019.12.03-16.13.08:643][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.12.03-16.13.09:939][600]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.03-16.13.09:951][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.13.09:989][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.13.10:019][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.13.10:064][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.03-16.13.10:091][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.12.03-16.13.10:117][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.12.03-16.13.50:359][ 17]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.341 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.03-16.14.57:461][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.15.00:661][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.15.00:711][485]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-16.15.00:740][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2019.12.03-16.15.00:741][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-16.15.00:742][485]PIE: New page: PIE session: gameplay (Dec 3, 2019, 6:15:00 PM)
+[2019.12.03-16.15.00:758][485]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_gameplay
+[2019.12.03-16.15.00:760][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000963s)
+[2019.12.03-16.15.00:760][485]LogAIModule: Creating AISystem for world gameplay
+[2019.12.03-16.15.00:761][485]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2019.12.03-16.15.00:761][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/gameplay.gameplay to /Game/Levels/UEDPIE_0_gameplay.gameplay (0.002319s)
+[2019.12.03-16.15.00:788][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.12.03-16.15.00:822][485]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.03-16.15.00:844][485]LogInit: FAudioDevice initialized.
+[2019.12.03-16.15.00:894][485]LogLoad: Game class is 'beatRushGameMode'
+[2019.12.03-16.15.00:907][485]LogWorld: Bringing World /Game/Levels/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2019.12.03-17.15.00
+[2019.12.03-16.15.00:909][485]LogWorld: Bringing up level for play took: 0.001730
+[2019.12.03-16.15.00:950][485]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.12.03-16.15.00:961][485]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_gameplay 0.311
+[2019.12.03-16.15.00:961][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2019.12.03-16.15.02:994][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2019.12.03-16.15.02:997][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-16.15.03:033][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-16.15.03:033][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/gameplay.gameplay:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay' with GeneratedClass '/Game/Levels/gameplay.gameplay_C' with ClassGeneratedBy '/Game/Levels/gameplay.gameplay:PersistentLevel.gameplay'
+[2019.12.03-16.15.03:062][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-16.15.03:067][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.03-16.15.03:096][603]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.03-16.17.21:868][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.17.22:002][911]LogActorFactory: Actor Factory created Cube
+[2019.12.03-16.17.22:587][943]LogActorFactory: Actor Factory created Cube
+[2019.12.03-16.17.40:914][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.17.52:125][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.17.53:692][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.03-16.18.30:489][809]Cmd: EDIT COPY
+[2019.12.03-16.18.30:825][828]Cmd: EDIT PASTE
+[2019.12.03-16.18.45:489][645]Cmd: EDIT COPY
+[2019.12.03-16.18.45:759][653]Cmd: EDIT PASTE
+[2019.12.03-16.19.01:329][518]Cmd: EDIT COPY
+[2019.12.03-16.19.01:574][525]Cmd: EDIT PASTE
+[2019.12.03-16.19.24:203][754]Cmd: EDIT COPY
+[2019.12.03-16.19.24:452][765]Cmd: EDIT PASTE
+[2019.12.03-16.19.42:025][708]Cmd: EDIT COPY
+[2019.12.03-16.19.42:259][718]Cmd: EDIT PASTE
+[2019.12.03-16.19.56:786][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.12.03-16.19.59:102][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.03-16.19.59:114][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.19.59:141][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-16.19.59:171][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.12.03-16.19.59:328][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay854F877E4D67C6CCC760D690B8F9F8A6.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2019.12.03-16.19.59:373][607]LogFileHelpers: Saving map 'gameplay' took 0.232
+[2019.12.03-16.19.59:378][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/ship_Cube" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship_Cube.uasset" SILENT=true
+[2019.12.03-16.19.59:393][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/ship_CubeBE63789846C086AE3D0B29984F6A4BD4.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship_Cube.uasset'
+[2019.12.03-16.19.59:410][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/body" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/body.uasset" SILENT=true
+[2019.12.03-16.19.59:428][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/body072E852A47F9E3D06A5D7996A8CD5191.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/body.uasset'
+[2019.12.03-16.19.59:454][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/black-parts" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/black-parts.uasset" SILENT=true
+[2019.12.03-16.19.59:473][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/black-parts3615DE9B42EA0BE7D1A3DC8EF03C7419.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/black-parts.uasset'
+[2019.12.03-16.19.59:493][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/Material" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/Material.uasset" SILENT=true
+[2019.12.03-16.19.59:504][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/MaterialEDD0925449F956BA5CE319A88A2FBE55.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/Material.uasset'
+[2019.12.03-16.19.59:521][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/Material_001" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/Material_001.uasset" SILENT=true
+[2019.12.03-16.19.59:532][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Material_001EB0537ED42BD580464F4B1865197646B.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/Material_001.uasset'
+[2019.12.03-16.19.59:548][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/ship_Cube_001" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship_Cube_001.uasset" SILENT=true
+[2019.12.03-16.19.59:565][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/ship_Cube_0014179E3C74BE77DC3AEEA698CD88FB0BE.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship_Cube_001.uasset'
+[2019.12.03-16.19.59:582][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/ship_Cube_002" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship_Cube_002.uasset" SILENT=true
+[2019.12.03-16.19.59:609][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/ship_Cube_00244F24F27493E2F47DA98A3895CAD4A2E.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship_Cube_002.uasset'
+[2019.12.03-16.19.59:623][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/vessel/ship_Cube_003" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship_Cube_003.uasset" SILENT=true
+[2019.12.03-16.19.59:641][607]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/ship_Cube_00326E6466945AACEDB6582269A5AA0DCCE.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Meshes/vessel/ship_Cube_003.uasset'
+[2019.12.03-16.20.00:373][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.20.09:657][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.20.15:698][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.20.16:762][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.20.17:784][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.20.17:810][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.20.49:483][139]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-16.20.49:483][139]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2019.12.03-16.20.49:484][139]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2019.12.03-16.20.49:484][139]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-16.20.49:484][139]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-16.20.49:484][139]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-16.20.49:485][139]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-16.20.49:485][139]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-16.20.49:486][139]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-16.20.49:486][139]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-16.20.49:486][139]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-16.20.49:502][140]LogRenderer: Reallocating scene render targets to support 1452x924 Format 10 NumSamples 1 (Frame:13471).
+[2019.12.03-16.20.49:503][140]LogContentStreaming: Texture pool size now 3000 MB
+[2019.12.03-16.21.00:861][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.21.06:089][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.21.13:290][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.21.20:307][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.21.27:282][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.12.03-16.21.27:289][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.21.27:315][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-16.21.27:341][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.12.03-16.21.27:448][168]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay54604E3942260ED0F57B31AC091BA287.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2019.12.03-16.21.27:480][168]LogFileHelpers: Saving map 'gameplay' took 0.165
+[2019.12.03-16.26.54:596][375]LogDirectoryWatcher: A directory notification failed for 'C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.12.03-16.27.50:279][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.27.50:419][612]AssetReimport: New page: Outstanding source content changes 6:27:50 PM
+[2019.12.03-16.27.50:426][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/VFXSeries1/Meshes/OvalPortal.FBX)
+[2019.12.03-16.27.50:447][612]LogFbx: Loading FBX Scene from C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/VFXSeries1/Meshes/OvalPortal.FBX
+[2019.12.03-16.27.50:471][612]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.03-16.27.52:538][612]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.03-16.27.52:606][612]LogLinker: Can't find file '/Game/VFXSeries1/Meshes/PortalRefractionNormal'
+[2019.12.03-16.27.52:606][612]LogLinker: Can't find file '/Game/VFXSeries1/Meshes/PortalRefractionNormal'
+[2019.12.03-16.27.52:895][612]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/VFXSeries1/Meshes/PortalRefractionNormal.PortalRefractionNormal
+[2019.12.03-16.27.52:898][612]LogStaticMesh: Building static mesh OvalPortal_Cylinder001...
+[2019.12.03-16.27.52:902][612]LogStaticMesh: Built static mesh [0.00s] /Game/VFXSeries1/Meshes/OvalPortal_Cylinder001.OvalPortal_Cylinder001
+[2019.12.03-16.27.52:937][612]LogStaticMesh: Building static mesh OvalPortal_Box001...
+[2019.12.03-16.27.53:008][612]LogStaticMesh: Built static mesh [0.07s] /Game/VFXSeries1/Meshes/OvalPortal_Box001.OvalPortal_Box001
+[2019.12.03-16.27.53:102][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.27.53:128][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFXSeries1/Meshes/OvalPortal" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/VFXSeries1/Meshes/OvalPortal.uasset" SILENT=true
+[2019.12.03-16.27.53:150][613]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/OvalPortal64BE42804A10D30500DF81893FF56084.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/VFXSeries1/Meshes/OvalPortal.uasset'
+[2019.12.03-16.27.56:174][764]AssetReimport: Importing new asset /Game/VFXSeries1/Meshes/OvalPortal.
+[2019.12.03-16.27.59:188][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.27.59:335][913]AssetReimport: New page: Outstanding source content changes 6:27:59 PM
+[2019.12.03-16.27.59:336][913]LogEditorFactories: Performing atomic reimport of [C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/VFXSeries1/Meshes/OvalPortal.fbm/PortalRefractionNormal.png]
+[2019.12.03-16.27.59:338][913]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/VFXSeries1/Meshes/OvalPortal.fbm/PortalRefractionNormal.png)
+[2019.12.03-16.27.59:619][913]LogEditorFactories: -- imported successfully
+[2019.12.03-16.28.02:658][ 63]AssetReimport: Reimported asset PortalRefractionNormal from C:/Users/smdex/Documents/GitHub/beatRush/beatRush/Content/VFXSeries1/Meshes/OvalPortal.fbm/PortalRefractionNormal.png.
+[2019.12.03-16.28.03:862][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.28.04:889][176]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/DefaultTextMaterialEmissive'
+[2019.12.03-16.28.04:890][176]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/DefaultTextMaterialEmissive' while loading NULL.
+[2019.12.03-16.28.04:890][176]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/DefaultTextMaterialEmissive'
+[2019.12.03-16.28.04:890][176]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/DefaultTextMaterialEmissive' while loading NULL.
+[2019.12.03-16.28.04:892][176]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/DefaultTextMaterialEmissive'
+[2019.12.03-16.28.04:893][176]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/DefaultTextMaterialEmissive' while loading NULL.
+[2019.12.03-16.28.04:895][176]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/DefaultTextMaterialEmissive'
+[2019.12.03-16.28.04:895][176]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/DefaultTextMaterialEmissive' while loading NULL.
+[2019.12.03-16.28.04:899][176]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/DefaultTextMaterialEmissive'
+[2019.12.03-16.28.04:899][176]LoadErrors: Failed to load /Engine/EngineMaterials/DefaultTextMaterialEmissive.DefaultTextMaterialEmissive Referenced by TextRender_GEN_VARIABLE
+[2019.12.03-16.28.04:899][176]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/DefaultTextMaterialEmissive' while loading NULL.
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_RainRipples_Flipbook (AutoDXT, 1024X1024)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_LeafGreenFlip (AutoDXT, 1024X1024)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_Ripples_N (BC5, 1024X512)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_Ripples (AutoDXT, 1024X512)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_Rainbow (AutoDXT, 1024X512)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_UV_Dither (AutoDXT, 1024X1024)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_Rain_Drops_Glass (AutoDXT, 2048X2048)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_LeafFragFlip (AutoDXT, 2048X2048)
+[2019.12.03-16.28.05:533][176]LogTexture: Display: Building textures: T_LeafFlip (AutoDXT, 1024X1024)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_WaterDrop (AutoDXT, 256X256)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Hail_N (BC5, 1024X1024)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Leaf_Green_N (BC5, 512X512)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_LightningMasks (AutoDXT, 1024X1024)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Lightning (AutoDXT, 2048X1024)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_FrameClamp (AutoDXT, 1024X1024)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Lightning_Large (AutoDXT, 2048X4096)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X128)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_RainSheet (AutoDXT, 1024X1024)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Lightning_Zaps (AutoDXT, 1024X1024)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Leaf_Green (AutoDXT, 512X512)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Leaf_N (BC5, 512X512)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Leaf (AutoDXT, 512X512)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: T_Rain_Streaks_Glass (AutoDXT, 1024X1024)
+[2019.12.03-16.28.07:142][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.07:143][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.07:143][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.07:143][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.07:143][176]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.28.07:143][176]LogTexture: Display: Building textures: T_SnowFlake (AutoDXT, 1024X1024)
+[2019.12.03-16.28.07:143][176]LogMaterial: Display: Missing cached shader map for material M_LeafFlip_GPU, compiling. 
+[2019.12.03-16.28.07:542][176]LogMaterial: Display: Missing cached shader map for material M_LeafFlip, compiling. 
+[2019.12.03-16.28.07:608][176]LogStaticMesh: Building static mesh LeafGreenMesh...
+[2019.12.03-16.28.07:709][176]LogStaticMesh: Built static mesh [0.10s] /Game/weathereffects/Meshes/LeafGreenMesh.LeafGreenMesh
+[2019.12.03-16.28.07:763][176]LogMaterial: Display: Missing cached shader map for material M_Leaf_Green, compiling. 
+[2019.12.03-16.28.07:859][176]LogStaticMesh: Building static mesh LeafMesh...
+[2019.12.03-16.28.07:889][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.28.08:064][176]LogStaticMesh: Built static mesh [0.20s] /Game/weathereffects/Meshes/LeafMesh.LeafMesh
+[2019.12.03-16.28.08:083][176]LogMaterial: Display: Missing cached shader map for material M_Leaf, compiling. 
+[2019.12.03-16.28.08:218][176]LogMaterial: Display: Missing cached shader map for material M_SnowFlake_GPU, compiling. 
+[2019.12.03-16.28.08:310][176]LogMaterial: Display: Missing cached shader map for material M_Cloud, compiling. 
+[2019.12.03-16.28.08:423][176]LogMaterial: Display: Missing cached shader map for material M_Rain_Glass, compiling. 
+[2019.12.03-16.28.08:465][176]LogMaterial: Display: Missing cached shader map for material M_Ripples, compiling. 
+[2019.12.03-16.28.08:557][176]LogMaterial: Display: Missing cached shader map for material M_RainDrop, compiling. 
+[2019.12.03-16.28.08:647][176]LogStaticMesh: Building static mesh Rainbow...
+[2019.12.03-16.28.08:654][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.28.08:668][176]LogStaticMesh: Built static mesh [0.02s] /Game/weathereffects/Meshes/Rainbow.Rainbow
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexHullBuilder.cpp 336) eINTERNAL_ERROR : Gu::ConvexMesh::checkHullPolygons: Hull seems to have opened volume or do (some) faces have reversed winding?
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 304) eINTERNAL_ERROR : Gu::ConvexMesh::loadConvexHull: convex hull init failed!
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexHullBuilder.cpp 336) eINTERNAL_ERROR : Gu::ConvexMesh::checkHullPolygons: Hull seems to have opened volume or do (some) faces have reversed winding?
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 304) eINTERNAL_ERROR : Gu::ConvexMesh::loadConvexHull: convex hull init failed!
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: Failed to cook convex: /Game/weathereffects/Meshes/Rainbow.Rainbow 0 (FlipX:0). The remaining elements will not get cooked.
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexHullBuilder.cpp 336) eINTERNAL_ERROR : Gu::ConvexMesh::checkHullPolygons: Hull seems to have opened volume or do (some) faces have reversed winding?
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 304) eINTERNAL_ERROR : Gu::ConvexMesh::loadConvexHull: convex hull init failed!
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexHullBuilder.cpp 336) eINTERNAL_ERROR : Gu::ConvexMesh::checkHullPolygons: Hull seems to have opened volume or do (some) faces have reversed winding?
+[2019.12.03-16.28.08:684][176]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\ConvexMeshBuilder.cpp 304) eINTERNAL_ERROR : Gu::ConvexMesh::loadConvexHull: convex hull init failed!
+[2019.12.03-16.28.08:685][176]LogPhysics: Warning: Failed to cook convex: /Game/weathereffects/Meshes/Rainbow.Rainbow 0 (FlipX:1). The remaining elements will not get cooked.
+[2019.12.03-16.28.08:685][176]LogPhysics: Warning: Attempt to build physics data for /Game/weathereffects/Meshes/Rainbow.Rainbow:BodySetup_5 when we are unable to.
+[2019.12.03-16.28.08:689][176]LogMaterial: Display: Missing cached shader map for material M_Rainbow, compiling. 
+[2019.12.03-16.28.08:706][176]LogStaticMesh: Building static mesh HailStone...
+[2019.12.03-16.28.08:712][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.28.08:722][176]LogStaticMesh: Built static mesh [0.02s] /Game/weathereffects/Meshes/HailStone.HailStone
+[2019.12.03-16.28.08:748][176]LogMaterial: Display: Missing cached shader map for material M_Transparent, compiling. 
+[2019.12.03-16.28.08:829][176]LogMaterial: Display: Missing cached shader map for material M_Lightning_Large, compiling. 
+[2019.12.03-16.28.08:853][176]LogMaterial: Display: Missing cached shader map for material M_SnowFlake, compiling. 
+[2019.12.03-16.28.08:925][176]LogMaterial: Display: Missing cached shader map for material M_HailStone, compiling. 
+[2019.12.03-16.28.08:976][176]LogMaterial: Display: Missing cached shader map for material M_RainSheet, compiling. 
+[2019.12.03-16.28.09:052][176]LogMaterial: Display: Missing cached shader map for material M_Cloud_Dark, compiling. 
+[2019.12.03-16.28.09:134][176]LogMaterial: Display: Missing cached shader map for material M_Lightning, compiling. 
+[2019.12.03-16.28.09:208][176]LogMaterial: Display: Missing cached shader map for material M_Glow, compiling. 
+[2019.12.03-16.28.09:243][176]LogMaterial: Display: Missing cached shader map for material M_BaseColour, compiling. 
+[2019.12.03-16.28.09:301][176]LogMaterial: Display: Missing cached shader map for material M_Rain_Ripples, compiling. 
+[2019.12.03-16.28.09:328][176]LogAIModule: Creating AISystem for world WeatherEffects
+[2019.12.03-16.28.09:329][176]LogActorComponent: RegisterComponentWithWorld: (/Game/WeatherEffects.WeatherEffects:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.12.03-16.28.09:389][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.03-16.28.09:393][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.28.10:520][176]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.03-16.28.10:535][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.28.10:569][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.28.10:604][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.28.10:662][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.03-16.28.10:693][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.03-16.28.10:721][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.03-16.28.12:374][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.28.19:287][607]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-16.28.19:419][607]LogMaterial: Display: Missing cached shader map for material M_WarpMaster, compiling. 
+[2019.12.03-16.28.19:439][607]LogMaterial: Display: Missing cached shader map for material M_ParticleSeaMaster, compiling. 
+[2019.12.03-16.28.19:495][607]LogMaterial: Display: Missing cached shader map for material M_Warp, compiling. 
+[2019.12.03-16.28.19:523][607]LogMaterial: Display: Missing cached shader map for material M_Aurora, compiling. 
+[2019.12.03-16.28.19:645][607]LogAIModule: Creating AISystem for world TestScene
+[2019.12.03-16.28.19:680][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.03-16.28.21:726][607]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.03-16.28.21:732][607]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/EasySpaceVFX/Maps/TestScene.TestScene
+[2019.12.03-16.28.24:787][607]LogSlate: Window 'Message' being destroyed
+[2019.12.03-16.28.25:006][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.12.03-16.28.31:658][940]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-16.28.31:842][940]LogClass: Warning: Enum '/Game/PointCloudsMorphing/Blueprints/E_PointCloudsState.E_PointCloudsState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.03-16.28.31:966][940]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/PointCloudsMorphing/Blueprints/BP_PointCloudsMorphing.BP_PointCloudsMorphing_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.12.03-16.28.32:046][940]LogTexture: Display: Building textures: T_CloudBox (RGBA16F, 256X256)
+[2019.12.03-16.28.32:046][940]LogTexture: Display: Building textures: T_CloudText (RGBA16F, 256X256)
+[2019.12.03-16.28.32:046][940]LogTexture: Display: Building textures: T_CloudGun (RGBA16F, 256X256)
+[2019.12.03-16.28.32:047][940]LogTexture: Display: Building textures: T_CloudHead (RGBA16F, 256X256)
+[2019.12.03-16.28.32:047][940]LogTexture: Display: Building textures: T_CloudAstronaut (RGBA16F, 256X256)
+[2019.12.03-16.28.32:047][940]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.12.03-16.28.32:047][940]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.12.03-16.28.32:047][940]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.12.03-16.28.32:047][940]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.12.03-16.28.32:047][940]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X32)
+[2019.12.03-16.28.32:047][940]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X128)
+[2019.12.03-16.28.32:047][940]LogStaticMesh: Building static mesh SM_DemoArrow...
+[2019.12.03-16.28.32:071][940]LogStaticMesh: Built static mesh [0.03s] /Game/PointCloudsMorphing/Meshes/DemoMeshes/SM_DemoArrow.SM_DemoArrow
+[2019.12.03-16.28.32:082][940]LogMaterial: Display: Missing cached shader map for material M_PointCloudsRender, compiling. 
+[2019.12.03-16.28.32:157][940]LogMaterial: Display: Missing cached shader map for material M_PointCloudsCapture, compiling. 
+[2019.12.03-16.28.32:223][940]LogMaterial: Display: Missing cached shader map for material M_Yellow, compiling. 
+[2019.12.03-16.28.32:283][940]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.12.03-16.28.32:316][940]LogAIModule: Creating AISystem for world PointCloudsDemoMap
+[2019.12.03-16.28.32:591][940]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/PointCloudsMorphing/Blueprints/BP_PointCloudsMorphingAdv.BP_PointCloudsMorphingAdv_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.12.03-16.28.32:633][940]LogTexture: Display: Building textures: T_CloudCosmo (RGBA16F, 256X256)
+[2019.12.03-16.28.32:633][940]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.12.03-16.28.32:633][940]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.12.03-16.28.32:633][940]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.12.03-16.28.32:633][940]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.12.03-16.28.32:633][940]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X32)
+[2019.12.03-16.28.32:633][940]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X128)
+[2019.12.03-16.28.32:633][940]LogMaterial: Display: Missing cached shader map for material M_PointCloudsRenderAdv, compiling. 
+[2019.12.03-16.28.32:709][940]LogAIModule: Creating AISystem for world PointCloudsDemoMapAdv
+[2019.12.03-16.28.32:826][940]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.12.03-16.28.32:826][940]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.12.03-16.28.32:826][940]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.12.03-16.28.32:826][940]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.12.03-16.28.32:826][940]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X32)
+[2019.12.03-16.28.32:826][940]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X128)
+[2019.12.03-16.28.32:830][940]LogAIModule: Creating AISystem for world PointCloudsDemoMapControls
+[2019.12.03-16.28.32:883][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.12.03-16.28.34:818][940]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.03-16.28.35:019][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.03-16.28.35:046][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.03-16.28.35:081][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.12.03-16.28.35:109][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.03-16.28.35:139][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.03-16.28.35:171][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.03-16.28.35:214][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.03-16.28.35:243][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.03-16.28.41:976][274]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-16.28.42:025][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_VariableGet_168' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:026][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_CallFunction_164209' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:026][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_CallFunction_52839' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:026][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_VariableGet_150' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:026][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_VariableGet_148' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:026][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_CallFunction_54254' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:027][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_VariableGet_146' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:027][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_CallFunction_54253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:027][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_VariableGet_144' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:027][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_CallFunction_54252' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:027][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_VariableGet_142' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:027][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_CallFunction_54251' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:027][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_CallFunction_29280' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:028][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_VariableGet_74' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:028][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:EdGraph_0.K2Node_FunctionEntry_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:041][274]LogBlueprint: Warning: [Compiler PersistentLevel.SB4K_Demo_HD_Angitor] Node  Unknown  is not referencing a valid level actor
+[2019.12.03-16.28.42:043][274]LogBlueprint: Warning: [Compiler PersistentLevel.SB4K_Demo_HD_Angitor] [7165.65] Compile of PersistentLevel.SB4K_Demo_HD_Angitor successful, but with 1 Warning(s) [in 4 ms] (/Game/SpaceBox_Color/_DemoLevels/SB4K_Demo_HD_Angitor.SB4K_Demo_HD_Angitor:PersistentLevel.SB4K_Demo_HD_Angitor)
+[2019.12.03-16.28.42:534][274]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.12.03-16.28.42:534][274]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.12.03-16.28.42:534][274]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X128)
+[2019.12.03-16.28.42:534][274]LogMaterial: Display: Missing cached shader map for material Mat_HD_Angitor_Right, compiling. 
+[2019.12.03-16.28.42:572][274]LogMaterial: Display: Missing cached shader map for material Mat_HD_Angitor_Left, compiling. 
+[2019.12.03-16.28.42:612][274]LogMaterial: Display: Missing cached shader map for material Mat_HD_Angitor_Back, compiling. 
+[2019.12.03-16.28.42:644][274]LogMaterial: Display: Missing cached shader map for material Mat_HD_Angitor_Down, compiling. 
+[2019.12.03-16.28.42:711][274]LogMaterial: Display: Missing cached shader map for material Mat_HD_Angitor_Up, compiling. 
+[2019.12.03-16.28.42:905][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_CallFunction_164209' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:905][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_CallFunction_29280' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:905][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_CallFunction_52839' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:905][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_CallFunction_54251' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:905][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_CallFunction_54252' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:905][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_CallFunction_54253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:905][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_CallFunction_54254' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:906][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_FunctionEntry_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:906][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_VariableGet_142' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:906][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_VariableGet_144' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:906][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_VariableGet_146' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:906][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_VariableGet_148' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:906][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_VariableGet_150' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:906][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_VariableGet_168' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:906][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Angitor.BP_SB4K_HD_Angitor:UserConstructionScript.K2Node_VariableGet_74' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:924][274]LogMaterial: Display: Missing cached shader map for material Mat_HD_Angitor_Front, compiling. 
+[2019.12.03-16.28.42:937][274]LogAIModule: Creating AISystem for world SB4K_Demo_HD_Angitor
+[2019.12.03-16.28.42:938][274]LogActorComponent: RegisterComponentWithWorld: (/Game/SpaceBox_Color/_DemoLevels/SB4K_Demo_HD_Angitor.SB4K_Demo_HD_Angitor:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.12.03-16.28.42:954][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Nysech.BP_SB4K_ST_Nysech:EdGraph_0.K2Node_CallFunction_302619' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:955][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Nysech.BP_SB4K_ST_Nysech:EdGraph_0.K2Node_AddComponent_8461' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:955][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Nysech.BP_SB4K_ST_Nysech:EdGraph_0.K2Node_FunctionEntry_299' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.42:969][274]LogBlueprint: Warning: [Compiler PersistentLevel.SB4K_Demo_ST_Nystech] Node  Unknown  is not referencing a valid level actor
+[2019.12.03-16.28.42:970][274]LogBlueprint: Warning: [Compiler PersistentLevel.SB4K_Demo_ST_Nystech] [7166.58] Compile of PersistentLevel.SB4K_Demo_ST_Nystech successful, but with 1 Warning(s) [in 3 ms] (/Game/SpaceBox_Color/_DemoLevels/SB4K_Demo_ST_Nystech.SB4K_Demo_ST_Nystech:PersistentLevel.SB4K_Demo_ST_Nystech)
+[2019.12.03-16.28.43:148][274]LogMaterial: Display: Missing cached shader map for material Mat_ST_Nysech, compiling. 
+[2019.12.03-16.28.43:157][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Nysech.BP_SB4K_ST_Nysech:UserConstructionScript.K2Node_AddComponent_8461' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.43:158][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Nysech.BP_SB4K_ST_Nysech:UserConstructionScript.K2Node_CallFunction_302619' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.43:158][274]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Nysech.BP_SB4K_ST_Nysech:UserConstructionScript.K2Node_FunctionEntry_299' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.43:163][274]LogAIModule: Creating AISystem for world SB4K_Demo_ST_Nystech
+[2019.12.03-16.28.43:209][274]LogActorComponent: RegisterComponentWithWorld: (/Game/SpaceBox_Color/_DemoLevels/SB4K_Demo_ST_Nystech.SB4K_Demo_ST_Nystech:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.12.03-16.28.43:236][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.03-16.28.44:988][274]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.03-16.28.45:134][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.12.03-16.28.45:164][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.03-16.28.45:195][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.12.03-16.28.45:222][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.03-16.28.53:990][727]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Arothe.BP_SB4K_ST_Arothe:EdGraph_0.K2Node_CallFunction_302619' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.53:990][727]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Arothe.BP_SB4K_ST_Arothe:EdGraph_0.K2Node_AddComponent_8461' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.53:991][727]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Arothe.BP_SB4K_ST_Arothe:EdGraph_0.K2Node_FunctionEntry_299' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.53:995][727]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Arothe.BP_SB4K_ST_Arothe:UserConstructionScript.K2Node_AddComponent_8461' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.53:995][727]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Arothe.BP_SB4K_ST_Arothe:UserConstructionScript.K2Node_CallFunction_302619' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.53:995][727]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/ST/BP_SB4K_ST_Arothe.BP_SB4K_ST_Arothe:UserConstructionScript.K2Node_FunctionEntry_299' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.28.54:202][727]LogMaterial: Display: Missing cached shader map for material Mat_ST_Arothe, compiling. 
+[2019.12.03-16.29.03:941][155]LogSlate: Window 'Size Map' being destroyed
+[2019.12.03-16.29.25:669][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_VariableGet_168' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:669][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_CallFunction_164209' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:669][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_CallFunction_52839' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:669][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_VariableGet_150' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:669][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_VariableGet_148' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_CallFunction_54254' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_VariableGet_146' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_CallFunction_54253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_VariableGet_144' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_CallFunction_54252' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_VariableGet_142' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_CallFunction_54251' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_CallFunction_29280' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_VariableGet_74' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.25:670][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:EdGraph_0.K2Node_FunctionEntry_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:069][269]LogMaterial: Display: Missing cached shader map for material Mat_HD_Kaldar_Left, compiling. 
+[2019.12.03-16.29.26:135][269]LogMaterial: Display: Missing cached shader map for material Mat_HD_Kaldar_Up, compiling. 
+[2019.12.03-16.29.26:158][269]LogMaterial: Display: Missing cached shader map for material Mat_HD_Kaldar_Right, compiling. 
+[2019.12.03-16.29.26:227][269]LogMaterial: Display: Missing cached shader map for material Mat_HD_Kaldar_Down, compiling. 
+[2019.12.03-16.29.26:239][269]LogMaterial: Display: Missing cached shader map for material Mat_HD_Kaldar_Front, compiling. 
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_CallFunction_164209' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_CallFunction_29280' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_CallFunction_52839' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_CallFunction_54251' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_CallFunction_54252' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_CallFunction_54253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_CallFunction_54254' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_FunctionEntry_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:249][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_VariableGet_142' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:250][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_VariableGet_144' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:250][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_VariableGet_146' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:250][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_VariableGet_148' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:250][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_VariableGet_150' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:250][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_VariableGet_168' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:250][269]LogBlueprint: Warning: Node '/Game/SpaceBox_Color/Blueprints/HD/BP_SB4K_HD_Kaldar.BP_SB4K_HD_Kaldar:UserConstructionScript.K2Node_VariableGet_74' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.03-16.29.26:254][269]LogMaterial: Display: Missing cached shader map for material Mat_HD_Kaldar_Back, compiling. 
+[2019.12.03-16.29.46:667][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-16.30.02:889][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-16.30.03:325][171]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.03-16.30.03:643][171]LogBlueprint: Warning: [Compiler BP_FirstPersonCharacterRayCast] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.12.03-16.30.03:644][171]LogBlueprint: Warning: [Compiler BP_FirstPersonCharacterRayCast] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.12.03-16.30.03:644][171]LogBlueprint: Warning: [Compiler BP_FirstPersonCharacterRayCast] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.12.03-16.30.03:644][171]LogBlueprint: Warning: [Compiler BP_FirstPersonCharacterRayCast] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.12.03-16.30.03:645][171]LogBlueprint: Warning: [Compiler BP_FirstPersonCharacterRayCast] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.12.03-16.30.03:651][171]LogBlueprint: Warning: [Compiler BP_FirstPersonCharacterRayCast] [7247.26] Compile of BP_FirstPersonCharacterRayCast successful, but with 5 Warning(s) [in 16 ms] (/Game/VFXSeries1/Blueprints/BP_FirstPersonCharacterRayCast.BP_FirstPersonCharacterRayCast)
+[2019.12.03-16.30.03:763][171]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_ProjectileType.Enum_ProjectileType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_Bluebeam (AutoDXT, 128X128)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_LightningCircle03 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_Tear01 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_sunflare (AutoDXT, 512X512)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_N_C_Burn04 (BC5, 300X300)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_LightningCircle02 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_PlasmaDecalNorm (BC5, 512X512)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_UnrealEngineDecal (DXT1, 2048X2048)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_SphericalGradient (AutoDXT, 1000X1000)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_LightningCircle (AutoDXT, 1024X1024)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_GenericLightning01 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_Lensflare_02 (AutoDXT, 1920X1080)
+[2019.12.03-16.30.04:779][171]LogTexture: Display: Building textures: T_C_Burn02 (AutoDXT, 512X512)
+[2019.12.03-16.30.04:779][171]LogMaterial: Display: Missing cached shader map for material M_Plasma_Tracer, compiling. 
+[2019.12.03-16.30.04:837][171]LogTexture: Display: Building textures: T_C_burn01 (AutoDXT, 512X512)
+[2019.12.03-16.30.04:837][171]LogStaticMesh: Building static mesh SM_RoundCeilingLight...
+[2019.12.03-16.30.04:841][171]LogStaticMesh: Built static mesh [0.00s] /Game/VFXSeries1/Meshes/Environment/SM_RoundCeilingLight.SM_RoundCeilingLight
+[2019.12.03-16.30.04:977][171]LogTexture: Display: Building textures: T_C_Burn04 (AutoDXT, 512X512)
+[2019.12.03-16.30.04:977][171]LogTexture: Display: Building textures: T_C_Burn03 (AutoDXT, 512X512)
+[2019.12.03-16.30.04:977][171]LogTexture: Display: Building textures: T_RoomTiles_N (BC5, 2048X2048)
+[2019.12.03-16.30.05:982][171]LogTexture: Display: Building textures: T_N_C_Burn03 (BC5, 300X300)
+[2019.12.03-16.30.05:982][171]LogTexture: Display: Building textures: T_N_C_Burn02 (BC5, 300X300)
+[2019.12.03-16.30.05:982][171]LogTexture: Display: Building textures: T_N_C_burn01 (BC5, 300X300)
+[2019.12.03-16.30.05:982][171]LogTexture: Display: Building textures: T_Stripes (AutoDXT, 512X512)
+[2019.12.03-16.30.05:982][171]LogTexture: Display: Building textures: T_LightningCircle01 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.05:982][171]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.05:982][171]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.05:982][171]LogTexture: Display: Building textures: T_RoomTiles_M (DXT1, 2048X2048)
+[2019.12.03-16.30.07:530][171]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.07:530][171]LogTexture: Display: Building textures: T_GreyPlasma (BGRA8, 6827X8192)
+[2019.12.03-16.30.07:530][171]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.07:530][171]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.07:530][171]LogMaterial: Display: Missing cached shader map for material M_DemoRoomTiles, compiling. 
+[2019.12.03-16.30.07:720][171]LogStaticMesh: Building static mesh SM_NamePlate...
+[2019.12.03-16.30.07:726][171]LogStaticMesh: Built static mesh [0.01s] /Game/VFXSeries1/Meshes/Environment/SM_NamePlate.SM_NamePlate
+[2019.12.03-16.30.07:730][171]LogMaterial: Display: Missing cached shader map for material M_PortalRingRed, compiling. 
+[2019.12.03-16.30.07:781][171]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2019.12.03-16.30.07:842][171]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2019.12.03-16.30.07:922][171]LogTexture: Display: Building textures: T_TeleportParticle (DXT1, 512X512)
+[2019.12.03-16.30.08:012][171]LogMaterial: Display: Missing cached shader map for material M_PlasmablueSpark, compiling. 
+[2019.12.03-16.30.08:061][171]LogMaterial: Display: Missing cached shader map for material M_Sparks, compiling. 
+[2019.12.03-16.30.08:090][171]LogMaterial: Display: Missing cached shader map for material m_flare_03, compiling. 
+[2019.12.03-16.30.08:832][171]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.08:833][171]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.12.03-16.30.08:833][171]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.12.03-16.30.08:833][171]LogMaterial: Display: Missing cached shader map for material M_PlasmaImpact, compiling. 
+[2019.12.03-16.30.08:938][171]LogMaterial: Display: Missing cached shader map for material M_ParticleAttractorSimple, compiling. 
+[2019.12.03-16.30.08:962][171]LogMaterial: Display: Missing cached shader map for material M_WormholeRed, compiling. 
+[2019.12.03-16.30.09:085][171]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.12.03-16.30.09:086][171]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.12.03-16.30.09:086][171]LogMaterial: Display: Missing cached shader map for material M_PortalRingBlue, compiling. 
+[2019.12.03-16.30.09:708][171]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.12.03-16.30.09:708][171]LogMaterial: Display: Missing cached shader map for material M_WormholeBlue, compiling. 
+[2019.12.03-16.30.09:829][171]LogMaterial: Display: Missing cached shader map for material M_Flare, compiling. 
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: T_Stripednormal (BC5, 512X512)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: T_Smoke2_Tile (AutoDXT, 256X256)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: T_smoketrail_01 (AutoDXT, 1024X512)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: T_Tear02 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.03-16.30.10:314][171]LogTexture: Display: Building textures: T_JaggedTear02 (AutoDXT, 1024X256)
+[2019.12.03-16.30.10:314][171]LogStaticMesh: Building static mesh SM_Base...
+[2019.12.03-16.30.10:651][171]LogTexture: Display: Building textures: T_JaggedTear01 (AutoDXT, 1024X256)
+[2019.12.03-16.30.10:651][171]LogTexture: Display: Building textures: T_muzzle_flashes (AutoDXT, 128X256)
+[2019.12.03-16.30.10:651][171]LogTexture: Display: Building textures: T_DireNoise_01 (AutoDXT, 1024X1024)
+[2019.12.03-16.30.10:651][171]LogTexture: Display: Building textures: T_Vertical_Glow (AutoDXT, 1024X1024)
+[2019.12.03-16.30.10:651][171]LogStaticMesh: Built static mesh [0.34s] /Game/VFXSeries1/Meshes/Environment/SM_Base.SM_Base
+[2019.12.03-16.30.10:751][171]LogMaterial: Display: Missing cached shader map for material M_DemoWall, compiling. 
+[2019.12.03-16.30.11:011][171]LogTexture: Display: Building textures: T_FireTile_01 (DXT1, 4096X4096)
+[2019.12.03-16.30.11:011][171]LogTexture: Display: Building textures: T_Horizontal_Glow (AutoDXT, 1024X1024)
+[2019.12.03-16.30.11:011][171]LogTexture: Display: Building textures: T_Plasmaimpact (AutoDXT, 512X512)
+[2019.12.03-16.30.11:011][171]LogMaterial: Display: Missing cached shader map for material M_LightningCircle01, compiling. 
+[2019.12.03-16.30.11:045][171]LogMaterial: Display: Missing cached shader map for material M_Lensflare_02, compiling. 
+[2019.12.03-16.30.11:117][171]LogStaticMesh: Building static mesh SM_Questionmark...
+[2019.12.03-16.30.11:132][171]LogStaticMesh: Built static mesh [0.02s] /Game/VFXSeries1/Meshes/SM_Questionmark.SM_Questionmark
+[2019.12.03-16.30.11:140][171]LogMaterial: Display: Missing cached shader map for material M_Healthfresnel, compiling. 
+[2019.12.03-16.30.11:371][171]LogTexture: Display: Building textures: T_Missile_NM (BC5, 2048X2048)
+[2019.12.03-16.30.11:371][171]LogTexture: Display: Building textures: T_Missile_D (AutoDXT, 2048X2048)
+[2019.12.03-16.30.11:371][171]LogMaterial: Display: Missing cached shader map for material M_LightningRing01, compiling. 
+[2019.12.03-16.30.11:682][171]LogTexture: Display: Building textures: T_Missile_Control (AutoDXT, 2048X2048)
+[2019.12.03-16.30.11:682][171]LogStaticMesh: Building static mesh SM_WindMesh...
+[2019.12.03-16.30.11:701][171]LogStaticMesh: Built static mesh [0.02s] /Game/VFXSeries1/Meshes/SM_WindMesh.SM_WindMesh
+[2019.12.03-16.30.11:780][171]LogMaterial: Display: Missing cached shader map for material M_Lightning01, compiling. 
+[2019.12.03-16.30.11:836][171]LogMaterial: Display: Missing cached shader map for material M_ShockwaveWind, compiling. 
+[2019.12.03-16.30.11:912][171]LogMaterial: Display: Missing cached shader map for material M_GreenSparks, compiling. 
+[2019.12.03-16.30.11:947][171]LogStaticMesh: Building static mesh SM_HealthSign...
+[2019.12.03-16.30.11:959][171]LogStaticMesh: Built static mesh [0.01s] /Game/VFXSeries1/Meshes/SM_HealthSign.SM_HealthSign
+[2019.12.03-16.30.11:967][171]LogTexture: Display: Building textures: T_Lensflare_01 (AutoDXT, 512X512)
+[2019.12.03-16.30.12:240][171]LogTexture: Display: Building textures: T_PlasmaExplosion (AutoDXT, 8096X8096)
+[2019.12.03-16.30.12:240][171]LogMaterial: Display: Missing cached shader map for material M_LensFlare02, compiling. 
+[2019.12.03-16.30.12:268][171]LogTexture: Display: Building textures: T_Pattern_M (AutoDXT, 2048X2048)
+[2019.12.03-16.30.12:268][171]LogMaterial: Display: Missing cached shader map for material M_Lensflare_01, compiling. 
+[2019.12.03-16.30.12:440][171]LogMaterial: Display: Missing cached shader map for material M_LensFlare02Animated, compiling. 
+[2019.12.03-16.30.12:499][171]LogMaterial: Display: Missing cached shader map for material M_Beam, compiling. 
+[2019.12.03-16.30.12:971][171]LogTexture: Display: Building textures: T_RoundCeilingLight_N (BC5, 1024X1024)
+[2019.12.03-16.30.12:971][171]LogTexture: Display: Building textures: T_RoundCeilingLight_M (DXT1, 1024X1024)
+[2019.12.03-16.30.12:971][171]LogMaterial: Display: Missing cached shader map for material M_Healing, compiling. 
+[2019.12.03-16.30.13:066][171]LogTexture: Display: Building textures: T_RoundCeilingLight_AO (DXT1, 1024X1024)
+[2019.12.03-16.30.13:066][171]LogMaterial: Display: Missing cached shader map for material M_RadialGradient, compiling. 
+[2019.12.03-16.30.13:096][171]LogMaterial: Display: Missing cached shader map for material M_PlasmaTrailHeat2, compiling. 
+[2019.12.03-16.30.13:166][171]LogMaterial: Display: Missing cached shader map for material M_PlasmaTrailHeat, compiling. 
+[2019.12.03-16.30.37:377][171]LogMaterial: Display: Missing cached shader map for material M_Plasmaclouds, compiling. 
+[2019.12.03-16.30.37:406][171]LogMaterial: Display: Missing cached shader map for material M_SparksBlue, compiling. 
+[2019.12.03-16.30.37:470][171]LogMaterial: Display: Missing cached shader map for material M_InnerGlow2, compiling. 
+[2019.12.03-16.30.37:648][171]LogMaterial: Display: Missing cached shader map for material M_RocketExhaust, compiling. 
+[2019.12.03-16.30.37:757][171]LogStaticMesh: Building static mesh SM_Missile...
+[2019.12.03-16.30.37:784][171]LogStaticMesh: Built static mesh [0.03s] /Game/VFXSeries1/Meshes/Projectile/SM_Missile.SM_Missile
+[2019.12.03-16.30.37:809][171]LogMaterial: Display: Missing cached shader map for material M_Missile, compiling. 
+[2019.12.03-16.30.37:890][171]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.12.03-16.30.37:933][171]LogMaterial: Display: Missing cached shader map for material M_Singularity01, compiling. 
+[2019.12.03-16.30.38:052][171]LogMaterial: Display: Missing cached shader map for material M_Plasmaclouds3, compiling. 
+[2019.12.03-16.30.38:152][171]LogMaterial: Display: Missing cached shader map for material M_PortalTear01, compiling. 
+[2019.12.03-16.30.38:222][171]LogMaterial: Display: Missing cached shader map for material M_PortalTear02, compiling. 
+[2019.12.03-16.30.38:333][171]LogStaticMesh: Building static mesh SM_DemoRoomU...
+[2019.12.03-16.30.38:352][171]LogStaticMesh: Built static mesh [0.02s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomU.SM_DemoRoomU
+[2019.12.03-16.30.38:359][171]LogStaticMesh: Building static mesh SM_DemoRoomBackWall...
+[2019.12.03-16.30.38:360][171]LogStaticMesh: Built static mesh [0.00s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomBackWall.SM_DemoRoomBackWall
+[2019.12.03-16.30.38:494][171]LogStaticMesh: Building static mesh SM_DemoRoomClamp...
+[2019.12.03-16.30.38:600][171]LogStaticMesh: Built static mesh [0.11s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomClamp.SM_DemoRoomClamp
+[2019.12.03-16.30.38:829][171]LogStaticMesh: Building static mesh SM_DemoRoomTrim...
+[2019.12.03-16.30.38:988][171]LogStaticMesh: Built static mesh [0.16s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomTrim.SM_DemoRoomTrim
+[2019.12.03-16.30.39:036][171]LogStaticMesh: Building static mesh SM_URoom_Wall...
+[2019.12.03-16.30.39:037][171]LogStaticMesh: Built static mesh [0.00s] /Game/VFXSeries1/Meshes/Environment/SM_URoom_Wall.SM_URoom_Wall
+[2019.12.03-16.30.39:047][171]LogStaticMesh: Building static mesh SM_TargetButton...
+[2019.12.03-16.30.39:069][171]LogStaticMesh: Built static mesh [0.02s] /Game/VFXSeries1/Meshes/SM_TargetButton.SM_TargetButton
+[2019.12.03-16.30.39:086][171]LogMaterial: Display: Missing cached shader map for material m_flare_01, compiling. 
+[2019.12.03-16.30.39:133][171]LogMaterial: Display: Missing cached shader map for material M_LaserBeamBlue2, compiling. 
+[2019.12.03-16.30.39:302][171]LogMaterial: Display: Missing cached shader map for material M_DepthShield, compiling. 
+[2019.12.03-16.30.39:342][171]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2019.12.03-16.30.39:381][171]LogMaterial: Display: Missing cached shader map for material M_FireParticle, compiling. 
+[2019.12.03-16.30.39:428][171]LogMaterial: Display: Missing cached shader map for material M_FireBlueParticle, compiling. 
+[2019.12.03-16.30.39:473][171]LogMaterial: Display: Missing cached shader map for material M_SmokeParticle, compiling. 
+[2019.12.03-16.30.39:600][171]LogMaterial: Display: Missing cached shader map for material M_muzzle_flash_subUV, compiling. 
+[2019.12.03-16.30.39:633][171]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.12.03-16.30.39:806][171]LogMaterial: Display: Missing cached shader map for material M_FireParticle_02, compiling. 
+[2019.12.03-16.30.39:807][171]LogMaterial: Warning: C:\Users\smdex\Documents\GitHub\beatRush\beatRush\Content\VFXSeries1\Materials\Energy\M_FireParticle_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.03-16.30.39:807][171]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/VFXSeries1/Textures/T_FireTile_01.T_FireTile_01
+[2019.12.03-16.30.39:807][171]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_UserSetPlasmaProjectile.Enum_UserSetPlasmaProjectile' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.03-16.30.39:824][171]LogMaterial: Display: Missing cached shader map for material M_FragShock, compiling. 
+[2019.12.03-16.30.39:887][171]LogMaterial: Display: Missing cached shader map for material M_PlasmaBlueDecal, compiling. 
+[2019.12.03-16.30.39:983][171]LogMaterial: Display: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2019.12.03-16.30.40:020][171]LogMaterial: Display: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2019.12.03-16.30.40:054][171]LogMaterial: Display: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2019.12.03-16.30.40:163][171]LogStaticMesh: Building static mesh SM_Base2...
+[2019.12.03-16.30.40:236][171]LogStaticMesh: Built static mesh [0.07s] /Game/VFXSeries1/Meshes/Environment/SM_Base2.SM_Base2
+[2019.12.03-16.30.40:513][171]LogStaticMesh: Building static mesh SM_BaseRoom...
+[2019.12.03-16.30.40:697][171]LogStaticMesh: Built static mesh [0.18s] /Game/VFXSeries1/Meshes/Environment/SM_BaseRoom.SM_BaseRoom
+[2019.12.03-16.30.40:773][171]LogStaticMesh: Building static mesh SM_Base_FlatWall...
+[2019.12.03-16.30.40:778][171]LogStaticMesh: Built static mesh [0.01s] /Game/VFXSeries1/Meshes/Environment/SM_Base_FlatWall.SM_Base_FlatWall
+[2019.12.03-16.30.40:790][171]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialTranslucentUnlit, compiling. 
+[2019.12.03-16.30.40:828][171]LogMaterial: Display: Missing cached shader map for material M_RoundCeilingLight_Mat, compiling. 
+[2019.12.03-16.30.40:870][171]LogMaterial: Display: Missing cached shader map for material M_InnerGlow, compiling. 
+[2019.12.03-16.30.40:944][171]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_UserSetKineticProjectile.Enum_UserSetKineticProjectile' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.03-16.30.40:944][171]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_UserSetBeamProjectile.Enum_UserSetBeamProjectile' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.03-16.30.40:948][171]LogMaterial: Display: Missing cached shader map for material Mat_BlankMetal, compiling. 
+[2019.12.03-16.30.41:010][171]LogStaticMesh: Building static mesh SM_URoom_Wall2...
+[2019.12.03-16.30.41:010][171]LogStaticMesh: Built static mesh [0.00s] /Game/VFXSeries1/Meshes/Environment/SM_URoom_Wall2.SM_URoom_Wall2
+[2019.12.03-16.30.41:056][171]LogStaticMesh: Building static mesh SM_DemoRoomU_Hole...
+[2019.12.03-16.30.41:081][171]LogStaticMesh: Built static mesh [0.03s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomU_Hole.SM_DemoRoomU_Hole
+[2019.12.03-16.30.41:120][171]LogStaticMesh: Building static mesh SM_DemoRoomU2...
+[2019.12.03-16.30.41:137][171]LogStaticMesh: Built static mesh [0.02s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomU2.SM_DemoRoomU2
+[2019.12.03-16.30.41:233][171]LogStaticMesh: Building static mesh SM_DemoRoomTrimAdd...
+[2019.12.03-16.30.41:296][171]LogStaticMesh: Built static mesh [0.06s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomTrimAdd.SM_DemoRoomTrimAdd
+[2019.12.03-16.30.41:432][171]LogStaticMesh: Building static mesh SM_DemoRoomTrim2...
+[2019.12.03-16.30.41:540][171]LogStaticMesh: Built static mesh [0.11s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomTrim2.SM_DemoRoomTrim2
+[2019.12.03-16.30.41:578][171]LogStaticMesh: Building static mesh SM_DemoRoomLTrim...
+[2019.12.03-16.30.41:579][171]LogStaticMesh: Built static mesh [0.00s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomLTrim.SM_DemoRoomLTrim
+[2019.12.03-16.30.41:600][171]LogStaticMesh: Building static mesh SM_DemoRoomL...
+[2019.12.03-16.30.41:613][171]LogStaticMesh: Built static mesh [0.01s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomL.SM_DemoRoomL
+[2019.12.03-16.30.41:700][171]LogStaticMesh: Building static mesh SM_DemoRoomClamp2...
+[2019.12.03-16.30.41:755][171]LogStaticMesh: Built static mesh [0.05s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomClamp2.SM_DemoRoomClamp2
+[2019.12.03-16.30.41:777][171]LogMaterial: Display: Missing cached shader map for material M_LightTube, compiling. 
+[2019.12.03-16.30.41:791][171]LogStaticMesh: Building static mesh SM_DemoRoomBackWall2...
+[2019.12.03-16.30.41:792][171]LogStaticMesh: Built static mesh [0.00s] /Game/VFXSeries1/Meshes/Environment/SM_DemoRoomBackWall2.SM_DemoRoomBackWall2
+[2019.12.03-16.30.41:829][171]LogStaticMesh: Building static mesh SM_DemoDivider_2...
+[2019.12.03-16.30.41:847][171]LogStaticMesh: Built static mesh [0.02s] /Game/VFXSeries1/Meshes/Environment/SM_DemoDivider_2.SM_DemoDivider_2
+[2019.12.03-16.30.41:884][171]LogStaticMesh: Building static mesh SM_DemoDivider_1...
+[2019.12.03-16.30.41:904][171]LogStaticMesh: Built static mesh [0.02s] /Game/VFXSeries1/Meshes/Environment/SM_DemoDivider_1.SM_DemoDivider_1
+[2019.12.03-16.30.41:914][171]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.12.03-16.30.41:963][171]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.12.03-16.30.42:013][171]LogAIModule: Creating AISystem for world Overview
+[2019.12.03-16.30.42:121][171]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue2
+	BP_WormholeBlue_C /Game/VFXSeries1/Maps/Overview.Overview:PersistentLevel.BP_Wormhole2
+	Function /Game/VFXSeries1/Blueprints/Wormhole/BP_WormholeBlue.BP_WormholeBlue_C:UserConstructionScript:01E3
+[2019.12.03-16.30.42:121][171]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_WormholeBlue_C /Game/VFXSeries1/Maps/Overview.Overview:PersistentLevel.BP_Wormhole2
+	Function /Game/VFXSeries1/Blueprints/Wormhole/BP_WormholeBlue.BP_WormholeBlue_C:UserConstructionScript:01F8
+[2019.12.03-16.30.42:121][171]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue1
+	BP_WormholeBlue_C /Game/VFXSeries1/Maps/Overview.Overview:PersistentLevel.BP_Wormhole2
+	Function /Game/VFXSeries1/Blueprints/Wormhole/BP_WormholeBlue.BP_WormholeBlue_C:UserConstructionScript:022B
+[2019.12.03-16.30.42:121][171]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_WormholeBlue_C /Game/VFXSeries1/Maps/Overview.Overview:PersistentLevel.BP_Wormhole2
+	Function /Game/VFXSeries1/Blueprints/Wormhole/BP_WormholeBlue.BP_WormholeBlue_C:UserConstructionScript:0240
+[2019.12.03-16.30.42:235][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.12.03-16.34.19:837][171]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.03-16.34.19:844][171]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/VFXSeries1/Maps/Overview.Overview
+	Asset Name: /Game/VFXSeries1/Maps/Overview_BuiltData.Overview_BuiltData
+[2019.12.03-16.34.25:297][171]LogSlate: Window 'Message' being destroyed
+[2019.12.03-16.34.25:781][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.03-16.34.25:826][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.03-16.34.25:852][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.03-16.34.25:909][172]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.03-16.34.25:909][172]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.03-16.34.25:909][172]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.03-16.34.29:480][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.03-16.34.29:491][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-16.34.29:529][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-16.34.29:560][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.03-16.34.29:760][339]LogSavePackage: Moving '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Saved/gameplay0997BC8244EB4704F17374AEEF40291A.tmp' to '../../../../../../Users/smdex/Documents/GitHub/beatRush/beatRush/Content/Levels/gameplay.umap'
+[2019.12.03-16.34.29:798][339]LogFileHelpers: Saving map 'gameplay' took 0.270
+[2019.12.03-16.34.29:806][339]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.03-16.34.29:806][339]LogWindows: Windows GetLastError: The operation completed successfully. (0)
