@@ -1,6 +1,7 @@
-beatRush_WIN/Binaries/Win64/beatRush-Win64-Shipping.exe	2020-06-02T21:40:54.436Z
+beatRush_WIN/Binaries/Win64/beatRush-Win64-Shipping.exe	2020-06-04T06:36:21.770Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2020-05-15T08:13:09.525Z
 Engine/Binaries/Win64/UnrealCEFSubProcess.exe	2020-05-15T08:15:01.987Z
+Engine/Binaries/ThirdParty/Steamworks/Steamv147/Win64/steam_api64.dll	2020-05-15T08:13:40.454Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2020-05-15T08:13:33.224Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2020-05-15T08:13:33.231Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll	2020-05-15T08:13:31.534Z
@@ -82,4 +83,4 @@ Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak	2020-05-15T08:13:
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak	2020-05-15T08:13:09.040Z
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak	2020-05-15T08:13:09.041Z
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak	2020-05-15T08:13:09.042Z
-beatRush.exe	2020-06-03T13:02:55.697Z
+beatRush.exe	2020-06-04T12:50:53.357Z
