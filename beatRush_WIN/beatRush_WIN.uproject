@@ -27,19 +27,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OnlineSubsystemGoogle",
-			"Enabled": true
-		},
-		{
 			"Name": "AppleMoviePlayer",
 			"Enabled": false
 		},
 		{
 			"Name": "WindowsMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "WebMMoviePlayer",
 			"Enabled": false
 		},
 		{
@@ -329,6 +321,21 @@
 		},
 		{
 			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "PreLoadScreenMoviePlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "SteamSockets",
 			"Enabled": true
 		}
 	],
