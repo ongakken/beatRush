@@ -1,0 +1,519 @@
+﻿# Beat Rush English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Beat Rush\n"
+"POT-Creation-Date: 2020-06-15 17:00\n"
+"PO-Revision-Date: 2020-06-15 17:00\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	03DC6F354C3B04268583D1A256279BD2
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",03DC6F354C3B04268583D1A256279BD2"
+msgid "They'll cause more damage to your ship ..."
+msgstr "They'll cause more damage to your ship ..."
+
+#. Key:	06BE590B46A6DFD99772178691936FC8
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",06BE590B46A6DFD99772178691936FC8"
+msgid "Survive throughout the music track to advance to a next level ..."
+msgstr "Survive throughout the music track to advance to a next level ..."
+
+#. Key:	095CBCE6408CD5715F63439724D1648E
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_282.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_282.Text
+msgctxt ",095CBCE6408CD5715F63439724D1648E"
+msgid "Level 4 - Virus by Martin Garrix, MOTi"
+msgstr "Level 4 - Virus by Martin Garrix, MOTi"
+
+#. Key:	0CE648154960E6A66448D89280F30F68
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_734.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_734.Text
+msgctxt ",0CE648154960E6A66448D89280F30F68"
+msgid "Buy"
+msgstr "Buy"
+
+#. Key:	10D4E1C14815B0BB8B579F917CC4C8C1
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",10D4E1C14815B0BB8B579F917CC4C8C1"
+msgid "Welcome!"
+msgstr "Welcome!"
+
+#. Key:	1606F64C43B3B2CF25B14C8DAE5CE92E
+#. SourceLocation:	/Game/UI/HUD.HUD_C:WidgetTree.TextBlock_216.Text
+#: /Game/UI/HUD.HUD_C:WidgetTree.TextBlock_216.Text
+msgctxt ",1606F64C43B3B2CF25B14C8DAE5CE92E"
+msgid "Please report bugs to beatrush@smdtech.sk"
+msgstr "Please report bugs to beatrush@smdtech.sk"
+
+#. Key:	1680AAAC44AF0BA2F807138AD3FE61FB
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_2696.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_2696.Text
+msgctxt ",1680AAAC44AF0BA2F807138AD3FE61FB"
+msgid "Buy"
+msgstr "Buy"
+
+#. Key:	177ACD1449CB1CA77B5B2385AF39C32C
+#. SourceLocation:	/Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_232.Text
+#: /Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_232.Text
+msgctxt ",177ACD1449CB1CA77B5B2385AF39C32C"
+msgid "To survive, you can:"
+msgstr "To survive, you can:"
+
+#. Key:	2187CE5641000C2C3E7C98BCCDC6E77F
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_181.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_181.Text
+msgctxt ",2187CE5641000C2C3E7C98BCCDC6E77F"
+msgid "Level 7 - Proxy by Martin Garrix"
+msgstr "Level 7 - Proxy by Martin Garrix"
+
+#. Key:	2E4247C345B59737FB2395AD795989EF
+#. SourceLocation:	/Game/UI/shop.shop_C:GetText_1 [Script Bytecode]
+#: /Game/UI/shop.shop_C:GetText_1 [Script Bytecode]
+msgctxt ",2E4247C345B59737FB2395AD795989EF"
+msgid "Buy"
+msgstr "Buy"
+
+#. Key:	2F297A1E4E4B382E781CD1A65AE93225
+#. SourceLocation:	/Game/UI/shop.shop_C:GetText_1 [Script Bytecode]
+#: /Game/UI/shop.shop_C:GetText_1 [Script Bytecode]
+msgctxt ",2F297A1E4E4B382E781CD1A65AE93225"
+msgid "Equip"
+msgstr "Equip"
+
+#. Key:	2FB81B7F446617E3BF803AA2BB127C9D
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_2471.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_2471.Text
+msgctxt ",2FB81B7F446617E3BF803AA2BB127C9D"
+msgid "Max. Health: 1000 (shielded)"
+msgstr "Max. Health: 1000 (shielded)"
+
+#. Key:	2FCA29C940D7279AFD20FBA6854874CB
+#. SourceLocation:	/Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_155.Text
+#: /Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_155.Text
+msgctxt ",2FCA29C940D7279AFD20FBA6854874CB"
+msgid "Return to main menu"
+msgstr "Return to main menu"
+
+#. Key:	2FEC058649F411D3B1326FA7794A310B
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_106.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_106.Text
+msgctxt ",2FEC058649F411D3B1326FA7794A310B"
+msgid "Equip the default ship"
+msgstr "Equip the default ship"
+
+#. Key:	34128E5D4CE2A70394E8C4A72D13BF34
+#. SourceLocation:	/Game/UI/pause_menu.pause_menu_C:WidgetTree.TextBlock_517.Text
+#: /Game/UI/pause_menu.pause_menu_C:WidgetTree.TextBlock_517.Text
+msgctxt ",34128E5D4CE2A70394E8C4A72D13BF34"
+msgid "Exit"
+msgstr "Exit"
+
+#. Key:	3457337643A977FE07EEDE95E69B291D
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",3457337643A977FE07EEDE95E69B291D"
+msgid "Those colorful shining objects are what we call 'points' ..."
+msgstr "Those colorful shining objects are what we call 'points' ..."
+
+#. Key:	3C33F9B24E39EE5F604D77A6AF7EDF26
+#. SourceLocation:	/Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.BP_Text_C:TextRender_Description_02_GEN_VARIABLE.Text
+#: /Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.BP_Text_C:TextRender_Description_02_GEN_VARIABLE.Text
+msgctxt ",3C33F9B24E39EE5F604D77A6AF7EDF26"
+msgid "Description"
+msgstr "Description"
+
+#. Key:	4087711142801CE90F4D8EAFD961D287
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_2469.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_2469.Text
+msgctxt ",4087711142801CE90F4D8EAFD961D287"
+msgid "Cost: 500"
+msgstr "Cost: 500"
+
+#. Key:	41BE30904C767676E5B289B99A04D373
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_265.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_265.Text
+msgctxt ",41BE30904C767676E5B289B99A04D373"
+msgid "Current"
+msgstr "Current"
+
+#. Key:	448C1D884997C0F5A5BC739E0610B715
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_422.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_422.Text
+msgctxt ",448C1D884997C0F5A5BC739E0610B715"
+msgid ":"
+msgstr ":"
+
+#. Key:	4F09CA7E4630BE7F62BC0BA53A4A765D
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_165.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_165.Text
+msgctxt ",4F09CA7E4630BE7F62BC0BA53A4A765D"
+msgid "Level Chooser"
+msgstr "Level Chooser"
+
+#. Key:	4F6EE175428B2C3509A4BC8EEF05EC91
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_440.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_440.Text
+msgctxt ",4F6EE175428B2C3509A4BC8EEF05EC91"
+msgid "Level 5 - Poison by Martin Garrix"
+msgstr "Level 5 - Poison by Martin Garrix"
+
+#. Key:	4FE7DF5B4BCC6BA8246016B2DFDB8D42
+#. SourceLocation:	/Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_533.Text
+#: /Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_533.Text
+msgctxt ",4FE7DF5B4BCC6BA8246016B2DFDB8D42"
+msgid "Spend 120     "
+msgstr "Spend 120     "
+
+#. Key:	57043D534C02CB777A256DAB7C4EAF04
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_130.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_130.Text
+msgctxt ",57043D534C02CB777A256DAB7C4EAF04"
+msgid "Level 3 - Great Moments by SMD Technologies"
+msgstr "Level 3 - Great Moments by SMD Technologies"
+
+#. Key:	5ADD595B4F2C6776CCFA329AEB464F2D
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_477.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_477.Text
+msgctxt ",5ADD595B4F2C6776CCFA329AEB464F2D"
+msgid "Max. Health: 650"
+msgstr "Max. Health: 650"
+
+#. Key:	5ADDC30B420142EDDCF9CCB894DC36F5
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_109.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_109.Text
+msgctxt ",5ADDC30B420142EDDCF9CCB894DC36F5"
+msgid "Report issues to beatrush@smdtech.sk"
+msgstr "Report issues to beatrush@smdtech.sk"
+
+#. Key:	60C21E684D0CB85B97CA519CC0E90F19
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_2468.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_2468.Text
+msgctxt ",60C21E684D0CB85B97CA519CC0E90F19"
+msgid "SMD Bluerunner S101"
+msgstr "SMD Bluerunner S101"
+
+#. Key:	6BDDBD594B63DC8F674D8ABBD6B27873
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_99.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_99.Text
+msgctxt ",6BDDBD594B63DC8F674D8ABBD6B27873"
+msgid "SHOP"
+msgstr "SHOP"
+
+#. Key:	6F93B77C4D1761F8E0A6B8BC7EA91BF3
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",6F93B77C4D1761F8E0A6B8BC7EA91BF3"
+msgid "Each level will be harder than the previous one ..."
+msgstr "Each level will be harder than the previous one ..."
+
+#. Key:	6F9AF6B9494709CFB70CEA8BC1853E38
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_2470.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_2470.Text
+msgctxt ",6F9AF6B9494709CFB70CEA8BC1853E38"
+msgid "Shield: Yes"
+msgstr "Shield: Yes"
+
+#. Key:	712CC8AE430D065A9B74C793B46E5422
+#. SourceLocation:	/Game/UI/pause_menu.pause_menu_C:WidgetTree.TextBlock_79.Text
+#: /Game/UI/pause_menu.pause_menu_C:WidgetTree.TextBlock_79.Text
+msgctxt ",712CC8AE430D065A9B74C793B46E5422"
+msgid "Resume"
+msgstr "Resume"
+
+#. Key:	72DB6BE948C08122C6EECDB423747482
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",72DB6BE948C08122C6EECDB423747482"
+msgid "Avoid them to survive ..."
+msgstr "Avoid them to survive ..."
+
+#. Key:	7344C874463DBBA89FB5D29427D3862D
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_620.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_620.Text
+msgctxt ",7344C874463DBBA89FB5D29427D3862D"
+msgid "Level 6 - Animals by Martin Garrix"
+msgstr "Level 6 - Animals by Martin Garrix"
+
+#. Key:	74C45D6F43EE35694066DDBE0C7FF607
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_148.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_148.Text
+msgctxt ",74C45D6F43EE35694066DDBE0C7FF607"
+msgid "About"
+msgstr "About"
+
+#. Key:	762929554B18A1748685E78D5653598A
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_118.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_118.Text
+msgctxt ",762929554B18A1748685E78D5653598A"
+msgid "0.455"
+msgstr "0.455"
+
+#. Key:	7A433B894C0EB8BF042DC19DC3215F8A
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_475.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_475.Text
+msgctxt ",7A433B894C0EB8BF042DC19DC3215F8A"
+msgid "Cost: 200"
+msgstr "Cost: 200"
+
+#. Key:	7E5D6EA64FA21B689ED66C905A50DAD8
+#. SourceLocation:	/Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_170.Text
+#: /Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_170.Text
+msgctxt ",7E5D6EA64FA21B689ED66C905A50DAD8"
+msgid "Restart level"
+msgstr "Restart level"
+
+#. Key:	82A547AB4C9E4150F85187B041E264B3
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",82A547AB4C9E4150F85187B041E264B3"
+msgid "The blue ones serve as currency within the game and restore your health"
+msgstr "The blue ones serve as currency within the game and restore your health"
+
+#. Key:	88BF4752438052BFB200BFAF74C633F4
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",88BF4752438052BFB200BFAF74C633F4"
+msgid "The other ones restore your abilities"
+msgstr "The other ones restore your abilities"
+
+#. Key:	8A2A308A4332978675AE7E93982EF32B
+#. SourceLocation:	/Game/UI/HUD.HUD_C:WidgetTree.TextBlock_444.Text
+#: /Game/UI/HUD.HUD_C:WidgetTree.TextBlock_444.Text
+msgctxt ",8A2A308A4332978675AE7E93982EF32B"
+msgid "Level:"
+msgstr "Level:"
+
+#. Key:	8B89F42B4116946CE9B5D58EAB65D7A7
+#. SourceLocation:	/Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.Default__BP_Text_C.TextDescriptionLine01
+#: /Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.Default__BP_Text_C.TextDescriptionLine01
+msgctxt ",8B89F42B4116946CE9B5D58EAB65D7A7"
+msgid "Description"
+msgstr "Description"
+
+#. Key:	8C2C300F45953022C1CD90A30899B623
+#. SourceLocation:	/Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.Default__BP_Text_C.TextTitle
+#: /Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.Default__BP_Text_C.TextTitle
+msgctxt ",8C2C300F45953022C1CD90A30899B623"
+msgid "Title"
+msgstr "Title"
+
+#. Key:	8CA47E0E41F00FFACEB4A8AA422A403D
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_146.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_146.Text
+msgctxt ",8CA47E0E41F00FFACEB4A8AA422A403D"
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#. Key:	8FF9D39A4563B58C6E6017884C59B817
+#. SourceLocation:	/Game/UI/HUD.HUD_C:WidgetTree.TextBlock_133.Text
+#: /Game/UI/HUD.HUD_C:WidgetTree.TextBlock_133.Text
+msgctxt ",8FF9D39A4563B58C6E6017884C59B817"
+msgid "Health:"
+msgstr "Health:"
+
+#. Key:	90F4524348F34756183799B89B6870F8
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_737.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_737.Text
+msgctxt ",90F4524348F34756183799B89B6870F8"
+msgid "Choose a level"
+msgstr "Choose a level"
+
+#. Key:	928882AB455D906D3960F89ADB138E7D
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_439.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_439.Text
+msgctxt ",928882AB455D906D3960F89ADB138E7D"
+msgid "SMD Speedermatrix S587"
+msgstr "SMD Speedermatrix S587"
+
+#. Key:	987D0CF7467E4DACFB5A32AF09D7F82F
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_182.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_182.Text
+msgctxt ",987D0CF7467E4DACFB5A32AF09D7F82F"
+msgid "Your current level:"
+msgstr "Your current level:"
+
+#. Key:	9E74338D47C01B7580EAB8B9B591EB3B
+#. SourceLocation:	/Game/UI/HUD.HUD_C:WidgetTree.TextBlock_119.Text
+#: /Game/UI/HUD.HUD_C:WidgetTree.TextBlock_119.Text
+msgctxt ",9E74338D47C01B7580EAB8B9B591EB3B"
+msgid "EARLY ALPHA DEVELOPMENT VERSION"
+msgstr "EARLY ALPHA DEVELOPMENT VERSION"
+
+#. Key:	A2F4CF8240F2A16AA224EA990DF2D6F9
+#. SourceLocation:	/Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.BP_Text_C:TextRender_Description_01_GEN_VARIABLE.Text
+#: /Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.BP_Text_C:TextRender_Description_01_GEN_VARIABLE.Text
+msgctxt ",A2F4CF8240F2A16AA224EA990DF2D6F9"
+msgid "Description"
+msgstr "Description"
+
+#. Key:	A3A15E0C42B0D030D35428BDBC87FD41
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_1043.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_1043.Text
+msgctxt ",A3A15E0C42B0D030D35428BDBC87FD41"
+msgid "Max. Health: 300"
+msgstr "Max. Health: 300"
+
+#. Key:	A65D01594DFD088FCD1F5EBE0BFB4F0C
+#. SourceLocation:	/Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_85.Text
+#: /Game/UI/deathScreen.deathScreen_C:WidgetTree.TextBlock_85.Text
+msgctxt ",A65D01594DFD088FCD1F5EBE0BFB4F0C"
+msgid "You have died!"
+msgstr "You have died!"
+
+#. Key:	A6C45C2541EF436DE601638EDC51E415
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_807.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_807.Text
+msgctxt ",A6C45C2541EF436DE601638EDC51E415"
+msgid "Shield: No"
+msgstr "Shield: No"
+
+#. Key:	A9581C304B06551E02B68782168D877F
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_208.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_208.Text
+msgctxt ",A9581C304B06551E02B68782168D877F"
+msgid "Exit"
+msgstr "Exit"
+
+#. Key:	AE7ABA3C48DDB4B22BB1E4906BFF7ECF
+#. SourceLocation:	/Game/UI/HUD.HUD_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/HUD.HUD_C:WidgetTree.TextBlock_2.Text
+msgctxt ",AE7ABA3C48DDB4B22BB1E4906BFF7ECF"
+msgid "Jumping:"
+msgstr "Jumping:"
+
+#. Key:	B13D79AD41BF9D3CA46ACB8E77728994
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_76.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_76.Text
+msgctxt ",B13D79AD41BF9D3CA46ACB8E77728994"
+msgid "Level 1 - Caffeine by SMD Technologies"
+msgstr "Level 1 - Caffeine by SMD Technologies"
+
+#. Key:	BF83D3574BBF14269EDA9B9676C03E98
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",BF83D3574BBF14269EDA9B9676C03E98"
+msgid "You can buy stuff in the Shop with them ..."
+msgstr "You can buy stuff in the Shop with them ..."
+
+#. Key:	C766A3CD4649045153FC3A8379B4E895
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_117.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_117.Text
+msgctxt ",C766A3CD4649045153FC3A8379B4E895"
+msgid "Shop"
+msgstr "Shop"
+
+#. Key:	CF59B90D422A507320FDC8B3EFBF5ECC
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_606.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_606.Text
+msgctxt ",CF59B90D422A507320FDC8B3EFBF5ECC"
+msgid "Cost: 80"
+msgstr "Cost: 80"
+
+#. Key:	D619EC464EBD1B8CAEB0E29B5B372880
+#. SourceLocation:	/Game/UI/pause_menu.pause_menu_C:WidgetTree.TextBlock_188.Text
+#: /Game/UI/pause_menu.pause_menu_C:WidgetTree.TextBlock_188.Text
+msgctxt ",D619EC464EBD1B8CAEB0E29B5B372880"
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#. Key:	D8B400DC42EE740B65FAF0A674219407
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_162.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_162.Text
+msgctxt ",D8B400DC42EE740B65FAF0A674219407"
+msgid "Beat Rush"
+msgstr "Beat Rush"
+
+#. Key:	D9A221F24C06886DF00B8C84A40CE89D
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",D9A221F24C06886DF00B8C84A40CE89D"
+msgid "Let's keep this simple ..."
+msgstr "Let's keep this simple ..."
+
+#. Key:	DB2DEBCB4B57085EDE7004A769E0DFEA
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_155.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_155.Text
+msgctxt ",DB2DEBCB4B57085EDE7004A769E0DFEA"
+msgid "Buy"
+msgstr "Buy"
+
+#. Key:	DC7A1B4348E61CDFB3DA8193149274B6
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",DC7A1B4348E61CDFB3DA8193149274B6"
+msgid "Have fun and thanks for downloading Beat Rush!"
+msgstr "Have fun and thanks for downloading Beat Rush!"
+
+#. Key:	DEE9F619437B2F6921D6E48AE1EDA7C7
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_146.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_146.Text
+msgctxt ",DEE9F619437B2F6921D6E48AE1EDA7C7"
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#. Key:	DF27E8344595BC9351100EAC0D21137C
+#. SourceLocation:	/Game/UI/shop.shop_C:WidgetTree.TextBlock_474.Text
+#: /Game/UI/shop.shop_C:WidgetTree.TextBlock_474.Text
+msgctxt ",DF27E8344595BC9351100EAC0D21137C"
+msgid "SMD Speedermatrix GS78"
+msgstr "SMD Speedermatrix GS78"
+
+#. Key:	E1748D734DBA8FC68497D9A6123EB5AE
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",E1748D734DBA8FC68497D9A6123EB5AE"
+msgid "The rocks you see generating ahead are obstacles ..."
+msgstr "The rocks you see generating ahead are obstacles ..."
+
+#. Key:	E739047D42C433E2B5B91380DE1093CD
+#. SourceLocation:	/Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+#: /Game/BP/playerCharacter_BP.playerCharacter_BP_C:ExecuteUbergraph_playerCharacter_BP [Script Bytecode]
+msgctxt ",E739047D42C433E2B5B91380DE1093CD"
+msgid "Later in the game, more obstacles will begin to appear ..."
+msgstr "Later in the game, more obstacles will begin to appear ..."
+
+#. Key:	E994430C4BBB5370A7ED0BBC0A5EF5B7
+#. SourceLocation:	/Game/UI/HUD.HUD_C:WidgetTree.TextBlock_74.Text
+#: /Game/UI/HUD.HUD_C:WidgetTree.TextBlock_74.Text
+msgctxt ",E994430C4BBB5370A7ED0BBC0A5EF5B7"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	EB09E6D24A6129585E031EAB1D5467EC
+#. SourceLocation:	/Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.Default__BP_Text_C.TextDescriptionLine02
+#: /Game/ExplosionsMegaPack/Blueprints/Showcase/BP_Text.Default__BP_Text_C.TextDescriptionLine02
+msgctxt ",EB09E6D24A6129585E031EAB1D5467EC"
+msgid "Description"
+msgstr "Description"
+
+#. Key:	EB86B1CE4D36467C9AD9EEABF992E17D
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_144.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextBlock_144.Text
+msgctxt ",EB86B1CE4D36467C9AD9EEABF992E17D"
+msgid "Reset progress"
+msgstr "Reset progress"
+
+#. Key:	EBD2D7AA4A52403BD441B4BCA832B2B8
+#. SourceLocation:	/Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_165.Text
+#: /Game/UI/level_chooser.level_chooser_C:WidgetTree.TextBlock_165.Text
+msgctxt ",EBD2D7AA4A52403BD441B4BCA832B2B8"
+msgid "Level 2 - Ecstatic by SMD Technologies"
+msgstr "Level 2 - Ecstatic by SMD Technologies"
+
+#. Key:	F173126C4A46EA703C007AB7A42278D2
+#. SourceLocation:	/Game/UI/main_menu.main_menu_C:WidgetTree.TextPlay.Text
+#: /Game/UI/main_menu.main_menu_C:WidgetTree.TextPlay.Text
+msgctxt ",F173126C4A46EA703C007AB7A42278D2"
+msgid "Play"
+msgstr "Play"
+
