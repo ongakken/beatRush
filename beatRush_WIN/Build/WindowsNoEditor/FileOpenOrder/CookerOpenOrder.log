@@ -384,44 +384,61 @@
 "../../../../Unreal Projects/beatRush/beatRush_WIN/Content/NeuroFractalsPack/Models/Landscape/Landscape_v04.uasset" 383
 "../../../../Unreal Projects/beatRush/beatRush_WIN/Content/NeuroFractalsPack/Models/Landscape/Landscape_v08.uasset" 384
 "../../../../Unreal Projects/beatRush/beatRush_WIN/Content/NeuroFractalsPack/Models/Lightning/Lightning_05.uasset" 385
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" 386
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 387
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 388
-"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 389
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_LayoutMat.uasset" 390
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 391
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 392
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_bar.uasset" 393
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_BeamLightning.uasset" 394
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_Beamray.uasset" 395
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Meshes/mesh_ring.uasset" 396
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_Blastwave.uasset" 397
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_barInSolid.uasset" 398
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_barSolid.uasset" 399
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Textures/midSpark.uasset" 400
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_midSparkSolid.uasset" 401
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Meshes/mesh_plane.uasset" 402
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_DarkMatter.uasset" 403
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_ElectricBlast.uasset" 404
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_ElectricOrb.uasset" 405
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Textures/lowSpark.uasset" 406
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_lowSpark.uasset" 407
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_midSpark.uasset" 408
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_Fusion.uasset" 409
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_GroundWave.uasset" 410
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_box.uasset" 411
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_GroundWavePixel.uasset" 412
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_barUp.uasset" 413
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_LightColumn.uasset" 414
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_LightColumnOut.uasset" 415
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_LightningCore.uasset" 416
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PelletRay.uasset" 417
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PelletRayReaction.uasset" 418
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PixelBlast.uasset" 419
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PixelBlastHit.uasset" 420
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Textures/pixel.uasset" 421
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_pixel.uasset" 422
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PixelBomb.uasset" 423
-"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/ParticleRoom.umap" 424
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 425
-"../../../Engine/Content/Maps/Entry.umap" 426
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/WeatherEffects/Textures/T_SnowFlake.uasset" 386
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Materials/M_Cloud.uasset" 387
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Materials/M_Cloud_Dark.uasset" 388
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Materials/M_Glow.uasset" 389
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/WeatherEffects/Textures/T_FrameClamp.uasset" 390
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/WeatherEffects/Textures/T_Lightning.uasset" 391
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/WeatherEffects/Textures/T_LightningMasks.uasset" 392
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Materials/M_Lightning.uasset" 393
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/WeatherEffects/Textures/T_Lightning_Large.uasset" 394
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Materials/M_Lightning_Large.uasset" 395
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/WeatherEffects/Textures/T_Lightning_Zaps.uasset" 396
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Materials/M_Lightning_Zaps.uasset" 397
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Particles/NewParticles/P_Lightning_Storm.uasset" 398
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Particles/P_Ambient_Fog.uasset" 399
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Particles/P_Lightning.uasset" 400
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Materials/M_SnowFlake.uasset" 401
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/weathereffects/Particles/P_Snow_Blizzard.uasset" 402
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" 403
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 404
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 405
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 406
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_LayoutMat.uasset" 407
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 408
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 409
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_bar.uasset" 410
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_BeamLightning.uasset" 411
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_Beamray.uasset" 412
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Meshes/mesh_ring.uasset" 413
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_Blastwave.uasset" 414
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_barInSolid.uasset" 415
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_barSolid.uasset" 416
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Textures/midSpark.uasset" 417
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_midSparkSolid.uasset" 418
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Meshes/mesh_plane.uasset" 419
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_DarkMatter.uasset" 420
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_ElectricBlast.uasset" 421
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_ElectricOrb.uasset" 422
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Textures/lowSpark.uasset" 423
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_lowSpark.uasset" 424
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_midSpark.uasset" 425
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_Fusion.uasset" 426
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_GroundWave.uasset" 427
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_box.uasset" 428
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_GroundWavePixel.uasset" 429
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_barUp.uasset" 430
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_LightColumn.uasset" 431
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_LightColumnOut.uasset" 432
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_LightningCore.uasset" 433
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PelletRay.uasset" 434
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PelletRayReaction.uasset" 435
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PixelBlast.uasset" 436
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PixelBlastHit.uasset" 437
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Textures/pixel.uasset" 438
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Materials/M_pixel.uasset" 439
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/Particles/P_PixelBomb.uasset" 440
+"../../../../Unreal Projects/beatRush/beatRush_WIN/Content/ScifiParticlePack/ParticleRoom.umap" 441
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 442
+"../../../Engine/Content/Maps/Entry.umap" 443
