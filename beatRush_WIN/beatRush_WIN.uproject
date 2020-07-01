@@ -327,11 +327,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MediaFrameworkUtilities",
+			"Name": "MfMedia",
 			"Enabled": true
 		},
 		{
-			"Name": "MfMedia",
+			"Name": "OpenCVLensDistortion",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
 			"Enabled": true
 		}
 	],

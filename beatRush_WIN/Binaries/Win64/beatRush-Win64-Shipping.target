@@ -63,6 +63,14 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Media/MfMedia/MfMedia.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Compositing/OpenCVLensDistortion/OpenCVLensDistortion.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/MediaFrameworkUtilities/MediaFrameworkUtilities.uplugin",
 			"Type": "UFS"
 		},
@@ -71,15 +79,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Compositing/OpenCVLensDistortion/OpenCVLensDistortion.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Media/MfMedia/MfMedia.uplugin",
 			"Type": "UFS"
 		},
 		{
