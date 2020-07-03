@@ -295,10 +295,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ChaosEditor",
-			"Enabled": false
-		},
-		{
 			"Name": "OculusVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -344,6 +340,18 @@
 		},
 		{
 			"Name": "AdvancedSteamSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ApexDestruction",
 			"Enabled": true
 		}
 	],
