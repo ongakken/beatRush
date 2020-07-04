@@ -1,4 +1,0 @@
-#Thu May 14 16:05:15 CEST 2020
-base.0=Z\:\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex
