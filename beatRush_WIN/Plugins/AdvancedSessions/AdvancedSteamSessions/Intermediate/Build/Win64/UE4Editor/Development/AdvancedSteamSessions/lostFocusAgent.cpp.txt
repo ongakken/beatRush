@@ -1,0 +1,3 @@
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\lostFocusAgent.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\lostFocusAgent.generated.h

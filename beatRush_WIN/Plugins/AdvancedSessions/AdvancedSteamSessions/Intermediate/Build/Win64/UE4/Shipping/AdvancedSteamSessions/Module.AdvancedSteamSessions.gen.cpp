@@ -2,5 +2,6 @@
 #include "D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSteamSessions/AdvancedSteamFriendsLibrary.gen.cpp"
 #include "D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSteamSessions/AdvancedSteamSessions.init.gen.cpp"
 #include "D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSteamSessions/AdvancedSteamWorkshopLibrary.gen.cpp"
+#include "D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSteamSessions/lostFocusAgent.gen.cpp"
 #include "D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSteamSessions/SteamRequestGroupOfficersCallbackProxy.gen.cpp"
 #include "D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSteamSessions/SteamWSRequestUGCDetailsCallbackProxy.gen.cpp"
