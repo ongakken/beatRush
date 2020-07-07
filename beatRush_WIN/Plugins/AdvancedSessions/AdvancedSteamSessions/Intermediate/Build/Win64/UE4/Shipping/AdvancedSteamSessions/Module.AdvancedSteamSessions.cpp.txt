@@ -186,6 +186,9 @@ D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamS
 D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
+D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/lostFocusAgent.cpp
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\lostFocusAgent.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\lostFocusAgent.generated.h
 D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h
 D:\UE_4.25\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
