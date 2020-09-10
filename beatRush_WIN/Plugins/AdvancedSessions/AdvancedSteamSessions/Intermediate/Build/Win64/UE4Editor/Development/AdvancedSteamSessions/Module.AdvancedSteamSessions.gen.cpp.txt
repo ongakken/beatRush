@@ -182,9 +182,13 @@ D:\UE_4.25\Engine\Source\ThirdParty\Steamworks\Steamv147\sdk\public\steam\isteam
 D:\UE_4.25\Engine\Source\ThirdParty\Steamworks\Steamv147\sdk\public\steam\isteamparentalsettings.h
 D:\UE_4.25\Engine\Source\ThirdParty\Steamworks\Steamv147\sdk\public\steam\isteamremoteplay.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h
+D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/AdvancedSteamSessions.init.gen.cpp
 D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/AdvancedSteamWorkshopLibrary.gen.cpp
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
+D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/lostFocusAgent.gen.cpp
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Private/lostFocusAgent.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\lostFocusAgent.generated.h
 D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/SteamRequestGroupOfficersCallbackProxy.gen.cpp
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h
 D:\UE_4.25\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
