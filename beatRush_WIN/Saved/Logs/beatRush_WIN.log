@@ -833,3 +833,172 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.13-10.42.16:750][309]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup76A89C4146188DC0E2C5C98AC786F7E9.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
 [2020.09.13-10.42.16:763][309]AssetCheck: New page: Asset Save: infiniteModeSetup
 [2020.09.13-10.42.16:763][309]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.28.47:178][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.13-11.28.47:179][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/gameplay' took 0.028
+[2020.09.13-11.28.47:180][  2]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/infiniteModeSetup] ([1] browsable assets)...
+[2020.09.13-11.28.47:180][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/infiniteModeSetup]
+[2020.09.13-11.28.47:180][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/Autosaves/Game/UI/infiniteModeSetup_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.09.13-11.28.47:188][  2]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup_Auto29B88E2B2403AA1C2125146893769601E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/Autosaves/Game/UI/infiniteModeSetup_Auto2.uasset'
+[2020.09.13-11.28.47:189][  2]LogFileHelpers: Auto-saving content packages took 0.009
+[2020.09.13-11.45.10:466][573]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.45.10:499][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.09.13-11.45.10:613][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.45.10:624][573]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupF7EC559F469E71BE4B75C885166879E8.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.45.10:643][573]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.45.10:643][573]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.45.16:562][ 23]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/level_chooser.level_chooser
+[2020.09.13-11.45.32:661][287]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-11.45.32:661][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-11.45.32:722][287]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-11.45.32:722][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-11.45.35:799][536]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/howToPlay.howToPlay
+[2020.09.13-11.45.37:699][667]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-11.45.37:699][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-11.45.37:702][667]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-11.45.37:702][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-11.46.38:042][ 28]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.46.38:080][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.09.13-11.46.38:147][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.46.38:155][ 28]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupBE68AF9F40A474E456E76AA486CE083E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.46.38:168][ 28]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.46.38:168][ 28]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.46.44:897][551]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/level_chooser.level_chooser
+[2020.09.13-11.47.11:404][ 16]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-11.47.11:404][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-11.47.11:421][ 16]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-11.47.11:421][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-11.47.12:229][ 75]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.47.12:273][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.09.13-11.47.12:381][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.47.12:393][ 75]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupA6A5E5744589D378D4019C8ED17EA1B0.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.47.12:409][ 75]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.47.12:409][ 75]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.47.13:015][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.47.13:030][118]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup3E98C9CE49E9774F46CAF9A4C3C4AEEA.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.47.13:043][118]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.47.13:043][118]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.48.58:982][573]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.48.59:025][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.09.13-11.48.59:150][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.48.59:163][573]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup848DB40A4FF19E9E1F10CDA19BDFD92F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.48.59:176][573]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.48.59:176][573]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.53.36:705][718]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.53.36:742][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.13-11.53.36:870][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.53.37:363][718]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup6515545046391A3E386300B99EDDC2CC.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.53.37:371][718]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.53.37:371][718]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.53.37:852][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.53.37:864][756]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup900AE5F04E45CED0ABF042BE8536CF5B.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.53.37:874][756]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.53.37:875][756]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.54.06:835][ 32]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.54.06:870][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.09.13-11.54.06:970][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.54.06:981][ 32]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupD0D104A3416987A5BEE86DA93D3C2FCA.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.54.06:997][ 32]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.54.06:997][ 32]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.54.07:386][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.54.07:396][ 62]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupC9FC41F04800C187B86B4CA8036418C6.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.54.07:407][ 62]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.54.07:408][ 62]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.54.56:445][240]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.54.56:487][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.09.13-11.54.56:604][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.54.56:615][240]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup7ED29E9349C3D0088E879CB43DEC5BD5.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.54.56:630][240]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.54.56:630][240]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.54.57:236][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.54.57:251][283]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup4A3CF89243E25451CB6ADC945BCC3E9D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.54.57:261][283]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.54.57:261][283]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.54.58:228][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.13-11.55.02:020][681]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.55.02:050][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.13-11.55.02:120][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.55.02:130][681]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup9A0F55EF476DDA7DF6D4F6A5B859880A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.55.02:142][681]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.55.02:142][681]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.55.02:471][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.55.02:481][708]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupF8D917F64AAA333024F81EA9EA0CA346.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.55.02:495][708]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.55.02:495][708]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.55.33:409][437]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.55.33:456][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.09.13-11.55.33:486][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.55.33:499][437]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup56AB75B64069C3080C257887198D65E9.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.55.33:515][437]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.55.33:515][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.55.33:789][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.55.33:801][459]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup5236E2FC4C8D8C6CD7F795A31AEA6B2B.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.55.33:815][459]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.55.33:815][459]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.55.34:506][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.09.13-11.55.51:514][998]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.55.51:561][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.09.13-11.55.51:604][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.55.51:616][998]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup6D15AFBF4AA8FF46CA7741B0C75888BB.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.55.51:627][998]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.55.51:627][998]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.55.52:020][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.55.52:033][ 30]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup4739174444E05731A151DCB5ADAEBA80.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.55.52:046][ 30]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.55.52:046][ 30]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.55.52:790][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.09.13-11.56.56:642][882]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-11.56.56:675][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.13-11.56.56:705][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.56.56:722][882]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup69F932AE42C20488D349439CF404B700.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.56.56:735][882]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.56.56:735][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.56.57:071][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-11.56.57:085][910]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupF1BCAC66406E46B32B9C0EA23C3F6DC1.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-11.56.57:097][910]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-11.56.57:097][910]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-11.56.57:800][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.09.13-11.57.07:123][782]LogEditorViewport: Clicking on Actor (LMB): ff_Sphere_complex_C (ff_Sphere_complex)
+[2020.09.13-11.57.08:787][899]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-11.59.23:662][265]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-11.59.23:993][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.09.13-11.59.24:166][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-11.59.24:491][265]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPA1E440CF4388602A0C235D9FE6B8A1FF.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-11.59.24:505][265]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-11.59.24:505][265]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-11.59.25:358][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-11.59.25:633][281]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP402506EE40A26134651BF8B91DFA7C79.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-11.59.25:644][281]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-11.59.25:644][281]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-11.59.30:615][589]BlueprintLog: New page: Compile main_menu
+[2020.09.13-11.59.30:815][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.09.13-11.59.30:874][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/main_menu.uasset" SILENT=true
+[2020.09.13-11.59.30:929][589]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/main_menuC95E76A448BA33A2433A18B75978C700.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/main_menu.uasset'
+[2020.09.13-11.59.30:941][589]AssetCheck: New page: Asset Save: main_menu
+[2020.09.13-11.59.30:941][589]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/main_menu.main_menu
+[2020.09.13-11.59.31:406][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/main_menu.uasset" SILENT=true
+[2020.09.13-11.59.31:465][613]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/main_menu3D737B1845F235C8451761A933FBFA2A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/main_menu.uasset'
+[2020.09.13-11.59.31:479][613]AssetCheck: New page: Asset Save: main_menu
+[2020.09.13-11.59.31:479][613]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/main_menu.main_menu
+[2020.09.13-12.00.07:720][292]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.00.08:082][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.09.13-12.00.08:270][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.00.08:615][292]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP2072CD92435D6F94EDAC19AE5789B901.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.00.08:630][292]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.00.08:630][292]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.00.44:093][315]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.13-12.00.45:157][334]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.00.45:758][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.09.13-12.00.46:024][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.00.46:531][334]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPFB70D7604853001B9263A193186B3F2A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.00.46:583][334]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.00.46:583][334]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.01.37:501][172]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.01.37:921][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.09.13-12.01.38:175][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.01.38:637][172]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP48C82F4B438447350BFC79BFED091F3F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.01.38:655][172]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.01.38:655][172]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.01.39:895][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.01.40:348][183]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP48E4434F4AE1C82B7F6CFDABB6239D5D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.01.40:365][183]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.01.40:365][183]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
