@@ -1002,3 +1002,809 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.13-12.01.40:348][183]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP48E4434F4AE1C82B7F6CFDABB6239D5D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
 [2020.09.13-12.01.40:365][183]AssetCheck: New page: Asset Save: playerCharacter_BP
 [2020.09.13-12.01.40:365][183]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.02.13:103][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.09.13-12.02.13:136][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/Autosaves/Game/Levels/gameplay_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.13-12.02.13:532][ 70]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_Auto3E254D7A14492E46430CF2BAEE3CDC92E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/Autosaves/Game/Levels/gameplay_Auto3.umap'
+[2020.09.13-12.02.13:589][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/gameplay' took 0.525
+[2020.09.13-12.02.13:589][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.525
+[2020.09.13-12.02.13:591][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/deathScreen] ([1] browsable assets)...
+[2020.09.13-12.02.13:591][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/deathScreen]
+[2020.09.13-12.02.13:591][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/deathScreen" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/Autosaves/Game/UI/deathScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.09.13-12.02.13:685][ 70]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/deathScreen_Auto3C9DCFD3A44486F82E296DD913D696725.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/Autosaves/Game/UI/deathScreen_Auto3.uasset'
+[2020.09.13-12.02.13:686][ 70]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.09.13-12.03.12:032][372]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.03.12:164][372]LogBlueprint: Error: [Compiler playerCharacter_BP] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2020.09.13-12.03.12:191][372]LogBlueprint: Error: [Compiler playerCharacter_BP] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.09.13-12.03.12:338][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.09.13-12.03.14:303][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.03.14:598][435]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPB6D964D044D86714E46D4A8681673C2B.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.03.14:610][435]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.03.14:610][435]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.03.46:917][846]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.03.47:329][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.09.13-12.03.47:593][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.03.48:010][846]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPC5A4FF294F482ACB38633E96661C9ED7.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.03.48:026][846]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.03.48:026][846]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.04.09:325][528]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.04.09:761][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.09.13-12.04.10:027][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.04.10:490][528]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPB4B8E580412DF64D3C8547B5634FAC6D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.04.10:508][528]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.04.10:508][528]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.06.17:523][188]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.06.17:721][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:721][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:721][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:721][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:721][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:721][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:721][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:721][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:722][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:722][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:722][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:722][188]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.17:940][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.09.13-12.06.48:760][664]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.06.48:983][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:983][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:983][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:983][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:983][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:984][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:984][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:984][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:984][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:984][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:984][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.48:984][664]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.06.49:187][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.09.13-12.06.50:631][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.06.51:148][681]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPAF7118034B078CE524032C950D66414D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.06.51:165][681]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.06.51:166][681]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.07.23:582][ 91]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.07.23:759][ 91]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.07.23:760][ 91]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.07.23:760][ 91]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.07.23:760][ 91]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.07.23:760][ 91]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.07.23:760][ 91]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.07.23:956][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.09.13-12.08.29:214][544]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.08.29:371][544]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.08.29:371][544]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.08.29:371][544]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.08.29:371][544]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.08.29:371][544]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.08.29:371][544]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.08.29:519][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.09.13-12.09.20:368][268]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.09.20:507][268]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.20:507][268]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.20:507][268]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.20:507][268]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.20:507][268]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.20:507][268]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.20:653][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.09.13-12.09.21:778][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.09.22:095][296]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP9FE4E63746AF4DEE838EFAA59ADCEDC0.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.09.22:113][296]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.09.22:113][296]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.09.45:465][488]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.09.45:601][488]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.45:601][488]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.45:601][488]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.45:601][488]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.45:601][488]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.45:601][488]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.09.45:756][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.09.13-12.10.05:004][438]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.10.05:150][438]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.05:151][438]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.05:151][438]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.05:151][438]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.05:151][438]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.05:151][438]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.05:313][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.09.13-12.10.06:378][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.10.06:692][460]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP7C9DFE0A4210E39DA1F31687561B9C07.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.10.06:705][460]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.10.06:705][460]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.10.37:336][ 81]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.10.37:479][ 81]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.37:480][ 81]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.37:480][ 81]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.37:480][ 81]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.37:628][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.09.13-12.10.52:743][771]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.10.52:877][771]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.52:877][771]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.10.53:031][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.09.13-12.11.08:723][494]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.11.09:093][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.09.13-12.11.09:344][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.11.09:657][494]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP896978854C890C3C5B5AEAA796859E34.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.11.09:674][494]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.11.09:674][494]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.11.11:286][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.11.11:663][532]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPDB4ED894465370A5FFC43995ED62700A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.11.11:679][532]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.11.11:679][532]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.12.19:111][735]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.12.19:473][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.09.13-12.12.19:697][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.12.20:005][735]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP42BC5AFB40FC51FFEB6C8FBF5B6AD1BD.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.12.20:022][735]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.12.20:022][735]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.12.21:004][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.12.21:324][748]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPAAE775C44E94ACA5FAB0B09A9A12E479.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.12.21:338][748]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.12.21:338][748]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.13.00:688][710]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.13.01:034][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.09.13-12.13.01:279][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.13.01:637][710]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPAFED48874BAD1E19BB2531B8425D767C.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.13.01:652][710]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.13.01:652][710]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.13.02:506][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.13.02:885][714]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP2534168A4AA4FEFFBF685293147243ED.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.13.02:898][714]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.13.02:898][714]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.14.05:068][750]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.14.05:399][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.09.13-12.14.05:617][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.14.05:955][750]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP8A9E90B644EF70E7E2B7A1A90737E43F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.14.05:967][750]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.14.05:967][750]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.14.08:237][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.14.08:590][831]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPC84D903E456088E086A3E2A40CC9BFCE.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.14.08:604][831]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.14.08:604][831]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.14.09:351][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.09.13-12.14.09:370][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.14.09:392][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.09.13-12.14.09:631][871]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay042F6B2D49C40357A70F5B8C47970EC3.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.14.09:656][871]LogFileHelpers: Saving map 'gameplay' took 0.285
+[2020.09.13-12.14.09:656][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.14.10:010][871]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData329FBB9B4E483B76D18E8BA7EB2FC8E7.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.14.10:011][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/deathScreen" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/deathScreen.uasset" SILENT=true
+[2020.09.13-12.14.10:051][871]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/deathScreenC10E655043DA1C14EBDDFCB616F34A82.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/deathScreen.uasset'
+[2020.09.13-12.14.10:071][871]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.14.10:071][871]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.14.10:071][871]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.14.10:071][871]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/deathScreen.deathScreen
+[2020.09.13-12.15.48:235][381]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.15.48:622][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.09.13-12.15.48:866][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.15.49:206][381]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP7C9DD8314C315BB4B5A703A56E9B78FE.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.15.49:219][381]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.15.49:219][381]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.15.50:138][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.15.50:506][399]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPD9A5FBE34A6F046CAB4B91807E15807E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.15.50:520][399]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.15.50:520][399]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.15.51:199][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.09.13-12.15.51:222][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.15.51:245][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.13-12.15.51:409][436]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayEB94BC4244750464D5BE819733C7BC73.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.15.51:434][436]LogFileHelpers: Saving map 'gameplay' took 0.212
+[2020.09.13-12.15.51:434][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.15.51:766][436]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData81EF21F544680BDCF1F13CAE79203485.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.15.51:782][436]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.15.51:782][436]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.15.51:782][436]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.16.48:795][193]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.16.49:206][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.09.13-12.16.49:507][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.16.49:867][193]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP8CE06635486DD5C9775973A805AF2BAD.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.16.49:881][193]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.16.49:881][193]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.16.50:975][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.16.51:333][208]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPE1EC8ABC414F827F5BB299A09638B2FC.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.16.51:344][208]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.16.51:344][208]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.17.22:469][700]LogSlate: Took 0.000696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.09.13-12.17.29:772][973]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.17.30:132][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.09.13-12.17.30:356][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.17.30:847][973]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP98601B5E43ED8A18BFA4EDAE13B20829.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.17.30:865][973]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.17.30:865][973]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.17.43:257][635]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.17.43:590][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.09.13-12.17.43:817][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.17.44:138][635]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPB216E63144BA5CDDD417D4B2EFFEFD2F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.17.44:151][635]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.17.44:151][635]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.17.45:009][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.17.45:362][652]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP513A649748C52F79DEBAB5BE0AF54B0A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.17.45:374][652]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.17.45:374][652]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.17.50:555][922]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.17.50:950][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.13-12.17.51:169][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.17.51:503][922]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP0A60DD894D91D4067B73CB95986B2C35.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.17.51:518][922]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.17.51:518][922]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.17.52:473][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.17.52:782][940]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPB90959F6440F82A21ED81DBEBEEC88F7.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.17.52:795][940]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.17.52:795][940]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.18.02:785][467]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.18.03:117][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.09.13-12.18.03:351][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.18.03:667][467]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP692066974223190703CC59BAF24B4E21.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.18.03:680][467]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.18.03:680][467]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.18.04:876][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.18.05:220][496]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPACAAC3A24E886377E28E62AC5DF7769B.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.18.05:233][496]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.18.05:233][496]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.18.40:928][923]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.18.41:285][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.09.13-12.18.41:516][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.18.41:929][923]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP29DA3349468301BE31D1049E786D5487.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.18.41:942][923]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.18.41:942][923]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.18.42:875][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.18.43:219][938]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP9290542E4F35CDC72961B08125227DC1.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.18.43:231][938]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.18.43:231][938]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.20.21:498][ 42]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.20.21:823][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.09.13-12.20.22:069][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.20.22:400][ 42]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP6C0BBC3945E27D81D22FB29043DF7651.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.20.22:413][ 42]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.20.22:413][ 42]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.20.23:277][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.20.23:626][ 57]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP1CA57604412F1FAA0B602780DB93455A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.20.23:639][ 57]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.20.23:639][ 57]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.20.24:279][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.09.13-12.20.24:293][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.20.24:316][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.13-12.20.24:454][ 93]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayB2C5BA7F4F4739EB2B8222BB7085464F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.20.24:476][ 93]LogFileHelpers: Saving map 'gameplay' took 0.183
+[2020.09.13-12.20.24:476][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.20.24:737][ 93]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltDataBF397DAA429AD1F40E64FD9FB98215E4.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.20.24:754][ 93]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.20.24:754][ 93]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.20.24:754][ 93]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.21.38:022][433]LogEditorTransaction: Undo Delete current selection
+[2020.09.13-12.21.38:990][434]LogEditorTransaction: Undo Paste clipboard contents
+[2020.09.13-12.21.46:845][676]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.21.47:191][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.09.13-12.21.47:419][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.21.47:786][676]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPEEF1ED6B4B8D14532E3AC692EEEB3161.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.21.47:800][676]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.21.47:801][676]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.25.09:649][ 26]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.25.09:855][ 26]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.09:855][ 26]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.09:855][ 26]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.09:855][ 26]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.09:855][ 26]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.09:855][ 26]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.10:050][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.09.13-12.25.37:195][310]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.25.37:337][310]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.37:337][310]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.37:338][310]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.37:338][310]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.37:338][310]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.37:338][310]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.25.37:493][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.09.13-12.25.38:773][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.25.39:153][334]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP73850B7B407BE3F40BC8E4A14C47744F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.25.39:167][334]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.25.39:167][334]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.28.34:242][252]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.28.34:380][252]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.28.34:380][252]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.28.34:380][252]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.28.34:380][252]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.28.34:380][252]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.28.34:380][252]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.09.13-12.28.34:520][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.09.13-12.28.35:675][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.28.35:993][278]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPBFB25F2A46809F16647D2A956225B6F3.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.28.36:006][278]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.28.36:006][278]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.28.36:628][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.09.13-12.28.36:650][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.28.36:670][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.13-12.28.36:798][312]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay73B39BC444E146C4FD430AA3844967E5.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.28.36:818][312]LogFileHelpers: Saving map 'gameplay' took 0.169
+[2020.09.13-12.28.36:818][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.28.37:052][312]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData7E7831104077EF759B7136A77C0365E9.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.28.37:066][312]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.28.37:066][312]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.28.37:066][312]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.29.02:976][607]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.29.03:272][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.09.13-12.29.03:512][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.29.03:871][607]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP9AE8D270419D524E123F13A41C36BEA0.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.29.03:885][607]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.29.03:885][607]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.29.04:816][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.29.05:129][627]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPBF4F3D524123AE38479C0F95BD57534B.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.29.05:141][627]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.29.05:141][627]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.29.05:888][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.09.13-12.29.05:917][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.29.05:937][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.13-12.29.06:073][667]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayD67699CA471030C1FE42F79FF1AD053C.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.29.06:093][667]LogFileHelpers: Saving map 'gameplay' took 0.176
+[2020.09.13-12.29.06:093][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.29.06:324][667]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData70F53B9940F9073737062CA7C03301E4.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.29.06:338][667]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.29.06:338][667]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.29.06:338][667]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.29.49:281][972]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.29.49:587][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.09.13-12.29.49:826][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.29.50:145][972]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPCF16950749A18EADA2FB9BB1F4F57BC1.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.29.50:159][972]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.29.50:159][972]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.29.54:269][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.29.54:568][178]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPCA82727B45365A4C1841A387781DF9D1.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.29.54:581][178]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.29.54:581][178]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.31.20:821][ 71]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.31.21:131][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.09.13-12.31.21:361][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.31.21:723][ 71]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP34C3B3564AF024F8E6842D827906C7B9.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.31.21:736][ 71]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.31.21:736][ 71]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.31.22:653][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.31.22:957][ 87]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPB76E390D4C4DFD1C7CE0E09E1967012A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.31.22:970][ 87]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.31.22:970][ 87]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.31.23:537][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.09.13-12.31.23:552][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.31.23:575][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.09.13-12.31.23:721][110]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay73BE9D324309A5E9CD6F5496B6F2F087.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.31.23:741][110]LogFileHelpers: Saving map 'gameplay' took 0.189
+[2020.09.13-12.31.23:742][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.31.23:982][110]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltDataE6EC3AAD43E2EDEF3BBD62B8BCEA5AE4.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.31.23:996][110]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.31.23:996][110]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.31.23:996][110]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.32.00:059][931]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.32.00:371][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.09.13-12.32.00:612][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.32.00:950][931]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPB3365DB845C090786C58CB82F64E0A56.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.32.00:964][931]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.32.00:964][931]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.32.01:869][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.32.02:179][949]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP2A79A4A941D86422E2BEFC8001F93CB2.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.32.02:191][949]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.32.02:191][949]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.32.02:781][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.09.13-12.32.02:802][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.32.02:825][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.09.13-12.32.02:975][979]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayB4D5F74A4318C0D185B933BAAC2B3210.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.32.03:004][979]LogFileHelpers: Saving map 'gameplay' took 0.202
+[2020.09.13-12.32.03:004][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.32.03:254][979]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData72BD939A4EB62029998350994E888110.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.32.03:268][979]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.32.03:268][979]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.32.03:268][979]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.33.33:794][591]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.33.34:107][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.09.13-12.33.34:347][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.33.34:675][591]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPC6DDD87C4EFBD89FADAEA480AD97A226.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.33.34:687][591]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.33.34:687][591]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.33.35:489][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.33.35:839][604]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP8C6CE866488CC77CB5CB8F967E7CE403.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.33.35:851][604]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.33.35:851][604]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.33.36:436][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.09.13-12.33.36:455][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.33.36:475][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.09.13-12.33.36:616][636]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay0F2CF2044AC8003955E61DA411106BF9.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.33.36:636][636]LogFileHelpers: Saving map 'gameplay' took 0.182
+[2020.09.13-12.33.36:636][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.33.36:869][636]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData1E060A3E42242DA42DA18B92559DEB84.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.33.36:886][636]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.33.36:886][636]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.33.36:886][636]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.34.46:671][223]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.34.46:808][223]LogBlueprint: Error: [Compiler playerCharacter_BP] The current value of the ' Attributes ' pin is invalid: Array inputs (like 'Attributes') must have an input wired into them (try connecting a MakeArray node).
+[2020.09.13-12.34.46:956][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.09.13-12.37.52:496][593]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.37.52:819][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.09.13-12.37.53:085][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.37.53:408][593]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP5559067545EF34D99762C9A57D6B38BD.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.37.53:420][593]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.37.53:420][593]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.37.54:226][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.37.54:533][607]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPA2B975BE4796B227CFD8A38B9592A40B.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.37.54:546][607]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.37.54:546][607]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.37.55:092][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.09.13-12.37.55:107][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.37.55:131][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.09.13-12.37.55:267][640]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay4C3F48B8465D5B831A52D99079115071.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.37.55:288][640]LogFileHelpers: Saving map 'gameplay' took 0.181
+[2020.09.13-12.37.55:288][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.37.55:529][640]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData76825EED4D331DE04D05148A89F26435.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.37.55:549][640]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.37.55:549][640]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.37.55:549][640]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.38.07:159][213]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/shop.shop
+[2020.09.13-12.38.13:664][582]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-12.38.13:665][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-12.38.13:668][582]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-12.38.13:668][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-12.38.52:522][609]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.38.52:830][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.09.13-12.38.53:094][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.38.53:450][609]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP9E96E8A3431C3CF5C4A9A68BEC79F86E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.38.53:464][609]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.38.53:465][609]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.38.54:359][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.38.54:654][630]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPAAFEC6B04F7508DF12D46784104E2941.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.38.54:667][630]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.38.54:667][630]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.39.11:270][442]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.39.11:589][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.09.13-12.39.11:835][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.39.12:160][442]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP44EAE2414B9090BEFD12A6AD41C7AA84.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.39.12:172][442]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.39.12:172][442]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.39.13:109][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.39.13:412][460]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPD571C72441341EFA7A2EEEBAB3D38F7F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.39.13:425][460]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.39.13:425][460]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.39.14:068][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.09.13-12.39.14:093][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.39.14:115][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.09.13-12.39.14:261][491]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay28EDFD1B4285B0067E81B5861E5280F0.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.39.14:283][491]LogFileHelpers: Saving map 'gameplay' took 0.190
+[2020.09.13-12.39.14:283][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.39.14:534][491]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltDataB0A078A143A5010080B264BFCFCE04B3.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.39.14:549][491]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.39.14:549][491]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.39.14:549][491]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.42.28:657][852]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-12.42.28:720][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.09.13-12.42.28:778][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.42.28:797][852]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup209A35D74CDCC865B75333BE3013DF83.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.42.28:810][852]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.42.28:810][852]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.42.29:328][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.42.29:345][885]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupD070277B4AE94BCCBD3DF0A583E8E0E2.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.42.29:355][885]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.42.29:355][885]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.44.05:052][191]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-12.44.05:077][191]LogBlueprint: Warning: [Compiler infiniteModeSetup] Could not find a variable named "music" in 'infiniteModeSetup_C'.
+Make sure 'infiniteModeSetup_C' has been compiled for  Get music
+[2020.09.13-12.44.05:077][191]LogBlueprint: Error: [Compiler infiniteModeSetup] The property associated with  Music  could not be found in '/Game/UI/infiniteModeSetup.infiniteModeSetup_C'
+[2020.09.13-12.44.05:115][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.09.13-12.44.05:647][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.44.05:666][224]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup7F5765564A76CEDD81D6C1ADB9C57871.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.44.05:678][224]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.44.05:678][224]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.44.25:702][739]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-12.44.25:746][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.09.13-12.44.25:779][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.44.25:805][739]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupA43C4E9A44790EEB73FA81BCB5E6F4FF.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.44.25:820][739]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.44.25:820][739]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.44.26:328][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.44.26:348][771]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupF512D35B46B17714202D60B9EB4EC51C.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.44.26:359][771]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.44.26:359][771]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.44.36:334][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.09.13-12.44.48:742][146]BlueprintLog: New page: Compile main_menu
+[2020.09.13-12.44.48:959][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.09.13-12.44.49:062][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/main_menu.uasset" SILENT=true
+[2020.09.13-12.44.49:118][146]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/main_menu3BB1EEA140CE318260B9CAB8F71D6DEA.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/main_menu.uasset'
+[2020.09.13-12.44.49:130][146]AssetCheck: New page: Asset Save: main_menu
+[2020.09.13-12.44.49:130][146]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/main_menu.main_menu
+[2020.09.13-12.44.49:394][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/main_menu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/main_menu.uasset" SILENT=true
+[2020.09.13-12.44.49:454][162]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/main_menu2F5F8E2244E476A537A21BB633C017FD.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/main_menu.uasset'
+[2020.09.13-12.44.49:466][162]AssetCheck: New page: Asset Save: main_menu
+[2020.09.13-12.44.49:466][162]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/main_menu.main_menu
+[2020.09.13-12.44.51:759][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.09.13-12.44.51:779][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.44.51:800][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.09.13-12.44.51:930][301]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayB33BB77C4072A73E6A94CF95E3D5D528.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.44.51:950][301]LogFileHelpers: Saving map 'gameplay' took 0.172
+[2020.09.13-12.44.51:951][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.44.52:206][301]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData0CB179F449E81FD2853F7BA59E9C7029.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.44.52:224][301]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.44.52:224][301]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.44.52:224][301]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.44.52:829][340]LogTemp: Repeating last play command: Standalone Game
+[2020.09.13-12.44.52:875][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.09.13-12.46.07:146][198]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-12.46.07:187][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.09.13-12.46.07:281][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.46.07:306][198]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupB8173FF74B825134BE0360BC7F46E0FE.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.46.07:320][198]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.46.07:320][198]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.46.07:698][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.46.07:720][220]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupC3AF8B6F405E2E9E97BCCABEC10C895E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.46.07:731][220]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.46.07:731][220]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.46.08:294][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.09.13-12.46.09:157][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.09.13-12.46.17:301][823]LogTemp: Repeating last play command: Standalone Game
+[2020.09.13-12.46.17:334][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.09.13-12.48.20:547][972]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-12.48.20:588][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.09.13-12.48.20:683][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.48.20:715][972]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupD348FDD84514908195C814AD01859D1D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.48.20:729][972]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.48.20:729][972]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.48.21:150][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-12.48.21:168][998]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup9553AA8845389DC28D7185BC61563A6A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-12.48.21:181][998]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-12.48.21:181][998]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-12.50.36:325][545]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.50.36:640][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.09.13-12.50.36:912][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.50.37:219][545]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPDEC9B03542A13835C8BBEC98E32D7747.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.50.37:232][545]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.50.37:232][545]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.50.38:084][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.50.38:423][564]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPE1160E124A8639E7A5893880D453FFF7.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.50.38:436][564]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.50.38:436][564]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.52.32:802][821]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.52.33:116][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.09.13-12.52.33:382][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.52.33:686][821]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPC0250AA941818920A8DB72B06F6CA8E8.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.52.33:695][821]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.52.33:695][821]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.52.34:504][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.52.34:815][840]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPC8B2A54C4E475F22AC77AFA22D697A74.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.52.34:828][840]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.52.34:828][840]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.52.35:420][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.09.13-12.52.35:438][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.52.35:461][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.13-12.52.35:607][874]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay21A200944718F2D2931E6BBB1EE33C2E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.52.35:629][874]LogFileHelpers: Saving map 'gameplay' took 0.192
+[2020.09.13-12.52.35:629][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.52.35:885][874]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData28B1E44646BB51824CB6EBA863CB87E2.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.52.35:903][874]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.52.35:903][874]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.52.35:903][874]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.52.37:170][951]LogTemp: Repeating last play command: Standalone Game
+[2020.09.13-12.52.37:210][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.09.13-12.53.54:187][228]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2020.09.13-12.55.03:432][780]BlueprintLog: New page: Compile HUD
+[2020.09.13-12.55.03:662][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.09.13-12.55.03:707][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/HUD.uasset" SILENT=true
+[2020.09.13-12.55.03:743][780]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/HUD3E78E82B46B395989777A0A50194BA31.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/HUD.uasset'
+[2020.09.13-12.55.03:757][780]AssetCheck: New page: Asset Save: HUD
+[2020.09.13-12.55.03:758][780]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2020.09.13-12.55.04:206][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/HUD.uasset" SILENT=true
+[2020.09.13-12.55.04:246][805]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/HUD1B1590044DE8591D823343A88142B65C.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/HUD.uasset'
+[2020.09.13-12.55.04:260][805]AssetCheck: New page: Asset Save: HUD
+[2020.09.13-12.55.04:260][805]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2020.09.13-12.55.04:867][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.09.13-12.55.04:889][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.55.04:917][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.09.13-12.55.05:045][849]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay3A43A3DB48BCA65A15F228A11995A875.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.55.05:066][849]LogFileHelpers: Saving map 'gameplay' took 0.178
+[2020.09.13-12.55.05:067][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.55.05:302][849]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltDataA2692E6A4FE04C3FC7310093C98C43BC.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.55.05:317][849]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.55.05:317][849]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.55.05:317][849]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.56.00:569][389]BlueprintLog: New page: Compile HUD
+[2020.09.13-12.56.00:641][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.09.13-12.56.00:690][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/HUD.uasset" SILENT=true
+[2020.09.13-12.56.00:729][389]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/HUD3ED573A24250AD80A5A3578D6AADF724.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/HUD.uasset'
+[2020.09.13-12.56.00:742][389]AssetCheck: New page: Asset Save: HUD
+[2020.09.13-12.56.00:742][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2020.09.13-12.56.01:190][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/HUD.uasset" SILENT=true
+[2020.09.13-12.56.01:223][414]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/HUDC219093F4C5B8C3CC8E9A9A7FB891A96.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/HUD.uasset'
+[2020.09.13-12.56.01:236][414]AssetCheck: New page: Asset Save: HUD
+[2020.09.13-12.56.01:236][414]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD.HUD
+[2020.09.13-12.56.01:885][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.09.13-12.56.01:906][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.56.01:929][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.13-12.56.02:060][463]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay94A526B746B58A21D834F4983718C51C.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.56.02:082][463]LogFileHelpers: Saving map 'gameplay' took 0.175
+[2020.09.13-12.56.02:082][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.56.02:317][463]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData15419541461D93253B4AA6A6E7D395BA.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.56.02:331][463]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.56.02:331][463]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.56.02:332][463]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-12.56.04:214][578]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-12.56.04:214][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-12.56.04:217][578]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-12.56.04:217][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.13-12.56.58:332][477]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-12.56.58:650][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.09.13-12.56.58:942][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.56.59:302][477]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPA0E5AE9B40D73CA17FB580A5C97F995A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.56.59:314][477]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.56.59:314][477]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.57.00:024][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-12.57.00:331][487]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP9AA2FE1C45BF9A8B4AD805BD73734F5C.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-12.57.00:344][487]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-12.57.00:344][487]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-12.57.00:888][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.09.13-12.57.00:907][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-12.57.00:930][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.09.13-12.57.01:083][516]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayCDC761BC4AFCFDC1DB778EB4DACBEE31.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-12.57.01:109][516]LogFileHelpers: Saving map 'gameplay' took 0.202
+[2020.09.13-12.57.01:109][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-12.57.01:363][516]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData5BE92EAE4AF653CFBDF81DB211740CC8.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-12.57.01:378][516]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-12.57.01:378][516]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-12.57.01:378][516]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-13.00.39:762][756]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-13.00.40:113][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.09.13-13.00.40:405][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-13.00.40:731][756]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPC87B60B54397FC79398C3CAD0D6A9261.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-13.00.40:745][756]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-13.00.40:745][756]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-13.00.53:404][254]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-13.00.53:748][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.09.13-13.00.54:054][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-13.00.54:367][254]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPBB75C1194A5C42D5FF843C9DFED46B98.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-13.00.54:379][254]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-13.00.54:379][254]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-13.00.55:295][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-13.00.55:609][276]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP7384F862413DC64911D0648DBDCA63DB.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-13.00.55:622][276]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-13.00.55:622][276]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-13.01.09:157][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.09.13-13.01.09:178][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-13.01.09:201][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.13-13.01.09:342][ 17]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayE93781914F5E24A5979A69BE3D9BC773.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-13.01.09:364][ 17]LogFileHelpers: Saving map 'gameplay' took 0.186
+[2020.09.13-13.01.09:364][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-13.01.09:614][ 17]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData6AD4EACB4308C32C6BED07BF0A8B92A6.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-13.01.09:631][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-13.01.09:631][ 17]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-13.01.09:631][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-13.01.10:646][ 81]LogTemp: Repeating last play command: Standalone Game
+[2020.09.13-13.01.10:682][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.09.13-13.03.42:937][980]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-13.03.43:363][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.09.13-13.03.43:744][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-13.03.44:154][980]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPEEE1C9204DED29BAF286308A2182C077.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-13.03.44:170][980]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-13.03.44:170][980]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-13.03.45:198][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-13.03.45:595][993]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BPDE2B1A2B40640DCBB7B467AB8063076E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-13.03.45:609][993]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-13.03.45:609][993]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-13.04.11:308][265]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-13.04.11:359][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.09.13-13.04.11:467][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-13.04.11:498][265]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup7CD4093D4AF1B14743F209B562B692BF.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-13.04.11:512][265]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-13.04.11:512][265]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-13.04.11:899][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-13.04.11:924][285]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup7F064B854473FFB813D8329FF9EEE4C8.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-13.04.11:939][285]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-13.04.11:939][285]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-13.04.13:675][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.09.13-13.04.13:699][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-13.04.13:724][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.13-13.04.13:871][389]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay7F480DC943E0AACDE287EBBA047B53D3.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-13.04.13:899][389]LogFileHelpers: Saving map 'gameplay' took 0.201
+[2020.09.13-13.04.13:899][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-13.04.14:197][389]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltDataFD0643F1426AA7A9B855D2BF48B33A61.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-13.04.14:219][389]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-13.04.14:219][389]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-13.04.14:219][389]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-13.54.44:900][231]AssetReimport: New page: Outstanding source content changes 5:54:44 PM
+[2020.09.13-13.54.45:148][231]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/infinite/ecstaticInfinite.wav)
+[2020.09.13-13.54.55:231][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/audio/OST/infinite/ecstaticInfinite" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/infinite/ecstaticInfinite.uasset" SILENT=true
+[2020.09.13-13.54.55:806][232]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/ecstaticInfinite763557B641CF3B7639BF599A459FC70D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/infinite/ecstaticInfinite.uasset'
+[2020.09.13-13.54.55:870][233]AssetCheck: New page: Asset Save: ecstaticInfinite
+[2020.09.13-13.54.55:870][233]LogContentValidation: Display: Validating SoundWave /Game/audio/OST/infinite/ecstaticInfinite.ecstaticInfinite
+[2020.09.13-13.54.58:855][389]AssetReimport: Importing new asset /Game/audio/OST/infinite/ecstaticInfinite.
+[2020.09.13-13.59.47:096][747]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-13.59.47:667][747]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.09.13-13.59.48:148][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-13.59.48:621][747]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP52F19958463E55EB0E3EBCB6026F10D0.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-13.59.48:640][747]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-13.59.48:640][747]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-13.59.49:848][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-13.59.50:325][758]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP5537D5EC452D26211626EDAB264D2B98.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-13.59.50:342][758]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-13.59.50:342][758]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-14.00.02:190][173]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-14.00.02:261][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.09.13-14.00.02:434][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.00.02:475][173]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupF366FD864EBEF3BEEE44C8AF9E5C7496.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.00.02:493][173]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.00.02:493][173]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.02.22:072][269]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-14.02.22:133][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.09.13-14.02.22:303][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.02.22:354][269]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup8B1BD04E4E03B7B31A10D68BA6B6DFF2.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.02.22:370][269]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.02.22:370][269]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.02.22:717][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.02.22:757][284]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetupE6A269184046018E2FB8CD933A8132C1.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.02.22:775][284]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.02.22:775][284]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.02.23:388][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.09.13-14.02.23:419][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-14.02.23:449][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.13-14.02.23:633][318]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayB6775F214B6B4B232A8DFE93F39D1DAC.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-14.02.23:671][318]LogFileHelpers: Saving map 'gameplay' took 0.253
+[2020.09.13-14.02.23:672][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-14.02.24:077][318]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData45E0EC254323EFBE09DFE5908F9F9758.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-14.02.24:100][318]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-14.02.24:100][318]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-14.02.24:101][318]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-14.02.26:333][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.09.13-14.02.29:792][635]LogTemp: Repeating last play command: Standalone Game
+[2020.09.13-14.02.29:841][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.13-14.08.34:551][372]BlueprintLog: New page: Compile playerCharacter_BP
+[2020.09.13-14.08.35:029][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.09.13-14.08.35:503][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-14.08.35:956][372]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP58E03BE4425086569AA71B9161AC89C6.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-14.08.35:973][372]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-14.08.35:973][372]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-14.08.37:139][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2020.09.13-14.08.37:599][385]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP6895D8AC4EA2D60862A0DEA76A675C08.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2020.09.13-14.08.37:613][385]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2020.09.13-14.08.37:613][385]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2020.09.13-14.08.38:234][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.09.13-14.08.38:257][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.13-14.08.38:286][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.09.13-14.08.38:493][405]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayFE912D7C498115C03D3DDAADD0102535.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2020.09.13-14.08.38:532][405]LogFileHelpers: Saving map 'gameplay' took 0.275
+[2020.09.13-14.08.38:532][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2020.09.13-14.08.38:908][405]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltDataE647BE784E125C8F7F2633AFE7895844.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2020.09.13-14.08.38:928][405]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.13-14.08.38:928][405]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2020.09.13-14.08.38:928][405]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2020.09.13-14.36.44:318][932]AssetReimport: New page: Outstanding source content changes 6:36:44 PM
+[2020.09.13-14.36.44:601][932]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/infinite/beatRushInfinite.wav)
+[2020.09.13-14.36.57:639][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/audio/OST/infinite/beatRushInfinite" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/infinite/beatRushInfinite.uasset" SILENT=true
+[2020.09.13-14.36.58:302][933]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/beatRushInfiniteCB9F7D8F48B20DF5F1FBB5871D9D1B5B.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/infinite/beatRushInfinite.uasset'
+[2020.09.13-14.36.58:351][934]AssetCheck: New page: Asset Save: beatRushInfinite
+[2020.09.13-14.36.58:351][934]LogContentValidation: Display: Validating SoundWave /Game/audio/OST/infinite/beatRushInfinite.beatRushInfinite
+[2020.09.13-14.37.01:388][ 94]AssetReimport: Importing new asset /Game/audio/OST/infinite/beatRushInfinite.
+[2020.09.13-14.38.55:910][584]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-14.38.55:969][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.09.13-14.38.56:099][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.38.56:139][584]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup23DC8BAE414C7871E8DD47A3ECD3C0B4.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.38.56:153][584]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.38.56:153][584]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.38.56:632][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.38.56:666][609]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup5C16BF554B062C5B422AFCBEF5E2CDB5.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.38.56:681][609]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.38.56:681][609]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.38.57:483][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.09.13-14.42.44:722][ 22]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-14.42.44:777][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.09.13-14.42.44:920][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.42.44:973][ 22]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup9113A6DC437C92B145AFF1933C440B42.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.42.44:989][ 22]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.42.44:989][ 22]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.42.45:287][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.42.45:331][ 36]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup7DB38DE44D64F4E3F4BF5A9A61D008AD.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.42.45:345][ 36]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.42.45:345][ 36]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.42.46:262][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.09.13-14.43.17:498][884]BlueprintLog: New page: Compile infiniteModeSetup
+[2020.09.13-14.43.17:575][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.09.13-14.43.17:722][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.43.17:775][884]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup97F885D84C4A459C2A96718B37D9FFFA.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.43.17:792][884]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.43.17:792][884]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.43.18:202][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/infiniteModeSetup" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset" SILENT=true
+[2020.09.13-14.43.18:245][904]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/infiniteModeSetup10AA71D3454741275C99F89845993F5E.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/infiniteModeSetup.uasset'
+[2020.09.13-14.43.18:259][904]AssetCheck: New page: Asset Save: infiniteModeSetup
+[2020.09.13-14.43.18:259][904]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/infiniteModeSetup.infiniteModeSetup
+[2020.09.13-14.43.18:972][948]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.09.13-14.43.21:793][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
