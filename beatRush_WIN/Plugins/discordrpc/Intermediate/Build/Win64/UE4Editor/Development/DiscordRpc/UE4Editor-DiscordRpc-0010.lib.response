@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DiscordRpc-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\beatRush\beatRush_WIN\Intermediate\Build\Win64\beatRushEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\discordrpc\Intermediate\Build\Win64\UE4Editor\Development\DiscordRpc\Module.DiscordRpc.cpp.obj"
+"D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\discordrpc\Intermediate\Build\Win64\UE4Editor\Development\DiscordRpc\Module.DiscordRpc.gen.cpp.obj"
+"D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\discordrpc\Intermediate\Build\Win64\UE4Editor\Development\DiscordRpc\Default.rc2.res"
+/OUT:"D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\discordrpc\Intermediate\Build\Win64\UE4Editor\Development\DiscordRpc\UE4Editor-DiscordRpc-0010.lib"
+/INCLUDE:IMPLEMENT_MODULE_DiscordRpc

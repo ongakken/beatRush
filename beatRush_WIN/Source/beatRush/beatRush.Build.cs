@@ -9,5 +9,8 @@ public class beatRush : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "OnlineSubsystem", "OnlineSubsystemUtils", "Steamworks", "Http", "Json", "JsonUtilities" });
+
+		PrivateDependencyModuleNames.AddRange(new string[] { "GameAnalytics" });
+		PrivateIncludePathModuleNames.AddRange(new string[] { "GameAnalytics" });
 	}
 }
