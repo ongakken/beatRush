@@ -1,13 +1,15 @@
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
-D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
@@ -16,5 +18,3 @@ D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessio
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
-D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
