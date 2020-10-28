@@ -10,7 +10,9 @@ public class beatRush : ModuleRules
 
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "OnlineSubsystem", "OnlineSubsystemUtils", "Steamworks", "Http", "Json", "JsonUtilities" });
 
-		PrivateDependencyModuleNames.AddRange(new string[] { "GameAnalytics" });
+		PrivateDependencyModuleNames.AddRange(new string[] { "GameAnalytics", "OnlineSubsystem" });
 		PrivateIncludePathModuleNames.AddRange(new string[] { "GameAnalytics" });
+
+		DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
 	}
 }
