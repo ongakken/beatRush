@@ -173,6 +173,30 @@
 			"Type": "DynamicLibrary"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Text3D/Binaries/Win64/UE4Editor-Text3D.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-GeometricObjects.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-GeometryAlgorithms.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-DynamicMesh.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-MeshConversion.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-MeshSolverUtilities.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/discordrpc/Binaries/Win64/UE4Editor-DiscordRpc.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -290,26 +314,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/MeshPainting/Binaries/Win64/UE4Editor-MeshPaintingToolset.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-GeometricObjects.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-GeometryAlgorithms.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-DynamicMesh.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-MeshConversion.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-MeshSolverUtilities.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -1953,6 +1957,14 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Text3D/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/discordrpc/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2034,10 +2046,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/MeshPainting/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -2191,6 +2199,14 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Text3D/Text3D.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/GeometryProcessing.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/discordrpc/DiscordRpc.uplugin",
 			"Type": "UFS"
 		},
@@ -2272,10 +2288,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/MeshPainting/MeshPainting.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/GeometryProcessing.uplugin",
 			"Type": "UFS"
 		},
 		{
