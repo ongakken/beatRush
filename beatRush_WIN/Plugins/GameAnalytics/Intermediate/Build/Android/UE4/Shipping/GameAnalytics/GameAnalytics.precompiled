@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.GameAnalytics.cppa7.o",
+		"Module.GameAnalytics.cppa8.o",
+		"Module.GameAnalytics.gen.cppa7.o",
+		"Module.GameAnalytics.gen.cppa8.o"
+	]
+}

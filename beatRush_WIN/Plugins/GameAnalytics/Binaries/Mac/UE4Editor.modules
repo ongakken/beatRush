@@ -1,0 +1,8 @@
+{
+	"BuildId": "13144385",
+	"Modules": 
+	{
+		"GameAnalytics": "UE4Editor-GameAnalytics.dylib",
+		"GameAnalyticsEditor": "UE4Editor-GameAnalyticsEditor.dylib"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.GameAnalytics.cpp.o",
+		"Module.GameAnalytics.gen.cpp.o"
+	]
+}
