@@ -19,8 +19,8 @@ enum class EGAResourceFlowType : uint8;
 #endif
 #define GAMEANALYTICS_GameAnalytics_generated_h
 
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_SPARSE_DATA
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_RPC_WRAPPERS \
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_SPARSE_DATA
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnQuit); \
 	DECLARE_FUNCTION(execGetABTestingVariantId); \
@@ -51,7 +51,7 @@ enum class EGAResourceFlowType : uint8;
 	DECLARE_FUNCTION(execAddBusinessEventIOS);
 
 
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_RPC_WRAPPERS_NO_PURE_DECLS \
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnQuit); \
 	DECLARE_FUNCTION(execGetABTestingVariantId); \
@@ -82,7 +82,7 @@ enum class EGAResourceFlowType : uint8;
 	DECLARE_FUNCTION(execAddBusinessEventIOS);
 
 
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_INCLASS_NO_PURE_DECLS \
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGameAnalytics(); \
 	friend struct Z_Construct_UClass_UGameAnalytics_Statics; \
@@ -91,7 +91,7 @@ public: \
 	DECLARE_SERIALIZER(UGameAnalytics)
 
 
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_INCLASS \
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_INCLASS \
 private: \
 	static void StaticRegisterNativesUGameAnalytics(); \
 	friend struct Z_Construct_UClass_UGameAnalytics_Statics; \
@@ -100,7 +100,7 @@ public: \
 	DECLARE_SERIALIZER(UGameAnalytics)
 
 
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_STANDARD_CONSTRUCTORS \
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGameAnalytics(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameAnalytics) \
@@ -113,7 +113,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_ENHANCED_CONSTRUCTORS \
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGameAnalytics(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -126,28 +126,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGameAnalytics); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameAnalytics)
 
 
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_PRIVATE_PROPERTY_OFFSET
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_83_PROLOG
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_GENERATED_BODY_LEGACY \
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_PRIVATE_PROPERTY_OFFSET
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_83_PROLOG
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_SPARSE_DATA \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_RPC_WRAPPERS \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_INCLASS \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_STANDARD_CONSTRUCTORS \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_PRIVATE_PROPERTY_OFFSET \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_SPARSE_DATA \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_RPC_WRAPPERS \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_INCLASS \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_GENERATED_BODY \
+#define beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_SPARSE_DATA \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_ENHANCED_CONSTRUCTORS \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_PRIVATE_PROPERTY_OFFSET \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_SPARSE_DATA \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_RPC_WRAPPERS_NO_PURE_DECLS \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_INCLASS_NO_PURE_DECLS \
+	beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h_86_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class GameAnalytics."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -155,7 +155,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> GAMEANALYTICS_API UClass* StaticClass<class UGameAnalytics>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h
+#define CURRENT_FILE_ID beatRush_WIN_Plugins_GameAnalytics_Source_GameAnalytics_Public_GameAnalytics_h
 
 
 #define FOREACH_ENUM_EGAADERROR(op) \
