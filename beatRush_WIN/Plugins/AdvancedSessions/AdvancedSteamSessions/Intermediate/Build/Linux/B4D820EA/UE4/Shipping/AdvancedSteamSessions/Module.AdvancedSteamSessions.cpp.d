@@ -1702,6 +1702,14 @@ D:/Unreal\ Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteam
   D:\Unreal\ Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamWorkshopLibrary.cpp \
   D:\Unreal\ Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h \
   D:\Unreal\ Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Linux\B4D820EA\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h \
+  D:\Unreal\ Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\lostFocusAgent.cpp \
+  D:\Unreal\ Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\lostFocusAgent.h \
+  D:\Unreal\ Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Linux\B4D820EA\UE4\Inc\AdvancedSteamSessions\lostFocusAgent.generated.h \
+  Runtime\Engine\Classes\Engine\GameViewportClient.h \
+  Runtime\Engine\Classes\Engine\World.h \
+  Runtime\Engine\Classes\GameFramework\Actor.h \
+  Runtime\Engine\Classes\Engine\World.h \
+  Runtime\Engine\Public\UnrealClient.h \
   D:\Unreal\ Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamRequestGroupOfficersCallbackProxy.cpp \
   D:\Unreal\ Projects\beatRush\beatRush_WIN\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h \
   ..\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h \
