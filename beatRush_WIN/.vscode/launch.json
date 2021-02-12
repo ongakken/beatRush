@@ -1,0 +1,104 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "beatRush (Debug)",
+			"request": "launch",
+			"preLaunchTask": "beatRush Linux Debug Build",
+			"program": "/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Binaries/Linux/beatRush-Linux-Debug",
+			"args": [
+			],
+			"cwd": "/media/hdd/UE4.25-Linux",
+			"type": "lldb"
+		},
+		{
+			"name": "beatRush (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "beatRush Linux DebugGame Build",
+			"program": "/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Binaries/Linux/beatRush-Linux-DebugGame",
+			"args": [
+			],
+			"cwd": "/media/hdd/UE4.25-Linux",
+			"type": "lldb"
+		},
+		{
+			"name": "beatRush (Development)",
+			"request": "launch",
+			"preLaunchTask": "beatRush Linux Development Build",
+			"program": "/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Binaries/Linux/beatRush",
+			"args": [
+			],
+			"cwd": "/media/hdd/UE4.25-Linux",
+			"type": "lldb"
+		},
+		{
+			"name": "beatRush (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "beatRush Linux Shipping Build",
+			"program": "/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Binaries/Linux/beatRush-Linux-Shipping",
+			"args": [
+			],
+			"cwd": "/media/hdd/UE4.25-Linux",
+			"type": "lldb"
+		},
+		{
+			"name": "beatRush (Test)",
+			"request": "launch",
+			"preLaunchTask": "beatRush Linux Test Build",
+			"program": "/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Binaries/Linux/beatRush-Linux-Test",
+			"args": [
+			],
+			"cwd": "/media/hdd/UE4.25-Linux",
+			"type": "lldb"
+		},
+		{
+			"name": "beatRushEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "beatRushEditor Linux Debug Build",
+			"program": "/media/hdd/UE4.25-Linux/Engine/Binaries/Linux/UE4Editor-Linux-Debug",
+			"args": [
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject"
+			],
+			"cwd": "/media/hdd/UE4.25-Linux",
+			"type": "lldb"
+		},
+		{
+			"name": "beatRushEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "beatRushEditor Linux DebugGame Build",
+			"program": "/media/hdd/UE4.25-Linux/Engine/Binaries/Linux/UE4Editor-Linux-DebugGame",
+			"args": [
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject"
+			],
+			"cwd": "/media/hdd/UE4.25-Linux",
+			"type": "lldb"
+		},
+		{
+			"name": "beatRushEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "beatRushEditor Linux Development Build",
+			"program": "/media/hdd/UE4.25-Linux/Engine/Binaries/Linux/UE4Editor",
+			"args": [
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject"
+			],
+			"cwd": "/media/hdd/UE4.25-Linux",
+			"type": "lldb"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "mono",
+			"request": "launch",
+			"program": "/media/hdd/UE4.25-Linux/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+			"console": "internalConsole",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "/media/hdd/UE4.25-Linux"
+		}
+	]
+}

@@ -3,7 +3,7 @@ D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/GameAnalytics/Intermediate/Buil
 D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\GameAnalytics\Source\GameAnalytics/Public/GameAnalytics.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\string
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cctype
-D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\GameAnalytics\Intermediate\Build\Win64\UE4\Inc\GameAnalytics\GameAnalytics.generated.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+d:\unreal projects\beatrush\beatrush_win\plugins\gameanalytics\intermediate\build\win64\ue4\inc\gameanalytics\GameAnalytics.generated.h
 D:/Unreal Projects/beatRush/beatRush_WIN/Plugins/GameAnalytics/Intermediate/Build/Win64/UE4/Inc/GameAnalytics/GameAnalytics.init.gen.cpp

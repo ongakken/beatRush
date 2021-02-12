@@ -149,19 +149,19 @@
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/GameAnalytics/Binaries/Win64/UE4Editor-GameAnalytics.dll",
+			"Path": "$(ProjectDir)/Plugins/GameAnalytics/Binaries/Win64/UE4Editor-GameAnalytics.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/GameAnalytics/Binaries/Win64/UE4Editor-GameAnalytics.pdb",
+			"Path": "$(ProjectDir)/Plugins/GameAnalytics/Binaries/Win64/UE4Editor-GameAnalytics.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/GameAnalytics/Binaries/Win64/UE4Editor-GameAnalyticsEditor.dll",
+			"Path": "$(ProjectDir)/Plugins/GameAnalytics/Binaries/Win64/UE4Editor-GameAnalyticsEditor.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/GameAnalytics/Binaries/Win64/UE4Editor-GameAnalyticsEditor.pdb",
+			"Path": "$(ProjectDir)/Plugins/GameAnalytics/Binaries/Win64/UE4Editor-GameAnalyticsEditor.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -195,14 +195,6 @@
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-MeshSolverUtilities.dll",
 			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/discordrpc/Binaries/Win64/UE4Editor-DiscordRpc.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/discordrpc/Binaries/Win64/UE4Editor-DiscordRpc.pdb",
-			"Type": "SymbolFile"
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll",
@@ -710,10 +702,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-VulkanShaderFormat.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-TextureFormatAndroid.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -1741,34 +1729,6 @@
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxNoEditorTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxAArch64NoEditorTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxClientTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxAArch64ClientTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxServerTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor-LinuxAArch64ServerTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-Engine.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -1945,7 +1905,7 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/GameAnalytics/Binaries/Win64/UE4Editor.modules",
+			"Path": "$(ProjectDir)/Plugins/GameAnalytics/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -1962,10 +1922,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/discordrpc/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -2115,10 +2071,6 @@
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/Lumin/UE4Editor.modules",
 			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Linux/UE4Editor.modules",
-			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -2187,7 +2139,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/GameAnalytics/GameAnalytics.uplugin",
+			"Path": "$(ProjectDir)/Plugins/GameAnalytics/GameAnalytics.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -2204,10 +2156,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/GeometryProcessing.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/discordrpc/DiscordRpc.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -2425,10 +2373,6 @@
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.pdb",
 			"Type": "DebugNonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/discordrpc/Source/ThirdParty/DiscordRpcLibrary/Win64/discord-rpc.dll",
-			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",

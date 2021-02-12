@@ -1,0 +1,15 @@
+{
+	"files.exclude": {
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/.kdev4": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/.vs": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/.vscode": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Content": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/DerivedDataCache": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Intermediate": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Saved": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/out": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSessions/Intermediate": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate": true,
+		"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/Plugins/GameAnalytics/Intermediate": true
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GameAnalyticsEditor.cpp.obj": [
+			"GameAnalyticsEditor.cpp.obj",
+			"GameAnalyticsProjectSettings.cpp.obj",
+			"GameAnalyticsTargetSettingsCustomization.cpp.obj"
+		],
+		"Module.GameAnalyticsEditor.gen.cpp.obj": [
+			"GameAnalyticsEditor.init.gen.cpp.obj",
+			"GameAnalyticsProjectSettings.gen.cpp.obj"
+		]
+	}
+}

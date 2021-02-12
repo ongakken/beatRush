@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameAnalyticsEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\beatRush\beatRush_WIN\Intermediate\Build\Win64\beatRushEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalyticsEditor\Module.GameAnalyticsEditor.cpp.obj"
+"D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalyticsEditor\Module.GameAnalyticsEditor.gen.cpp.obj"
+"D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalyticsEditor\Default.rc2.res"
+/OUT:"D:\Unreal Projects\beatRush\beatRush_WIN\Plugins\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalyticsEditor\UE4Editor-GameAnalyticsEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_GameAnalyticsEditor

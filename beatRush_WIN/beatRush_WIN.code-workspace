@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "beatRush_WIN",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "/media/hdd/UE4.25-Linux"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
+		]
+	}
+}
