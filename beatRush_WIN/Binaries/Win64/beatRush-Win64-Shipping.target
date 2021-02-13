@@ -115,6 +115,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamController/SteamController.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin",
 			"Type": "UFS"
 		},
@@ -168,6 +172,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/SoundFields/SoundFields.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -1456,6 +1468,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll",
 			"Type": "NonUFS"
 		},
 		{

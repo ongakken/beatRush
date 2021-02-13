@@ -75,10 +75,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false
-		},
-		{
 			"Name": "VariantManagerContent",
 			"Enabled": false
 		},
@@ -369,6 +365,10 @@
 		},
 		{
 			"Name": "Text3D",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamController",
 			"Enabled": true
 		}
 	],
