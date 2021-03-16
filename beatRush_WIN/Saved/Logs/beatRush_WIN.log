@@ -2918,3 +2918,784 @@ Character Config
 [2021.03.16-13.25.13:450][811]UATHelper: Packaging (Linux): ********** ARCHIVE COMMAND COMPLETED **********
 [2021.03.16-13.25.13:476][812]UATHelper: Packaging (Linux): BUILD SUCCESSFUL
 [2021.03.16-13.25.13:476][812]UATHelper: Packaging (Linux): AutomationTool exiting with ExitCode=0 (Success)
+[2021.03.16-13.28.16:917][717]AssetReimport: New page: Outstanding source content changes 3:28:16 PM
+[2021.03.16-13.28.17:021][717]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/nowhereNearTheFinishLine.wav)
+[2021.03.16-13.28.20:379][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/audio/OST/nowhereNearTheFinishLine" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/nowhereNearTheFinishLine.uasset" SILENT=true
+[2021.03.16-13.28.20:610][718]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/nowhereNearTheFinishLine813DFB6B4B519072D9973FAD0A172E53.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/audio/OST/nowhereNearTheFinishLine.uasset'
+[2021.03.16-13.28.20:649][719]AssetCheck: New page: Asset Save: nowhereNearTheFinishLine
+[2021.03.16-13.28.20:649][719]LogContentValidation: Display: Validating SoundWave /Game/audio/OST/nowhereNearTheFinishLine.nowhereNearTheFinishLine
+[2021.03.16-13.28.23:629][885]AssetReimport: Importing new asset /Game/audio/OST/nowhereNearTheFinishLine.
+[2021.03.16-13.31.39:340][761]BlueprintLog: New page: Compile playerCharacter_BP
+[2021.03.16-13.31.39:816][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.03.16-13.31.40:139][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2021.03.16-13.31.40:724][761]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP64E5177B4627FD4E4465FF813F9A0435.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2021.03.16-13.31.40:765][761]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2021.03.16-13.31.40:765][761]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2021.03.16-13.31.41:893][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/playerCharacter_BP" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset" SILENT=true
+[2021.03.16-13.31.42:441][772]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/playerCharacter_BP9201DDCE42B361227D60E496B8A5CCDB.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/playerCharacter_BP.uasset'
+[2021.03.16-13.31.42:454][772]AssetCheck: New page: Asset Save: playerCharacter_BP
+[2021.03.16-13.31.42:454][772]LogContentValidation: Display: Validating Blueprint /Game/BP/playerCharacter_BP.playerCharacter_BP
+[2021.03.16-13.31.42:658][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.03.16-13.31.42:676][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.31.42:700][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.16-13.31.42:855][778]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay71FC5399426DB13B62062797729D6B92.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.31.42:894][778]LogFileHelpers: Saving map 'gameplay' took 0.218
+[2021.03.16-13.31.42:894][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.31.43:186][778]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData5C385D8D49DE10E233725A896116CE69.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.31.43:202][778]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.31.43:202][778]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.31.43:202][778]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.31.45:903][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.03.16-13.31.47:786][986]LogEditorViewport: Clicking on Actor (LMB): BP_MainMenuCamera_C (BP_MainMenuCamera)
+[2021.03.16-13.32.49:389][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.03.16-13.32.49:410][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.32.49:435][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.16-13.32.49:574][ 27]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay64FF907D458BF6A6775E31BAF084EA16.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.32.49:608][ 27]LogFileHelpers: Saving map 'gameplay' took 0.198
+[2021.03.16-13.32.49:608][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.32.49:890][ 27]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData8A8481714F5E69EA9950119E3952C99A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.32.49:907][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.32.49:907][ 27]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.32.49:907][ 27]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.32.56:197][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.03.16-13.33.08:410][127]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.33.21:789][859]BlueprintLog: New page: Compile shop
+[2021.03.16-13.33.21:874][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.03.16-13.33.22:012][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.33.22:169][859]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shopA472688C4D77A7CD09DAF38ED08C2762.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.33.22:183][859]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.33.22:183][859]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.33.22:512][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.33.22:640][872]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop1FCA3C76451E85D8E637909A3BCE7F63.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.33.22:655][872]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.33.22:655][872]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.33.22:960][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.03.16-13.33.23:528][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.16-13.34.26:349][437]BlueprintLog: New page: Compile WBP_MainMenu
+[2021.03.16-13.34.26:634][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.03.16-13.34.26:729][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.34.26:767][437]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenuB762885F4C5C983FC43B6C81503DBDED.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.34.26:780][437]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.34.26:780][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.34.27:178][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.34.27:216][456]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenu2C0AC0084C25587B58BCAFA22531565F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.34.27:229][456]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.34.27:229][456]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.34.28:111][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.03.16-13.34.28:127][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.34.28:153][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.16-13.34.28:291][500]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayB05C363E45BA79E9506FF889B2F89274.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.34.28:325][500]LogFileHelpers: Saving map 'gameplay' took 0.198
+[2021.03.16-13.34.28:325][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.34.28:603][500]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData0F1F3CE249D95F96E71FC092D4CFC3D7.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.34.28:619][500]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.34.28:619][500]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.34.28:619][500]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.35.19:415][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.35.19:539][919]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop1D5018BD44285E5E906EC588447601B3.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.35.19:556][919]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.35.19:557][919]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.40.16:312][998]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.03.16-13.40.27:069][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.03.16-13.40.27:084][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.40.27:236][862]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop499208134AF049BF689D37943779DED8.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.40.27:251][862]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.40.27:251][862]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.40.51:108][335]BlueprintLog: New page: Compile shop
+[2021.03.16-13.40.51:206][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.03.16-13.40.51:300][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.40.51:421][335]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop5DA3139E4C4D9414E22026BF36B4903F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.40.51:434][335]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.40.51:434][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.40.51:768][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.40.51:890][348]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shopAD70D7E449428FCA118DDF9B8BA0ADA5.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.40.51:904][348]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.40.51:904][348]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.40.52:475][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.03.16-13.40.54:501][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.16-13.40.54:518][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.40.54:634][478]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shopAC04794348724251E8DE81ACF3A5588A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.40.54:648][478]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.40.54:648][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.41.09:877][346]BlueprintLog: New page: Compile shop
+[2021.03.16-13.41.09:973][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.03.16-13.41.10:086][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.41.10:231][346]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shopAEA10ADD4E0BFE93EDACB8A289ABF093.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.41.10:245][346]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.41.10:245][346]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.41.10:535][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.41.10:664][354]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop464DFC8F45B04043A95C9DAF44E224E3.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.41.10:676][354]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.41.10:676][354]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.41.40:692][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.03.16-13.41.41:550][957]LogTemp: Repeating last play command: Standalone Game
+[2021.03.16-13.41.41:601][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.03.16-13.42.50:780][293]LogTemp: Repeating last play command: Standalone Game
+[2021.03.16-13.42.50:836][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.03.16-13.43.10:330][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.16-13.43.18:558][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.43.18:609][505]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenu2D79949E495D8E0DE1A51A84BA06C3C1.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.43.18:627][505]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.43.18:627][505]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.44.18:009][279]BlueprintLog: New page: Compile WBP_MainMenu
+[2021.03.16-13.44.18:326][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.03.16-13.44.18:408][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.44.18:450][279]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenuBE4D9797416F94725BB058986A038E78.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.44.18:464][279]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.44.18:464][279]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.44.18:891][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.44.18:925][297]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenuF908A57545372B113D08A29B0206A7B8.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.44.18:937][297]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.44.18:937][297]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.44.19:328][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.03.16-13.44.19:340][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.44.19:366][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.16-13.44.19:503][315]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay4F459014430E9FC16D4843A150BA98DE.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.44.19:539][315]LogFileHelpers: Saving map 'gameplay' took 0.199
+[2021.03.16-13.44.19:539][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.44.19:837][315]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData8C309E0F42E5C2AD24BF04803C3D46D9.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.44.19:852][315]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.44.19:852][315]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.44.19:853][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.44.57:434][486]BlueprintLog: New page: Compile shop
+[2021.03.16-13.44.57:530][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.03.16-13.44.57:643][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.44.57:772][486]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop0051D0824BF863EBDFE3C6855CBD977C.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.44.57:786][486]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.44.57:786][486]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.44.58:260][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.44.58:379][510]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop25A55BCC49B23B6E4F691ABEC3C07F29.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.44.58:392][510]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.44.58:392][510]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.45.19:109][628]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/pause_menu.pause_menu
+[2021.03.16-13.45.28:369][ 86]BlueprintLog: New page: Compile shop
+[2021.03.16-13.45.28:459][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.03.16-13.45.28:559][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.45.28:678][ 86]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop6D21171F4DDAD604143F028AA42ED470.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.45.28:691][ 86]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.45.28:691][ 86]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.45.29:144][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.45.29:273][103]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop6EEC649649258CA423F7C1899B1DCB74.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.45.29:289][103]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.45.29:289][103]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.45.29:625][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.03.16-13.45.51:245][334]BlueprintLog: New page: Compile shop
+[2021.03.16-13.45.51:334][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.03.16-13.45.51:427][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.45.51:559][334]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop906BA28647F524084749A5BAB0946466.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.45.51:571][334]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.45.51:571][334]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.45.51:760][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.45.51:904][335]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shopF3E914CF4998A8A4A3D451867BF1FA68.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.45.51:918][335]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.45.51:918][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.45.52:526][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.16-13.45.52:656][366]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shop03EC15414A8CEF893056ADB3BE23DAF8.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.16-13.45.52:669][366]AssetCheck: New page: Asset Save: shop
+[2021.03.16-13.45.52:669][366]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.16-13.46.08:348][372]BlueprintLog: New page: Compile WBP_MainMenu
+[2021.03.16-13.46.08:451][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.03.16-13.46.08:543][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.46.08:581][372]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenu3502265F430771886CDF98A30B2ECA69.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.46.08:594][372]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.46.08:594][372]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.46.08:943][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.46.08:978][386]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenuD6A3BDA04472978C370CA6B7CD6E4FD4.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.46.08:991][386]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.46.08:991][386]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.46.09:402][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.03.16-13.46.09:426][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.46.09:459][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.16-13.46.09:630][403]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay89C65BB54FC42492211B0ABE6907E73C.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.46.09:666][403]LogFileHelpers: Saving map 'gameplay' took 0.240
+[2021.03.16-13.46.09:666][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.46.09:943][403]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltDataAC2237AA4392C78E1808249B62073185.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.46.09:960][403]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.46.09:960][403]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.46.09:960][403]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.46.15:157][679]LogEditorViewport: Clicking on Actor (LMB): BP_MainMenuCamera_C (BP_MainMenuCamera)
+[2021.03.16-13.46.52:707][957]LogEditorViewport: Clicking Background
+[2021.03.16-13.47.28:326][629]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.03.16-13.47.28:331][629]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.03.16-13.47.30:068][728]LogRenderer: Reallocating scene render targets to support 1360x708 Format 10 NumSamples 1 (Frame:148818).
+[2021.03.16-13.47.30:192][729]LogRenderer: Reallocating scene render targets to support 1364x708 Format 10 NumSamples 1 (Frame:148820).
+[2021.03.16-13.47.30:419][731]LogRenderer: Reallocating scene render targets to support 1368x708 Format 10 NumSamples 1 (Frame:148824).
+[2021.03.16-13.47.34:523][908]LogRenderer: Reallocating scene render targets to support 1372x708 Format 10 NumSamples 1 (Frame:148894).
+[2021.03.16-13.47.34:628][909]LogRenderer: Reallocating scene render targets to support 1376x708 Format 10 NumSamples 1 (Frame:148896).
+[2021.03.16-13.47.34:734][910]LogRenderer: Reallocating scene render targets to support 1380x708 Format 10 NumSamples 1 (Frame:148898).
+[2021.03.16-13.47.34:952][912]LogRenderer: Reallocating scene render targets to support 1384x708 Format 10 NumSamples 1 (Frame:148902).
+[2021.03.16-13.47.44:473][581]Cmd: MODE GRID=0
+[2021.03.16-13.47.45:608][662]Cmd: MODE ROTGRID=0
+[2021.03.16-13.47.46:123][704]Cmd: MODE ROTGRID=1
+[2021.03.16-13.47.46:570][736]Cmd: MODE ROTGRID=0
+[2021.03.16-13.47.47:539][804]Cmd: MODE GRID=1
+[2021.03.16-13.47.49:078][915]Cmd: MODE GRID=0
+[2021.03.16-13.47.49:962][980]Cmd: MODE GRID=1
+[2021.03.16-13.47.51:229][ 72]Cmd: MODE ROTGRID=1
+[2021.03.16-13.47.53:398][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.03.16-13.47.53:429][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.47.53:457][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.16-13.47.53:605][222]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay5AB6194C491D7EB08282F4975B171799.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.47.53:643][222]LogFileHelpers: Saving map 'gameplay' took 0.214
+[2021.03.16-13.47.53:643][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.47.53:945][222]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData2141392F43CED7DC61B2D6B8F12D956F.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.47.53:965][222]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.47.53:965][222]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.47.53:965][222]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.48.23:039][342]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.16-13.48.23:044][342]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.16-13.48.23:700][377]LogEditorViewport: Clicking on Actor (context menu): worldBounds_C (worldBounds3)
+[2021.03.16-13.48.23:805][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.03.16-13.48.23:809][377]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.16-13.48.23:810][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.48.23:839][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.03.16-13.48.23:985][377]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay5BBB238C48BB3134024CB4BC0D49E8A5.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.48.24:019][377]LogFileHelpers: Saving map 'gameplay' took 0.210
+[2021.03.16-13.48.24:019][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.48.24:307][377]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltDataBE6186564726938941CE46932E64C0A4.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.48.24:318][377]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.48.24:318][377]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.48.24:318][377]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.48.26:095][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.03.16-13.48.26:858][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.03.16-13.48.26:879][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.48.26:907][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.16-13.48.27:053][607]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay2F8DF7B649CE66FCEAED56B74DAC1ED8.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.48.27:092][607]LogFileHelpers: Saving map 'gameplay' took 0.214
+[2021.03.16-13.48.27:092][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.48.27:374][607]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData05523E8C45C5DE72902222A318C9C97D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.48.27:394][607]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.48.27:394][607]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.48.27:394][607]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.48.39:198][237]BlueprintLog: New page: Compile WBP_MainMenu
+[2021.03.16-13.48.39:295][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.03.16-13.48.39:413][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.48.39:467][237]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenuCD5E30794DF75FE235C309BC600D7F47.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.48.39:480][237]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.48.39:480][237]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.48.39:828][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.16-13.48.39:864][251]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenuC20B53C14C0A8C3CBA3E2AB56549EA2A.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.16-13.48.39:875][251]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.16-13.48.39:875][251]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.16-13.48.40:290][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.03.16-13.48.40:312][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.48.40:344][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.16-13.48.40:508][269]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayB6C0E82742BED36DCAEFCDA5481A1505.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.48.40:550][269]LogFileHelpers: Saving map 'gameplay' took 0.238
+[2021.03.16-13.48.40:550][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.48.40:865][269]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData30DFBAF843AF4F74B2620881744F6E2D.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.48.40:881][269]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.48.40:881][269]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.48.40:881][269]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.16-13.48.44:558][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.03.16-13.48.45:760][558]LogMainFrame: Selected target: beatRush
+[2021.03.16-13.48.45:762][558]LogLauncherProfile: Unable to use promoted target - receipt ../../../../Unreal Projects/beatRush/beatRush_WIN/Binaries/Win64/beatRush-Win64-Shipping.target is not for a promoted target
+[2021.03.16-13.48.45:861][558]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.03.16-13.48.46:126][573]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="D:/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject" -cook -stage -archive -archivedirectory="D:/Unreal Projects/beatRush/beatRush_WIN/out" -package -ue4exe=D:\UE_4.25\Engine\Binaries\Win64\UE4Editor-Cmd.exe -compressed -pak -distribution -nodebuginfo -targetplatform=Win64 -build -target=beatRush -clientconfig=Shipping -utf8output
+[2021.03.16-13.48.46:808][610]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject
+[2021.03.16-13.48.47:246][635]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2021.03.16-13.48.47:281][637]UATHelper: Packaging (Windows (64-bit)): Running: D:\UE_4.25\Engine\Binaries\DotNET\UnrealBuildTool.exe beatRush Win64 Shipping -Project="D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject"  "D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject" -NoUBTMakefiles  -remoteini="D:\Unreal Projects\beatRush\beatRush_WIN" -skipdeploy -distribution -Manifest="D:\Unreal Projects\beatRush\beatRush_WIN\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\SMDex\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_4.25\UBT-beatRush-Win64-Shipping.txt"
+[2021.03.16-13.48.47:935][654]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\beatRush).
+[2021.03.16-13.48.49:304][706]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to D:\Unreal Projects\beatRush\beatRush_WIN\Intermediate\Build\Manifest.xml
+[2021.03.16-13.48.49:449][711]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2021.03.16-13.48.49:473][712]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 2.13 seconds
+[2021.03.16-13.48.49:499][713]UATHelper: Packaging (Windows (64-bit)): Took 2.2302884s to run UnrealBuildTool.exe, ExitCode=0
+[2021.03.16-13.48.49:522][714]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2021.03.16-13.48.49:522][714]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.03.16-13.48.49:549][715]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject
+[2021.03.16-13.48.49:549][715]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\UE_4.25\Engine\Programs\AutomationTool\Saved\Cook-2021.03.16-14.48.49.txt
+[2021.03.16-13.48.49:549][715]UATHelper: Packaging (Windows (64-bit)): Running: D:\UE_4.25\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog=D:\UE_4.25\Engine\Programs\AutomationTool\Saved\Cook-2021.03.16-14.48.49.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.03.16-13.48.49:982][729]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: beatRush_WIN
+[2021.03.16-13.48.52:124][825]UATHelper: Packaging (Windows (64-bit)):   LogSteamShared: Display: Loading Steam SDK 1.47
+[2021.03.16-13.48.52:124][825]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.03.16-13.48.52:124][825]UATHelper: Packaging (Windows (64-bit)):   LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemNULL'  - 0 instances of that module name found.
+[2021.03.16-13.48.52:124][825]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Warning: OSS: TryLoadSubsystemAndSetDefault: LoadSubsystemModule([NULL]) failed
+[2021.03.16-13.48.52:124][825]PackagingResults: Warning: ModuleManager: Unable to load module 'OnlineSubsystemNULL'  - 0 instances of that module name found.
+[2021.03.16-13.48.52:124][825]PackagingResults: Warning: OSS: TryLoadSubsystemAndSetDefault: LoadSubsystemModule([NULL]) failed
+[2021.03.16-13.48.52:152][826]UATHelper: Packaging (Windows (64-bit)):   LogModuleManager: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.16-13.48.52:152][826]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 32 GB [34316877824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.16-13.48.52:152][826]PackagingResults: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.16-13.48.52:557][841]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.16-13.48.52:603][843]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.16-13.48.52:629][844]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.16-13.48.52:629][844]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.16-13.48.52:655][845]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.16-13.48.52:655][845]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.16-13.48.52:684][846]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.16-13.48.52:684][846]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.16-13.48.52:707][847]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.16-13.48.52:731][848]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.16-13.48.52:731][848]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.16-13.48.52:777][850]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.16-13.48.52:777][850]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.16-13.48.52:801][851]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.16-13.48.52:802][851]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.16-13.48.52:825][852]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.16-13.48.52:826][852]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.16-13.48.52:849][853]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.16-13.48.52:850][853]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.16-13.48.52:850][853]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.03.16-13.48.52:873][854]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.16-13.48.53:743][878]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.16-13.48.54:510][906]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.16-13.48.54:510][906]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SMDex/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.16-13.48.54:510][906]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.16-13.48.54:845][918]UATHelper: Packaging (Windows (64-bit)):   LogModuleManager: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.16-13.48.54:845][918]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.16-13.48.54:845][918]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.16-13.48.54:845][918]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to find object 'Class /Script/AIModule.AIController'
+[2021.03.16-13.48.54:845][918]PackagingResults: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.16-13.48.54:845][918]PackagingResults: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.16-13.48.54:845][918]PackagingResults: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.16-13.48.54:845][918]PackagingResults: Warning: Failed to find object 'Class /Script/AIModule.AIController'
+[2021.03.16-13.48.55:572][948]UATHelper: Packaging (Windows (64-bit)):   LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.48.55:572][948]PackagingResults: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.48.55:580][949]UATHelper: Packaging (Windows (64-bit)):   LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_T.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.48.55:580][949]UATHelper: Packaging (Windows (64-bit)):   LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_TM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.48.55:580][949]PackagingResults: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_T.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.48.55:580][949]PackagingResults: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_TM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.48.55:670][952]UATHelper: Packaging (Windows (64-bit)):   LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Constructor
+[2021.03.16-13.48.55:904][960]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.03.16-13.48.56:345][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.16-13.48.56:345][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 0
+[2021.03.16-13.48.56:345][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.03.16-13.48.56:566][988]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en, ja, ja-JP, ru
+[2021.03.16-13.48.56:591][989]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Inisetting is different for Windows Engine /Script/GameAnalyticsEditor.GameAnalyticsProjectSettings WindowsBuild 0, value 0.905 != 0.901 invalidating cook
+[2021.03.16-13.48.56:591][989]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Windows.Engine:/Script/GameAnalyticsEditor.GameAnalyticsProjectSettings
+[2021.03.16-13.48.56:591][989]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.03.16-13.48.56:694][993]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.121 seconds for platforms WindowsNoEditor
+[2021.03.16-13.48.59:357][105]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 200 Total 200
+[2021.03.16-13.48.59:702][117]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 199 Total 249
+[2021.03.16-13.48.59:912][125]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 198 Total 298
+[2021.03.16-13.49.00:344][143]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:344][143]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:344][143]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:344][143]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:344][143]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:344][143]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:359][143]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:359][143]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:359][143]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:359][143]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:359][143]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.00:359][143]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.01:500][197]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.01:500][197]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.01:500][197]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.01:500][197]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.01:500][197]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.01:500][197]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.01:500][197]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.01:500][197]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.02:689][248]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 413 Total 563
+[2021.03.16-13.49.02:981][257]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 200 Packages Remain 414 Total 614
+[2021.03.16-13.49.03:209][261]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 250 Packages Remain 413 Total 663
+[2021.03.16-13.49.03:401][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 300 Packages Remain 413 Total 713
+[2021.03.16-13.49.03:602][268]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_FireParticle_02, compiling.
+[2021.03.16-13.49.03:602][268]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Warning: D:\Unreal Projects\beatRush\beatRush_WIN\Content\VFXSeries1\Materials\Energy\M_FireParticle_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.16-13.49.03:602][268]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/VFXSeries1/Textures/T_FireTile_01.T_FireTile_01
+[2021.03.16-13.49.03:602][268]PackagingResults: Warning: 
+[2021.03.16-13.49.03:602][268]PackagingResults: Warning: D:\Unreal Projects\beatRush\beatRush_WIN\Content\VFXSeries1\Materials\Energy\M_FireParticle_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.16-13.49.03:725][271]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 350 Packages Remain 267 Total 617
+[2021.03.16-13.49.04:133][280]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 400 Packages Remain 267 Total 667
+[2021.03.16-13.49.04:566][298]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 447 Packages Remain 266 Total 713
+[2021.03.16-13.49.04:566][298]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 452 Packages Remain 265 Total 717
+[2021.03.16-13.49.04:566][298]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 457 Packages Remain 264 Total 721
+[2021.03.16-13.49.04:586][299]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 458 Packages Remain 263 Total 721
+[2021.03.16-13.49.04:586][299]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 458 Packages Remain 251 Total 709
+[2021.03.16-13.49.04:587][299]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 458 Packages Remain 240 Total 698
+[2021.03.16-13.49.04:880][311]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 482 Packages Remain 23 Total 505
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:995][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:996][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:997][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:998][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:998][314]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.04:998][314]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:047][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:047][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:047][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:048][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:049][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:050][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:051][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:052][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:053][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:059][315]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.05:123][316]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 504 Packages Remain 0 Total 504
+[2021.03.16-13.49.05:124][316]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.03.16-13.49.09:209][486]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2021.03.16-13.49.09:209][486]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2021.03.16-13.49.09:209][486]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.03.16-13.49.09:209][486]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.03.16-13.49.09:209][486]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.03.16-13.49.09:269][488]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.03.16-13.49.09:269][488]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2021.03.16-13.49.09:269][488]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.03.16-13.49.09:269][488]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 4353, Total Shaders: 22685
+[2021.03.16-13.49.09:269][488]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 9.06mb, Total Shader Size: 9.06mb
+[2021.03.16-13.49.09:269][488]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.03.16-13.49.09:358][492]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 501, size is 235.39kb
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 5.719209s total time 13.059404
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 1677MB Peak Used physical 1457MB
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 3.000s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandbox: 0.121s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.006s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.517s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.001s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 5.715s (32)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 2.318s (31)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.012s (32)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (32)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 3.384s (14)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.001s (531)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.486s (527)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 2.858s (504)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.001s (504)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 2.844s (504)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.005s (504)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (501)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.014s (504)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (9)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.008s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.066s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.006s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.060s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.016s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.006s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.031s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.007s (1)
+[2021.03.16-13.49.09:403][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.03.16-13.49.09:431][495]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.023778s to verify the EDL loading graph.
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000073
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=142
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=2.814390
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=504
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=2.787278
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.537739
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.331272
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000265
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.002919
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.007027
+[2021.03.16-13.49.09:794][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000956
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.522388
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.668576
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.061202
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=740.678286
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.03.16-13.49.09:795][513]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=19.998875
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=6.541050
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=13.100708
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.999560
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000011
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=10.051153
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=2.318303
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=2.858558
+[2021.03.16-13.49.09:825][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.497931
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.018653
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000078
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000017
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000177
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000005
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      1355
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      1356
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.999263
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.833333
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.165929
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000737
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.41                   0.41             0         10.64
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.29                   0.00             0         89.69
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.14                   0.14             0         60.42
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.03                   0.03             0         75.74
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.02                   0.02             0          2.44
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.02                   0.02             0          6.31
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.13
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.00                   0.00             0          0.16
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0        512.52
+[2021.03.16-13.49.09:826][514]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemNULL'  - 0 instances of that module name found.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogOnline: Warning: OSS: TryLoadSubsystemAndSetDefault: LoadSubsystemModule([NULL]) failed
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogModuleManager: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to find object 'Class /Script/AIModule.AIController'
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_T.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_TM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogMaterial: Warning: D:\Unreal Projects\beatRush\beatRush_WIN\Content\VFXSeries1\Materials\Energy\M_FireParticle_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 91 warning(s)
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   
+[2021.03.16-13.49.09:827][514]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  13.48 seconds
+[2021.03.16-13.49.09:951][519]UATHelper: Packaging (Windows (64-bit)):   LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Destructor
+[2021.03.16-13.49.09:952][519]UATHelper: Packaging (Windows (64-bit)):   LogGameAnalyticsAnalytics: Display: UGameAnalytics::onQuit()
+[2021.03.16-13.49.09:952][519]UATHelper: Packaging (Windows (64-bit)):   LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics ~FAnalyticsProviderGameAnalytics
+[2021.03.16-13.49.12:564][639]UATHelper: Packaging (Windows (64-bit)): Took 23.0174072s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.03.16-13.49.12:564][639]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.03.16-13.49.12:564][639]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.03.16-13.49.12:645][643]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseEditor.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseEditorKeyBindings.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseEditorSettings.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseLightmass.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BasePakFileRules.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\ConsoleVariables.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\Category.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\Editor.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\EditorTutorials.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\Engine.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\Keywords.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\PortableObjectExport.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\PortableObjectImport.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\PropertyNames.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\RepairData.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\ToolTips.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\WordCount.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\DefaultEditor.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\DefaultEditorPerProjectUserSettings.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_Compile.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_Export.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_ExportDialogueScript.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_Gather.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_GenerateReports.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_Import.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_ImportDialogue.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_ImportDialogueScript.ini
+[2021.03.16-13.49.13:214][670]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\RegenerateBeat Rush.ini
+[2021.03.16-13.49.13:422][680]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: D:\Unreal Projects\beatRush\beatRush_WIN\Saved\StagedBuilds\WindowsNoEditor
+[2021.03.16-13.49.13:539][687]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.03.16-13.49.13:919][707]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.03.16-13.49.23:939][155]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)): Output from: "D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject" "D:\Unreal Projects\beatRush\beatRush_WIN\Saved\StagedBuilds\WindowsNoEditor\beatRush_WIN\Content\Paks\beatRush_WIN-WindowsNoEditor.pak" -create="C:\Users\SMDex\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_4.25\PakList_beatRush_WIN-WindowsNoEditor.txt" -cryptokeys="D:\Unreal Projects\beatRush\beatRush_WIN\Saved\Cooked\WindowsNoEditor\beatRush_WIN\Metadata\Crypto.json" -order="D:\Unreal Projects\beatRush\beatRush_WIN\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -platform=Windows -compressionformats=  -multiprocess -abslog="C:\Users\SMDex\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_4.25\UnrealPak-beatRush_WIN-WindowsNoEditor-2021.03.16-14.49.13.txt"
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\SMDex\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_4.25\PakList_beatRush_WIN-WindowsNoEditor.txt
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 4912 entries to add to pak file.
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file D:\Unreal Projects\beatRush\beatRush_WIN\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file D:\Unreal Projects\beatRush\beatRush_WIN\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 4912 files in 0.03s.
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak D:\Unreal Projects\beatRush\beatRush_WIN\Saved\StagedBuilds\WindowsNoEditor\beatRush_WIN\Content\Paks\beatRush_WIN-WindowsNoEditor.pak.
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: DISABLING pak file index freezing (all must be true: HasPlatformInfo? true - TargetIs64Bit? true - NoRuntimeUnloading? true - Unencrypted? true, 'Windows' != 'Windows')
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 4912 files, 270103536 bytes total, time 10.07s.
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 24.29% of original size. Compressed Size 177167863 bytes, Original Size 729315175 bytes.
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Used compression formats (in priority order) 'Zlib, '
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.03.16-13.49.26:501][304]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 10.245247 seconds
+[2021.03.16-13.49.26:502][304]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.03.16-13.49.26:521][305]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: D:\Unreal Projects\beatRush\beatRush_WIN\Saved\StagedBuilds\WindowsNoEditor
+[2021.03.16-13.49.26:906][327]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.03.16-13.49.26:906][327]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.03.16-13.49.26:906][327]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.03.16-13.49.26:906][327]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.03.16-13.49.26:906][327]UATHelper: Packaging (Windows (64-bit)): Archiving to D:/Unreal Projects/beatRush/beatRush_WIN/out
+[2021.03.16-13.49.27:149][342]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.03.16-13.49.27:149][342]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.03.16-13.49.27:164][343]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.03.16-13.49.30:287][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.16-13.49.32:304][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.03.16-13.49.32:658][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.16-13.49.32:680][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-13.49.32:759][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.16-13.49.32:906][755]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay1EADDAA343A7A87BD48975AD2A5F01AE.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.16-13.49.32:944][755]LogFileHelpers: Saving map 'gameplay' took 0.264
+[2021.03.16-13.49.32:944][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.16-13.49.33:222][755]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData7F0744084CD84E06FD7EC9ABF3156497.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.16-13.49.33:238][755]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-13.49.33:238][755]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.16-13.49.33:238][755]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
