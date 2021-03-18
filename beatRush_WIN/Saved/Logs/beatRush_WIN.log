@@ -2569,3 +2569,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.18-22.42.51:658][489]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
 [2021.03.18-22.42.51:659][489]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
 [2021.03.18-22.42.51:659][489]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.03.18-22.47.56:010][492]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.18-22.47.56:014][492]LogSlate: Window 'Project Settings' being destroyed
