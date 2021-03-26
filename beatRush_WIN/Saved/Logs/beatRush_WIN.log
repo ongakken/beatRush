@@ -1846,3 +1846,889 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.26-22.19.31:508][235]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
 [2021.03.26-22.19.31:508][235]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
 [2021.03.26-22.19.34:435][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.26-22.25.53:945][359]BlueprintLog: New page: Compile shop
+[2021.03.26-22.25.54:045][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.03.26-22.25.54:168][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.26-22.25.54:292][359]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shopA4D70FE04A3A404443A57AA71F5BD170.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.26-22.25.54:303][359]AssetCheck: New page: Asset Save: shop
+[2021.03.26-22.25.54:303][359]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.26-22.25.54:768][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/shop" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset" SILENT=true
+[2021.03.26-22.25.54:904][384]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/shopBEE77E8E467C52804FA76F8E3F7B1F79.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/UI/shop.uasset'
+[2021.03.26-22.25.54:917][384]AssetCheck: New page: Asset Save: shop
+[2021.03.26-22.25.54:918][384]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/shop.shop
+[2021.03.26-22.25.55:792][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.03.26-22.26.00:873][702]BlueprintLog: New page: Compile WBP_MainMenu
+[2021.03.26-22.26.00:982][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.03.26-22.26.01:101][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.26-22.26.01:185][702]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenu04CEDCDE4709D53ED197A4BDE948D9E6.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.26-22.26.01:198][702]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.26-22.26.01:198][702]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.26-22.26.01:567][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimpleMenuSystem/Widgets/WBP_MainMenu" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2021.03.26-22.26.01:630][716]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/WBP_MainMenu240F3F5F475D24558562DAA6AA8107E1.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/SimpleMenuSystem/Widgets/WBP_MainMenu.uasset'
+[2021.03.26-22.26.01:642][716]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.03.26-22.26.01:642][716]LogContentValidation: Display: Validating WidgetBlueprint /Game/SimpleMenuSystem/Widgets/WBP_MainMenu.WBP_MainMenu
+[2021.03.26-22.26.01:856][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.03.26-22.26.01:885][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.26-22.26.01:918][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.26-22.26.02:077][724]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplayAE96282C42E29988970300BB356C6941.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay.umap'
+[2021.03.26-22.26.02:128][724]LogFileHelpers: Saving map 'gameplay' took 0.245
+[2021.03.26-22.26.02:128][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/gameplay_BuiltData" FILE="../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset" SILENT=true
+[2021.03.26-22.26.02:454][724]LogSavePackage: Moving '../../../../Unreal Projects/beatRush/beatRush_WIN/Saved/gameplay_BuiltData53CEBE5B4B89A36DFEBBCF9B7AD834C5.tmp' to '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/Levels/gameplay_BuiltData.uasset'
+[2021.03.26-22.26.02:470][724]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.26-22.26.02:470][724]LogContentValidation: Display: Validating World /Game/Levels/gameplay.gameplay
+[2021.03.26-22.26.02:470][724]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/gameplay_BuiltData.gameplay_BuiltData
+[2021.03.26-22.26.14:325][311]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.26-22.26.14:330][311]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.26-22.26.14:668][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.03.26-22.26.18:370][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.03.26-22.26.19:689][615]LogMainFrame: Selected target: beatRush
+[2021.03.26-22.26.19:691][615]LogLauncherProfile: Unable to use promoted target - receipt ../../../../Unreal Projects/beatRush/beatRush_WIN/Binaries/Win64/beatRush-Win64-Shipping.target is not for a promoted target
+[2021.03.26-22.26.19:767][617]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.03.26-22.26.20:150][638]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="D:/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject" -cook -stage -archive -archivedirectory="D:/Unreal Projects/beatRush/beatRush_WIN/out" -package -ue4exe=D:\UE_4.25\Engine\Binaries\Win64\UE4Editor-Cmd.exe -compressed -pak -distribution -nodebuginfo -targetplatform=Win64 -build -target=beatRush -clientconfig=Shipping -utf8output
+[2021.03.26-22.26.20:848][676]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject
+[2021.03.26-22.26.21:257][702]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2021.03.26-22.26.21:273][703]UATHelper: Packaging (Windows (64-bit)): Running: D:\UE_4.25\Engine\Binaries\DotNET\UnrealBuildTool.exe beatRush Win64 Shipping -Project="D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject"  "D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject" -NoUBTMakefiles  -remoteini="D:\Unreal Projects\beatRush\beatRush_WIN" -skipdeploy -distribution -Manifest="D:\Unreal Projects\beatRush\beatRush_WIN\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\SMDex\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_4.25\UBT-beatRush-Win64-Shipping.txt"
+[2021.03.26-22.26.22:007][734]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\beatRush).
+[2021.03.26-22.26.23:330][810]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to D:\Unreal Projects\beatRush\beatRush_WIN\Intermediate\Build\Manifest.xml
+[2021.03.26-22.26.23:423][813]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2021.03.26-22.26.23:451][814]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 2.08 seconds
+[2021.03.26-22.26.23:505][816]UATHelper: Packaging (Windows (64-bit)): Took 2.2128615s to run UnrealBuildTool.exe, ExitCode=0
+[2021.03.26-22.26.23:505][816]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2021.03.26-22.26.23:536][817]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.03.26-22.26.23:536][817]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject
+[2021.03.26-22.26.23:536][817]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\UE_4.25\Engine\Programs\AutomationTool\Saved\Cook-2021.03.26-23.26.23.txt
+[2021.03.26-22.26.23:536][817]UATHelper: Packaging (Windows (64-bit)): Running: D:\UE_4.25\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog=D:\UE_4.25\Engine\Programs\AutomationTool\Saved\Cook-2021.03.26-23.26.23.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.03.26-22.26.23:990][834]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: beatRush_WIN
+[2021.03.26-22.26.26:422][931]UATHelper: Packaging (Windows (64-bit)):   LogSteamShared: Display: Loading Steam SDK 1.47
+[2021.03.26-22.26.26:422][931]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.03.26-22.26.26:422][931]UATHelper: Packaging (Windows (64-bit)):   LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemNULL'  - 0 instances of that module name found.
+[2021.03.26-22.26.26:422][931]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Warning: OSS: TryLoadSubsystemAndSetDefault: LoadSubsystemModule([NULL]) failed
+[2021.03.26-22.26.26:422][931]PackagingResults: Warning: ModuleManager: Unable to load module 'OnlineSubsystemNULL'  - 0 instances of that module name found.
+[2021.03.26-22.26.26:422][931]PackagingResults: Warning: OSS: TryLoadSubsystemAndSetDefault: LoadSubsystemModule([NULL]) failed
+[2021.03.26-22.26.26:457][932]UATHelper: Packaging (Windows (64-bit)):   LogModuleManager: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.26-22.26.26:457][932]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 32 GB [34316877824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.26-22.26.26:457][932]PackagingResults: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.26-22.26.26:838][947]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.26-22.26.26:863][948]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.26-22.26.26:888][949]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.26-22.26.26:888][949]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.26-22.26.26:907][950]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.26-22.26.26:907][950]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.26-22.26.26:927][951]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.26-22.26.26:927][951]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.26-22.26.26:947][952]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.26-22.26.26:947][952]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.26-22.26.26:971][953]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.26-22.26.26:992][954]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.26-22.26.26:992][954]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.26-22.26.27:020][955]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.26-22.26.27:020][955]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.26-22.26.27:045][956]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.26-22.26.27:045][956]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.26-22.26.27:070][957]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.26-22.26.27:071][957]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.26-22.26.27:071][957]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.03.26-22.26.27:115][959]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.26-22.26.27:753][987]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.26-22.26.28:352][ 14]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.26-22.26.28:396][ 16]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SMDex/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.26-22.26.28:422][ 17]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.26-22.26.28:679][ 29]UATHelper: Packaging (Windows (64-bit)):   LogModuleManager: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.26-22.26.28:680][ 29]PackagingResults: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.26-22.26.28:687][ 30]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.26-22.26.28:687][ 30]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.26-22.26.28:687][ 30]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to find object 'Class /Script/AIModule.AIController'
+[2021.03.26-22.26.28:688][ 30]PackagingResults: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.26-22.26.28:688][ 30]PackagingResults: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.26-22.26.28:688][ 30]PackagingResults: Warning: Failed to find object 'Class /Script/AIModule.AIController'
+[2021.03.26-22.26.29:375][ 59]UATHelper: Packaging (Windows (64-bit)):   LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.29:375][ 59]UATHelper: Packaging (Windows (64-bit)):   LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_T.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.29:375][ 59]UATHelper: Packaging (Windows (64-bit)):   LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_TM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.29:375][ 59]PackagingResults: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.29:375][ 59]PackagingResults: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_T.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.29:375][ 59]PackagingResults: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_TM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.29:534][ 67]UATHelper: Packaging (Windows (64-bit)):   LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Constructor
+[2021.03.26-22.26.29:754][ 76]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.03.26-22.26.30:127][ 92]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.26-22.26.30:127][ 92]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 0
+[2021.03.26-22.26.30:127][ 92]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.03.26-22.26.30:346][101]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en, ja, ja-JP, ru
+[2021.03.26-22.26.30:394][103]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Inisetting is different for Windows Engine /Script/GameAnalyticsEditor.GameAnalyticsProjectSettings WindowsBuild 0, value 1.033 != 1.032 invalidating cook
+[2021.03.26-22.26.30:394][103]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Windows.Engine:/Script/GameAnalyticsEditor.GameAnalyticsProjectSettings
+[2021.03.26-22.26.30:395][103]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.03.26-22.26.30:439][105]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.095 seconds for platforms WindowsNoEditor
+[2021.03.26-22.26.33:143][210]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 202 Total 202
+[2021.03.26-22.26.33:434][221]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 201 Total 251
+[2021.03.26-22.26.33:620][229]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 200 Total 300
+[2021.03.26-22.26.34:026][244]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.34:026][244]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.35:346][299]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.35:346][299]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.35:346][299]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.35:346][299]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.35:346][299]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.35:346][299]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.35:346][299]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.35:346][299]PackagingResults: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.36:489][346]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 416 Total 566
+[2021.03.26-22.26.36:856][360]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 200 Packages Remain 417 Total 617
+[2021.03.26-22.26.37:097][370]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 250 Packages Remain 416 Total 666
+[2021.03.26-22.26.37:278][377]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 300 Packages Remain 415 Total 715
+[2021.03.26-22.26.37:472][385]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_FireParticle_02, compiling.
+[2021.03.26-22.26.37:473][385]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Warning: D:\Unreal Projects\beatRush\beatRush_WIN\Content\VFXSeries1\Materials\Energy\M_FireParticle_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.26-22.26.37:473][385]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/VFXSeries1/Textures/T_FireTile_01.T_FireTile_01
+[2021.03.26-22.26.37:473][385]PackagingResults: Warning: 
+[2021.03.26-22.26.37:473][385]PackagingResults: Warning: D:\Unreal Projects\beatRush\beatRush_WIN\Content\VFXSeries1\Materials\Energy\M_FireParticle_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.26-22.26.37:581][389]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 350 Packages Remain 269 Total 619
+[2021.03.26-22.26.38:005][399]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 400 Packages Remain 269 Total 669
+[2021.03.26-22.26.38:482][414]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 447 Packages Remain 268 Total 715
+[2021.03.26-22.26.38:550][415]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 458 Packages Remain 267 Total 725
+[2021.03.26-22.26.38:550][415]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 459 Packages Remain 266 Total 725
+[2021.03.26-22.26.38:550][415]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 459 Packages Remain 254 Total 713
+[2021.03.26-22.26.38:550][415]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 459 Packages Remain 253 Total 712
+[2021.03.26-22.26.38:550][415]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 459 Packages Remain 242 Total 701
+[2021.03.26-22.26.38:810][426]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 480 Packages Remain 26 Total 506
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:904][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:905][430]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:927][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:928][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:929][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:929][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:929][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:929][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:929][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:929][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:935][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:944][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:945][431]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.38:975][432]PackagingResults: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.39:003][433]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 506 Packages Remain 0 Total 506
+[2021.03.26-22.26.39:004][433]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.03.26-22.26.44:024][602]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2021.03.26-22.26.44:024][602]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2021.03.26-22.26.44:024][602]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.03.26-22.26.44:024][602]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.03.26-22.26.44:024][602]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.03.26-22.26.44:075][604]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.03.26-22.26.44:075][604]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2021.03.26-22.26.44:075][604]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.03.26-22.26.44:075][604]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 4353, Total Shaders: 22685
+[2021.03.26-22.26.44:075][604]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 9.06mb, Total Shader Size: 9.06mb
+[2021.03.26-22.26.44:075][604]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.03.26-22.26.44:156][608]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.03.26-22.26.44:178][609]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 503, size is 236.55kb
+[2021.03.26-22.26.44:178][609]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 5.901069s total time 14.068230
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 1740MB Peak Used physical 1544MB
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 2.954s (1)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandbox: 0.095s (1)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.006s (1)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.510s (1)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.001s (1)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 5.897s (33)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 2.513s (32)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.012s (33)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (33)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 3.371s (13)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.001s (537)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.476s (534)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 2.855s (506)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.001s (506)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 2.842s (506)
+[2021.03.26-22.26.44:203][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.004s (506)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (503)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.014s (506)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (10)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.008s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.059s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.056s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.014s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.032s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.008s (1)
+[2021.03.26-22.26.44:204][610]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.03.26-22.26.44:230][611]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.026595s to verify the EDL loading graph.
+[2021.03.26-22.26.44:776][638]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.03.26-22.26.44:776][638]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.03.26-22.26.44:776][638]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.03.26-22.26.44:777][638]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000083
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=143
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=2.945132
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=506
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=2.789376
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.555807
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.320711
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000258
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.002813
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.007685
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000866
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.03.26-22.26.44:812][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.506359
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.677219
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.059731
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=833.469845
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=21.006855
+[2021.03.26-22.26.44:813][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=6.346857
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=14.117366
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.954410
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000010
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=11.104826
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=2.513685
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=2.855090
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.487500
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.019068
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.002188
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000014
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000027
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000004
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      1359
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      1360
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.999265
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.833824
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.165441
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000735
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.41                   0.41             0         10.64
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.30                   0.00             0         89.69
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.13                   0.13             0         60.42
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.03                   0.03             0         81.42
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.02                   0.02             0          2.44
+[2021.03.26-22.26.44:814][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.02                   0.02             0          6.31
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.13
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.00                   0.00             0          0.16
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0        599.55
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemNULL'  - 0 instances of that module name found.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogOnline: Warning: OSS: TryLoadSubsystemAndSetDefault: LoadSubsystemModule([NULL]) failed
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogModuleManager: Warning: ModuleManager: Unable to load module 'ExampleDeviceProfileSelector'  - 0 instances of that module name found.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Script/AIModule': Can't find file.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to find object 'Class /Script/AIModule.AIController'
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_T.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_TM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: While loading '../../../../Unreal Projects/beatRush/beatRush_WIN/Content/BP/BP_ballEnemy.uasset' failed to load '/Game/VFXSeries1/Particles/P_PlasmaGrenadeExplosion': Can't find file.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogMaterial: Warning: D:\Unreal Projects\beatRush\beatRush_WIN\Content\VFXSeries1\Materials\Energy\M_FireParticle_02.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogReflectionCaptureComponent: Warning: /Game/ScifiParticlePack/ParticleRoom contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 91 warning(s)
+[2021.03.26-22.26.44:815][639]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.03.26-22.26.44:816][639]UATHelper: Packaging (Windows (64-bit)):   
+[2021.03.26-22.26.44:816][639]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  14.69 seconds
+[2021.03.26-22.26.45:054][650]UATHelper: Packaging (Windows (64-bit)):   LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Destructor
+[2021.03.26-22.26.45:054][650]UATHelper: Packaging (Windows (64-bit)):   LogGameAnalyticsAnalytics: Display: UGameAnalytics::onQuit()
+[2021.03.26-22.26.45:054][650]UATHelper: Packaging (Windows (64-bit)):   LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics ~FAnalyticsProviderGameAnalytics
+[2021.03.26-22.26.47:131][737]UATHelper: Packaging (Windows (64-bit)): Took 23.5977094s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.03.26-22.26.47:131][737]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.03.26-22.26.47:131][737]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.03.26-22.26.47:225][742]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.03.26-22.26.47:650][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseEditor.ini
+[2021.03.26-22.26.47:650][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseEditorKeyBindings.ini
+[2021.03.26-22.26.47:650][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.03.26-22.26.47:650][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseEditorSettings.ini
+[2021.03.26-22.26.47:650][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BaseLightmass.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\BasePakFileRules.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\ConsoleVariables.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\Category.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\Editor.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\EditorTutorials.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\Engine.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\Keywords.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\PortableObjectExport.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\PortableObjectImport.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\PropertyNames.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\RepairData.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\ToolTips.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\UE_4.25\Engine\Config\Localization\WordCount.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\DefaultEditor.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\DefaultEditorPerProjectUserSettings.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_Compile.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_Export.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_ExportDialogueScript.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_Gather.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_GenerateReports.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_Import.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_ImportDialogue.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\Beat Rush_ImportDialogueScript.ini
+[2021.03.26-22.26.47:651][766]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\beatRush\beatRush_WIN\Config\Localization\RegenerateBeat Rush.ini
+[2021.03.26-22.26.47:900][778]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: D:\Unreal Projects\beatRush\beatRush_WIN\Saved\StagedBuilds\WindowsNoEditor
+[2021.03.26-22.26.48:031][784]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.03.26-22.26.48:466][804]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.03.26-22.26.58:481][295]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)): Output from: "D:\Unreal Projects\beatRush\beatRush_WIN\beatRush_WIN.uproject" "D:\Unreal Projects\beatRush\beatRush_WIN\Saved\StagedBuilds\WindowsNoEditor\beatRush_WIN\Content\Paks\beatRush_WIN-WindowsNoEditor.pak" -create="C:\Users\SMDex\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_4.25\PakList_beatRush_WIN-WindowsNoEditor.txt" -cryptokeys="D:\Unreal Projects\beatRush\beatRush_WIN\Saved\Cooked\WindowsNoEditor\beatRush_WIN\Metadata\Crypto.json" -order="D:\Unreal Projects\beatRush\beatRush_WIN\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -platform=Windows -compressionformats=  -multiprocess -abslog="C:\Users\SMDex\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_4.25\UnrealPak-beatRush_WIN-WindowsNoEditor-2021.03.26-23.26.48.txt"
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\SMDex\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_4.25\PakList_beatRush_WIN-WindowsNoEditor.txt
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 4917 entries to add to pak file.
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file D:\Unreal Projects\beatRush\beatRush_WIN\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file D:\Unreal Projects\beatRush\beatRush_WIN\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 4917 files in 0.03s.
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak D:\Unreal Projects\beatRush\beatRush_WIN\Saved\StagedBuilds\WindowsNoEditor\beatRush_WIN\Content\Paks\beatRush_WIN-WindowsNoEditor.pak.
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: DISABLING pak file index freezing (all must be true: HasPlatformInfo? true - TargetIs64Bit? true - NoRuntimeUnloading? true - Unencrypted? true, 'Windows' != 'Windows')
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 4917 files, 277310882 bytes total, time 10.78s.
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 21.73% of original size. Compressed Size 178366685 bytes, Original Size 820655164 bytes.
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Used compression formats (in priority order) 'Zlib, '
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 10.934576 seconds
+[2021.03.26-22.27.01:473][461]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.03.26-22.27.01:496][462]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: D:\Unreal Projects\beatRush\beatRush_WIN\Saved\StagedBuilds\WindowsNoEditor
+[2021.03.26-22.27.04:788][678]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.03.26-22.27.04:788][678]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.03.26-22.27.04:788][678]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.03.26-22.27.04:788][678]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.03.26-22.27.04:788][678]UATHelper: Packaging (Windows (64-bit)): Archiving to D:/Unreal Projects/beatRush/beatRush_WIN/out
+[2021.03.26-22.27.05:014][690]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.03.26-22.27.05:014][690]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.03.26-22.27.05:014][690]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.03.26-22.27.07:491][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.26-22.44.05:747][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.03.26-22.44.05:780][691]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.05:780][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-22.44.05:785][691]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.05:785][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-22.44.05:836][691]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.05:836][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-22.44.05:840][691]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.05:840][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-22.44.05:881][691]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.05:881][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-22.44.05:906][691]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.05:906][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-22.44.05:932][691]LogSlate: Window 'playerCharacter_BP' being destroyed
+[2021.03.26-22.44.05:936][691]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.05:936][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-22.44.06:520][691]LogSlate: Window 'beatRush_WIN - Unreal Editor' being destroyed
+[2021.03.26-22.44.06:521][691]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.26-22.44.06:669][692]Cmd: QUIT_EDITOR
+[2021.03.26-22.44.06:669][692]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.03.26-22.44.06:676][692]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.03.26-22.44.06:729][692]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.03.26-22.44.06:729][692]LogExit: Preparing to exit.
+[2021.03.26-22.44.06:742][692]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.06:747][692]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.06:751][692]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.06:817][692]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.26-22.44.06:824][692]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-22.44.06:825][692]LogExit: Editor shut down
+[2021.03.26-22.44.06:825][692]LogExit: Transaction tracking system shut down
+[2021.03.26-22.44.07:038][692]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000018139910BC0), frame # 90692
+[2021.03.26-22.44.07:038][692]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000181399616C0), frame # 90692
+[2021.03.26-22.44.07:039][692]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000181398EBA00), frame # 90692
+[2021.03.26-22.44.07:061][692]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001814C4B8400), frame # 90692
+[2021.03.26-22.44.07:061][692]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001812B2FBC40), frame # 90692
+[2021.03.26-22.44.07:146][692]LogExit: Object subsystem successfully closed.
+[2021.03.26-22.44.07:168][692]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module UATHelper (619)
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module LauncherServices (617)
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (615)
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module SequencerWidgets (613)
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (611)
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module BlueprintGraph (609)
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (607)
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module SceneOutliner (605)
+[2021.03.26-22.44.07:175][692]LogModuleManager: Shutting down and abandoning module AddContentDialog (603)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module WidgetCarousel (602)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module EditorWidgets (599)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module StatsViewer (595)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (593)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module FoliageEdit (591)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module LandscapeEditor (589)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module MeshPaintMode (587)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (585)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module ActorPickerMode (583)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (581)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (579)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module SequenceRecorder (577)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module AutomationWorker (575)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module GooglePADEditor (573)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (571)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (569)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (567)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (565)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (563)
+[2021.03.26-22.44.07:176][692]LogModuleManager: Shutting down and abandoning module WebMMedia (561)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module MfMediaFactory (559)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module MfMediaEditor (557)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (555)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module MediaIOEditor (553)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module MediaFrameworkUtilitiesEditor (551)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module TextureAlignMode (549)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module BspMode (547)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module PlacementMode (546)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module GeometryMode (543)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (541)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module SessionServices (539)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module ViewportSnapping (537)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module ViewportInteraction (535)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module ClothPainter (533)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (532)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module LogVisualizer (529)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module IntroTutorials (527)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (526)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (523)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (521)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (519)
+[2021.03.26-22.44.07:177][692]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2021.03.26-22.44.07:313][692]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module TraceInsights (506)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module TraceServices (505)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (502)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (500)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2021.03.26-22.44.07:314][692]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2021.03.26-22.44.07:315][692]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (450)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module Persona (448)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (447)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module AnimGraph (445)
+[2021.03.26-22.44.07:348][692]LogModuleManager: Shutting down and abandoning module Kismet (442)
+[2021.03.26-22.44.07:360][692]LogModuleManager: Shutting down and abandoning module KismetWidgets (441)
+[2021.03.26-22.44.07:360][692]LogModuleManager: Shutting down and abandoning module GraphEditor (438)
+[2021.03.26-22.44.07:360][692]LogModuleManager: Shutting down and abandoning module StructViewer (436)
+[2021.03.26-22.44.07:360][692]LogModuleManager: Shutting down and abandoning module ClassViewer (434)
+[2021.03.26-22.44.07:360][692]LogModuleManager: Shutting down and abandoning module Toolbox (432)
+[2021.03.26-22.44.07:360][692]LogModuleManager: Shutting down and abandoning module ModuleUI (430)
+[2021.03.26-22.44.07:360][692]LogModuleManager: Shutting down and abandoning module SourceControl (428)
+[2021.03.26-22.44.07:360][692]LogModuleManager: Shutting down and abandoning module OutputLog (426)
+[2021.03.26-22.44.07:361][692]LogModuleManager: Shutting down and abandoning module GammaUI (424)
+[2021.03.26-22.44.07:361][692]LogModuleManager: Shutting down and abandoning module Documentation (422)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module LiveCoding (420)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module LevelSequence (418)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (416)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module MovieScene (414)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (412)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module LauncherPlatform (410)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module AnalyticsET (408)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module PortalServices (406)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module PortalRpc (404)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module MessagingRpc (402)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (400)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module AudioMixerCore (399)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module AIModule (396)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module GameplayDebugger (395)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module AITestSuite (393)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module NavigationSystem (391)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (388)
+[2021.03.26-22.44.07:362][692]LogModuleManager: Shutting down and abandoning module ProfilerService (386)
+[2021.03.26-22.44.07:559][692]LogModuleManager: Shutting down and abandoning module TaskGraph (384)
+[2021.03.26-22.44.07:559][692]LogModuleManager: Shutting down and abandoning module SynthesisEditor (382)
+[2021.03.26-22.44.07:559][692]LogModuleManager: Shutting down and abandoning module Synthesis (380)
+[2021.03.26-22.44.07:560][692]LogModuleManager: Shutting down and abandoning module SignalProcessing (379)
+[2021.03.26-22.44.07:560][692]LogModuleManager: Shutting down and abandoning module SteamSockets (376)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module SteamController (374)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module GooglePAD (372)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module AssetTags (370)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module AndroidPermission (368)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module LoginFlow (366)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module PlayTimeLimit (364)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module Rejoin (362)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module Hotfix (360)
+[2021.03.26-22.44.07:561][692]LogModuleManager: Shutting down and abandoning module Lobby (358)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module Party (356)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module Qos (354)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (352)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (350)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module MediaIOCore (348)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module MediaFrameworkUtilities (346)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (344)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module Text3D (342)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (340)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module MeshConversion (338)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module DynamicMesh (336)
+[2021.03.26-22.44.07:562][692]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (334)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module GeometricObjects (332)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (330)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (328)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module ChaosCloth (326)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (320)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (318)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (314)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module beatRush (304)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module GameAnalyticsEditor (302)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module GameAnalytics (300)
+[2021.03.26-22.44.07:563][692]LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Destructor
+[2021.03.26-22.44.07:563][692]LogGameAnalyticsAnalytics: Display: UGameAnalytics::onQuit()
+[2021.03.26-22.44.07:563][692]LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics ~FAnalyticsProviderGameAnalytics
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (298)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module AdvancedSessions (296)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module WebBrowserWidget (294)
+[2021.03.26-22.44.07:563][692]LogModuleManager: Shutting down and abandoning module WebBrowser (293)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module SoundFields (290)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module AnalyticsBlueprintLibrary (284)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (282)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module DataValidation (278)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (276)
+[2021.03.26-22.44.07:590][692]LogModuleManager: Shutting down and abandoning module LevelEditor (275)
+[2021.03.26-22.44.07:591][692]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (274)
+[2021.03.26-22.44.07:591][692]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (272)
+[2021.03.26-22.44.07:591][692]LogModuleManager: Shutting down and abandoning module MainFrame (270)
+[2021.03.26-22.44.07:591][692]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2021.03.26-22.44.07:592][692]LogModuleManager: Shutting down and abandoning module ToolMenus (265)
+[2021.03.26-22.44.07:592][692]LogModuleManager: Shutting down and abandoning module TreeMap (263)
+[2021.03.26-22.44.07:592][692]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (260)
+[2021.03.26-22.44.07:592][692]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (258)
+[2021.03.26-22.44.07:594][692]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (256)
+[2021.03.26-22.44.07:594][692]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (254)
+[2021.03.26-22.44.07:594][692]LogModuleManager: Shutting down and abandoning module PacketHandler (252)
+[2021.03.26-22.44.07:594][692]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (250)
+[2021.03.26-22.44.07:594][692]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (248)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module MediaAssets (246)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module Overlay (244)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module OverlayEditor (243)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module VREditor (240)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module StringTableEditor (238)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (236)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (234)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module FunctionalTesting (232)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (230)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module UMG (228)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module UMGEditor (227)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module MessageLog (225)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module MaterialEditor (223)
+[2021.03.26-22.44.07:595][692]LogModuleManager: Shutting down and abandoning module ContentBrowser (222)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module SlateReflector (214)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module Slate (212)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module SlateCore (210)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (208)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module UnrealEd (206)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module MRMesh (204)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (202)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (200)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module XAudio2 (198)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module Networking (196)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module Core (194)
+[2021.03.26-22.44.07:597][692]LogModuleManager: Shutting down and abandoning module MovieSceneTools (192)
+[2021.03.26-22.44.07:598][692]LogModuleManager: Shutting down and abandoning module CurveEditor (191)
+[2021.03.26-22.44.07:598][692]LogModuleManager: Shutting down and abandoning module Sequencer (189)
+[2021.03.26-22.44.07:598][692]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module MeshBuilder (182)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module PreLoadScreenMoviePlayer (166)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2021.03.26-22.44.07:600][692]LogXGEController: Cleaning working directory: C:/Users/SMDex/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2021.03.26-22.44.07:600][692]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (129)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (127)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (125)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (123)
+[2021.03.26-22.44.07:601][692]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2021.03.26-22.44.07:602][692]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2021.03.26-22.44.07:603][692]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (117)
+[2021.03.26-22.44.07:604][692]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (115)
+[2021.03.26-22.44.07:604][692]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (113)
+[2021.03.26-22.44.07:604][692]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (111)
+[2021.03.26-22.44.07:604][692]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2021.03.26-22.44.07:604][692]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2021.03.26-22.44.07:604][692]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (105)
+[2021.03.26-22.44.07:604][692]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2021.03.26-22.44.07:604][692]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2021.03.26-22.44.07:605][692]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (97)
+[2021.03.26-22.44.07:610][692]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2021.03.26-22.44.07:610][692]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2021.03.26-22.44.07:610][692]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2021.03.26-22.44.07:610][692]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module ChaosSolvers (84)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (83)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module Chaos (80)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (78)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (77)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module AVEncoder (76)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (71)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (69)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (65)
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module SteamShared (62)
+[2021.03.26-22.44.07:611][692]LogSteamShared: Freeing the Steam Loaded Modules...
+[2021.03.26-22.44.07:611][692]LogModuleManager: Shutting down and abandoning module XMPP (59)
+[2021.03.26-22.44.07:612][692]LogModuleManager: Shutting down and abandoning module WebSockets (58)
+[2021.03.26-22.44.07:641][692]LogModuleManager: Shutting down and abandoning module HTTP (55)
+[2021.03.26-22.44.07:641][692]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.03.26-22.44.07:641][692]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B43B4B33F-4EE9-5F95-5C7E-1595548030B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=76877a4e489c6825af91ff97ac77590a%7Cf1c526514f664455ab69f3c909a19601%7C75da16a3-2884-405f-8df4-e310f22e65a8&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.03.26-22.44.07:668][692]LogModuleManager: Shutting down and abandoning module SSL (54)
+[2021.03.26-22.44.07:671][692]LogModuleManager: Shutting down and abandoning module WmfMedia (50)
+[2021.03.26-22.44.07:674][692]LogModuleManager: Shutting down and abandoning module Media (49)
+[2021.03.26-22.44.07:675][692]LogModuleManager: Shutting down and abandoning module OpenCVHelper (46)
+[2021.03.26-22.44.07:676][692]LogModuleManager: Shutting down and abandoning module OpenCVLensDistortion (44)
+[2021.03.26-22.44.07:676][692]LogModuleManager: Shutting down and abandoning module OpenCVLensCalibration (42)
+[2021.03.26-22.44.07:676][692]LogModuleManager: Shutting down and abandoning module DesktopPlatform (40)
+[2021.03.26-22.44.07:676][692]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.03.26-22.44.07:676][692]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.03.26-22.44.07:676][692]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.03.26-22.44.07:676][692]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.03.26-22.44.07:677][692]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.03.26-22.44.07:677][692]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.03.26-22.44.07:677][692]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.03.26-22.44.07:679][692]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.03.26-22.44.07:681][692]LogD3D11RHI: Shutdown
+[2021.03.26-22.44.07:681][692]LogD3D11RHI: CleanupD3DDevice
+[2021.03.26-22.44.07:719][692]LogExit: Exiting.
+[2021.03.26-22.44.07:734][692]Log file closed, 03/26/21 23:44:07
