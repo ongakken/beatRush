@@ -1,6 +1,8 @@
-beatRush/Intermediate/
+beatRush 4.25 - 2/Intermediate/
 beatRush/Saved/
+beatRush 4.25 - 2/Binaries/
 beatRush/Binaries/
+beatRush_WIN/Binaries/
 beatRush/.vs/beatRush/v16/Browse.VC.db
 beatRush/.vs/beatRush/v16/Browse.VC.db
 *.so
@@ -9,3 +11,22 @@ beatRushVR/.vs/beatRush/v16/Browse.VC.db
 *.avi
 beatRush 4.24/.vs/beatRush/v16/Browse.VC.db
 beatRush 4.24/.vs/beatRush/v16/Browse.VC.opendb
+beatRush 4.25 - 2/.vs/beatRush/v16/Browse.VC.db
+beatRush 4.25 - 2/.vs/beatRush/v16/Solution.VC.db
+beatRush_WIN/Intermediate/
+beatRush_WIN/.vs/beatRush_WIN/v16/Browse.VC.db
+beatRush_WIN/.vs/beatRush_WIN/v16/Solution.VC.db
+beatRush_WIN/.vs/beatRush/v16/Browse.VC.db
+beatRush_WIN/.vs/beatRush/v16/ipch/AutoPCH/f5948bbf52cd956d/BEATRUSH.ipch
+beatRush_WIN/.vs/beatRush_WIN/v16/ipch/AutoPCH/875b30cbd1a6545a/BEATRUSH.ipch
+beatRush_WIN/out/win64/WindowsNoEditor/beatRush_WIN/Content/Paks/beatRush_WIN-WindowsNoEditor.pak
+beatRush_WIN/out/linux/LinuxNoEditor/beatRush_WIN/Content/Paks/beatRush_WIN-LinuxNoEditor.pak
+beatRush_WIN/Saved/StagedBuilds/LinuxNoEditor/beatRush_WIN/Content/Paks/beatRush_WIN-LinuxNoEditor.pak
+beatRush_WIN/out/
+beatRush_WIN/Saved/
+*.pak
+beatRush_WIN/Saved/StagedBuilds/WindowsNoEditor/beatRush_WIN/Content/Paks/beatRush_WIN-WindowsNoEditor.pak
+*.ipch
+beatRush_WIN/Content/audio/OST/infinite/dragonsInfinite.uasset
+beatRush_WIN/Content/audio/OST/infinite/dragonsInfinite.wav
+beatRush_WIN/.vs/

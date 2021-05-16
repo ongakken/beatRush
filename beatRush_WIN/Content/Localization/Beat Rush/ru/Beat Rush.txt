@@ -1,0 +1,276 @@
+﻿msgid "They'll cause more damage to your ship ..."
+msgstr "Они нанесут больше урона вашему кораблю ..."
+
+msgid "Survive throughout the music track to advance to a next level ..."
+msgstr "Выживите на протяжении всей музыкальной композиции, чтобы перейти на следующий уровень ..."
+
+msgid "Level 4 - Ecstatic by SMD Technologies"
+msgstr ""
+
+msgid "Buy"
+msgstr "Купить"
+
+msgid "Welcome!"
+msgstr "Добро пожаловать!"
+
+msgid "Please report bugs to beatrush@smdtech.sk"
+msgstr "Пожалуйста, сообщайте об ошибках на beatrush@smdtech.sk"
+
+msgid "Buy"
+msgstr "Купить"
+
+msgid "To survive, you can:"
+msgstr "Чтобы выжить, ты можешь:"
+
+msgid "Simon Slamka"
+msgstr ""
+
+msgid "Level 7 - Dragons by SMD Technologies"
+msgstr ""
+
+msgid "Hi,"
+msgstr ""
+
+msgid "Planning, design, programming, marketing"
+msgstr ""
+
+msgid "Level 8 - by SMD Technologies"
+msgstr ""
+
+msgid "Buy"
+msgstr "Купить"
+
+msgid "Equip"
+msgstr "Экипировать"
+
+msgid "Max. Health: 600 (shielded)"
+msgstr "Макс. Здоровье: 600 (защищено)"
+
+msgid "Return to main menu"
+msgstr "Возврат в главное меню"
+
+msgid "Equip the default ship"
+msgstr "Оборудовать корабль по умолчанию"
+
+msgid "How to play"
+msgstr ""
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Those colorful shining objects are what we call 'points' ..."
+msgstr "Эти красочные сияющие объекты - это мы называем 'очки'..."
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "Monika Mifkovicova"
+msgstr ""
+
+msgid "Cost: 500"
+msgstr "Стоимость: 500"
+
+msgid "Current"
+msgstr "Текущий"
+
+msgid ":"
+msgstr ":"
+
+msgid "Level Chooser"
+msgstr "Выбор уровня"
+
+msgid "Level 5 - Caffeine by SMD Technologies"
+msgstr ""
+
+msgid "Spend 120     "
+msgstr "Потрать 120"
+
+msgid "This action willl clear your save and close your game!"
+msgstr ""
+
+msgid "Level 3 - Great Moments by SMD Technologies"
+msgstr "Уровень 3 - Великие моменты от SMD Technologies"
+
+msgid "Max. Health: 425"
+msgstr "Макс. Здоровье: 425"
+
+msgid "Report issues to beatrush@smdtech.sk"
+msgstr "Сообщать о проблемах по адресу beatrush@smdtech.sk"
+
+msgid "SMD Bluerunner S101"
+msgstr "SMD Bluerunner S101"
+
+msgid "SHOP"
+msgstr "МАГАЗИН"
+
+msgid "Each level will be harder than the previous one ..."
+msgstr "Каждый уровень будет сложнее предыдущего..."
+
+msgid "Shield: Yes"
+msgstr "Щит: Да"
+
+msgid "Resume"
+msgstr "Возобновить"
+
+msgid "Avoid them to survive ..."
+msgstr "Избегайте их, чтобы выжить..."
+
+msgid "Level 6 - Made Clear by Piper Ezz"
+msgstr ""
+
+msgid "About"
+msgstr "О нас"
+
+msgid "0.574"
+msgstr ""
+
+msgid "Cost: 200"
+msgstr "Стоимость: 200"
+
+msgid "Welcome!\r\nIn Beat Rush, your goal is to survive throughout the music track playing in the background.\r\nYou'll play with spaceships, which can be upgraded.\r\nBut it's not going to be that easy!\r\nThere will be obstacles spawning in your way. Colliding with them will cause damage to your ship. Too much damage and ... boooom.\r\nYou will also encounter what we call 'points'. They are shining conical objects.\r\nThey come in 3 colors, according to their function in the game.\r\nAll points replenish some of your health.\r\nThe blue ones are used as a currency in Beat Rush. You can spend them in the Shop.\r\nThe pink ones allow you to jump; 15 pink points = 1 jump.\r\nThe orange ones allow you to regenerate your shield, which you'll unlock with the 3rd ship in the Shop.\r\nEach level will be more difficult than the previous one - more obstacles and higher speed.\r\nColliding with the walls on your sides also damages you - be careful while moving to sides!"
+msgstr ""
+
+msgid "Restart level"
+msgstr "Перезапуск уровня"
+
+msgid "The blue ones serve as currency within the game and restore your health"
+msgstr "Голубые служат валютой в игре и восстанавливают ваше здоровье"
+
+msgid "The other ones restore your abilities"
+msgstr "Другие восстанавливают ваши способности"
+
+msgid "Level:"
+msgstr "Уровень:"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Health:"
+msgstr "Здоровье:"
+
+msgid "Choose a level"
+msgstr "Выберите уровень"
+
+msgid "SMD Speedermatrix S587"
+msgstr "SMD Speedermatrix S587"
+
+msgid "SMD Technologies, Simtoon, Piper Ezz"
+msgstr ""
+
+msgid "Buy shield regeneration module"
+msgstr ""
+
+msgid "Your current level:"
+msgstr "Ваш текущий уровень:"
+
+msgid "EARLY ACCESS DEVELOPMENT VERSION"
+msgstr ""
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Max. Health: 200"
+msgstr "Макс. Здоровье: 200"
+
+msgid "Credits"
+msgstr ""
+
+msgid "You have died!"
+msgstr "Ты умер!"
+
+msgid "Shield: No"
+msgstr "Щит: Нет"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Jumping:"
+msgstr "Прыжки:"
+
+msgid "Level 1, 2 - Beat Rush by SMD Technologies"
+msgstr ""
+
+msgid "User verification failed! Please buy the game ..."
+msgstr ""
+
+msgid "Patrik Nagy"
+msgstr ""
+
+msgid "You can buy stuff in the Shop with them ..."
+msgstr "Ты можешь купить вещи в магазине вместе с ними..."
+
+msgid "Concept art"
+msgstr ""
+
+msgid "Shop"
+msgstr "Магазин"
+
+msgid "EARLY ACCESS"
+msgstr ""
+
+msgid "Cost: 80"
+msgstr "Стоимость: 80"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Beat Rush"
+msgstr "Beat Rush"
+
+msgid "Let's keep this simple ..."
+msgstr "Давайте будем проще..."
+
+msgid "A/D - Move to sides\r\nW/S - Accelerate and decelerate\r\nSpacebar - Jump\r\n4/6 - Change your ship's sliding sensitivity\r\nArrow up/down - Change volume\r\nE - Regenerate your shield"
+msgstr ""
+
+msgid "Buy"
+msgstr "Купить"
+
+msgid "Have fun and thanks for downloading Beat Rush!"
+msgstr "Веселитесь и спасибо за загрузку Beat Rush!"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "SMD Speedermatrix GS78"
+msgstr "SMD Speedermatrix GS78"
+
+msgid "The rocks you see generating ahead are obstacles ..."
+msgstr "Камни, которые вы видите впереди - это препятствия..."
+
+msgid "Music"
+msgstr ""
+
+msgid "Later in the game, more obstacles will begin to appear ..."
+msgstr "Позже в игре появится больше препятствий..."
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Reset progress"
+msgstr "Сброс прогресса"
+
+msgid "Play"
+msgstr "Играть"
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "3D graphics"
+msgstr ""
+
+msgid "How to play"
+msgstr ""
+

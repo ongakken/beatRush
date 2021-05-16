@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GameAnalytics.cpp.obj": [
+			"GameAnalytics.cpp.obj",
+			"UEGameAnalytics.cpp.obj"
+		],
+		"Module.GameAnalytics.gen.cpp.obj": [
+			"GameAnalytics.gen.cpp.obj",
+			"GameAnalytics.init.gen.cpp.obj"
+		]
+	}
+}

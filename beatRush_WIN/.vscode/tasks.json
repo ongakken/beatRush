@@ -1,0 +1,1985 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "beatRush Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Mac Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Mac DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Mac Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Mac Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Mac Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Mac Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Mac",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush IOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush IOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush IOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush IOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush IOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush IOS Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"IOS",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Linux Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Linux DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Linux Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Linux Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush Linux Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush Linux Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"Linux",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush LinuxAArch64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush LinuxAArch64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush LinuxAArch64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush LinuxAArch64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush LinuxAArch64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush LinuxAArch64 Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"LinuxAArch64",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush TVOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush TVOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush TVOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush TVOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush TVOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush TVOS Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"TVOS",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush XXX Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush XXX DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush XXX Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush XXX Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Shipping",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRush XXX Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRush XXX Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRush",
+				"XXX",
+				"Test",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRushEditor Linux Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRushEditor Linux DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRushEditor Linux Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Linux Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Linux",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRushEditor Mac Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"Debug",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRushEditor Mac DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"DebugGame",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"beatRushEditor Mac Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		},
+		{
+			"label": "beatRushEditor Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"beatRushEditor",
+				"Mac",
+				"Development",
+				"/media/hdd/Unreal Projects/beatRush/beatRush_WIN/beatRush_WIN.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/media/hdd/UE4.25-Linux"
+			}
+		}
+	]
+}

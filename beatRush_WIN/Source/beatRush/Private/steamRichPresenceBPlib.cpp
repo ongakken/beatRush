@@ -1,0 +1,63 @@
+// © 2020 - 2021 Ongakken s. r. o. - All rights reserved.
+
+
+#include "steamRichPresenceBPlib.h"
+
+//bool UsteamRichPresenceBPlib::IsSteamAPIRunning() { return SteamAPI_Init(); }
+//
+//bool UsteamRichPresenceBPlib::SetSteamRichPresence(const TMap<FString, FString> Map) {
+//	ClearSteamRichPresence();
+//	if (SteamAPI_Init()) {
+//		ISteamFriends* SteamFriendsInt = SteamFriends();
+//
+//		if (SteamFriendsInt != nullptr) {
+//			bool success = true;
+//			for (auto& Elem : Map) {
+//				if (SteamFriendsInt->SetRichPresence(TCHAR_TO_UTF8(*Elem.Key), TCHAR_TO_UTF8(*Elem.Value)))
+//				{
+//					GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Yellow, TEXT(“Set steam’s rich presence at key ‘” + Elem.Key + “’ to ‘” + Elem.Value + “’”));
+//				}
+//				else {
+//					GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT(“Failed to steam’s rich presence at key ‘” + Elem.Key + “’ to ‘” + Elem.Value + “’”));
+//					success = false;
+//				}
+//			}
+//			if (!success) {
+//				GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT(“Not all rich presence keys were set”));
+//				return false;
+//			}
+//			else {
+//				return true;
+//			}
+//		}
+//		else {
+//
+//			GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT(“SteamFriends() was nullptr”));
+//			return false;
+//		}
+//
+//	}
+//	else {
+//
+//		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT(“Steam API was not running”));
+//		return false;
+//	}
+//}
+//void UsteamRichPresenceBPlib::ClearSteamRichPresence() {
+//	if (SteamAPI_Init()) {
+//		ISteamFriends* SteamFriendsInt = SteamFriends();
+//
+//		if (SteamFriendsInt != nullptr) {
+//
+//			SteamFriendsInt->ClearRichPresence();
+//		}
+//		else {
+//
+//			GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT(“SteamFriends() was nullptr”));
+//		}
+//	}
+//	else {
+//
+//		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT(“Steam API was not running”));
+//	}
+//}
